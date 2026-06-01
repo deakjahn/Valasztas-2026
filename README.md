@@ -76,7 +76,7 @@ A fejléc a két azonosítón kívül az állandóan visszatérő elemeket írja
 ```
 
 A tényleges adatok hierarchiájának legfelső szintjén a vármegyék állnak. Ez alá tartoznak az OEVK-k
-(országgyűlési egyéni választókörzetek). Ezek a néven és kódjukon kívül tartalmazzák a földrajzi középpontjuk
+(országgyűlési egyéni választókerületek). Ezek a néven és kódjukon kívül tartalmazzák a földrajzi középpontjuk
 koordinátáit és a választókerület határát leíró poligon koordináta-sorozatát is.
 
 ```
