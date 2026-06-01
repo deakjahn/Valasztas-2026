@@ -249,8 +249,8 @@ A konvertáló program az `Adatok/Eredeti` mappában levő fájlokat dolgozza fe
 [valasztas.hu ide vonatkozó oldaláról](https://www.valasztas.hu/ogy2026-letoltheto-es-tovabbfeldolgozhato-adatok)
 származik. Az adatok legnagyobb része a
 
-* <vármegye> listás 2026.xls
-* <vármegye> OEVK egyéni 2026.xls
+* `<vármegye> listás 2026.xls`
+* `<vármegye> OEVK egyéni 2026.xls`
 
 fájlpárból kerül ki (a Pest vármegyei listásba kézzel bele kellett javítani, mert a főoldala a többihez képest tartalmaz egy
 felesleges sort).
@@ -259,21 +259,21 @@ Ahogy az elején említettem, a fenti adatok egyáltalán nem tartalmazzák az e
 adathalmazból kell kiemelni. Ez a fájl a [Jelölő szervezetek, jelöltek](https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek?tab=jeloltek)
 oldalról származik (a fájl letöltéskor kap időbélyeget a nevébe, tehát a lenti fájlnév nem stabil):
 
-* jeloltek_20260531.xls
+* `jeloltek_20260531.xls`
 
 Az eredeti formátum CSV, az itt található XLS ahhoz képest már szűrt változat, mert az eredetiben a különféle köztes státuszú
 jelöltek is megtalálhatók, nem csak a választáson végül ténylegesen elindultak.
 
 Az egyes szavazókörök címét egy harmadik adathalmazból kellett kiemelni:
 
-* korzet.xls
+* `korzet.xls`
 
 ráadásul ez — teljesen érthetetlen módon — nem is használja a szavazókörök egyedi azonosítóját, szerencsére ettől még
 az egymáshoz rendelés sikeresen megtörténik.
 
 A térképi megjelenítéshez szükséges adatok egy negyedik fájlból származnak:
 
-* oevk.json
+* `oevk.json`
 
 Az NVI megjelölésével ellentétben ez egyáltalán nem GeoJSON, csak egy sima koordináta-pár és -lista.
 
@@ -281,12 +281,12 @@ Az NVI megjelölésével ellentétben ez egyáltalán nem GeoJSON, csak egy sima
 
 Az egyértelműen fontos kimenet az
 
-* ogy2026.json
+* `ogy2026.json`
 
 fájl, amely a választás teljes adatanyagát tartalmazza. Mivel a feldolgozás során amúgy is elő kellett állítani,
 a program lementi az
 
-* ogy2026_jeloltek.json
+* `ogy2026_jeloltek.json`
 
 fájlt is, amelyben a jelöltek adatai találhatók. A kulcs — a névegyezésekből eredő ütközések elkerülésére —
 a _név|vármegye|OEVK_ kombinációból áll. A neveken semmilyen átalakítás nem történt, minden úgy maradt, beleértve a
