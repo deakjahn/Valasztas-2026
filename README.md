@@ -100,6 +100,7 @@ hivatkoznak vissza a jelöltekre):
             "1": {
               "code": 1,
               "name": "HERFORT MARIETTA",
+              "name2": "Herfort Marietta",
               "county": "01",
               "oevk": "01",
               "party": "DK"
@@ -108,6 +109,7 @@ hivatkoznak vissza a jelöltekre):
             "6": {
               "code": 6,
               "name": "TANÁCS ZOLTÁN",
+              "name2": "Tanács Zoltán",
               "county": "01",
               "oevk": "01",
               "party": "TISZA"
@@ -129,7 +131,9 @@ rubrikáira és jelmagyarázatára utalnak:
               "code": "01-001-001-5",
               "oevk": "01",
               "settlement": "Budapest I. kerület",
-              "address": "Bartók Béla út 27. (Gárdonyi Géza Ált. Isk.)",
+              "description": "Bartók Béla út 27. (Gárdonyi Géza Ált. Isk.)",
+              "name": "Gárdonyi Géza Ált. Isk.",
+              "address": "Bartók Béla út 27.",
               "absentee": 0, // C = Külképviseleti névjegyzékben lévő választópolgárok száma
               "transfer": 0, // B = Az átjelentkezett választópolgárok száma
               "voters": 1156, // E = Választópolgárok száma összesen
@@ -234,7 +238,9 @@ A szavazókör adatainak végeztével jön a következő:
               "code": "01-001-002-1",
               "oevk": "01",
               "settlement": "Budapest I. kerület",
-              "address": "Bocskai út 47-49. (Bocskai István Ált. Isk.)",
+              "description": "Bocskai út 47-49. (Bocskai István Ált. Isk.)",
+              "name": "Bocskai István Ált. Isk.",
+              "address": "Bocskai út 47-49.",
               "absentee": 0,
               "transfer": 0,
               "envelope": 0,

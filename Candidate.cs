@@ -1,13 +1,19 @@
 ﻿using System.Data;
+using System.Globalization;
 using System.Text.Json.Serialization;
 
 namespace Választás_2026 {
   internal class Candidate(int code, string name) {
+    static TextInfo Hungarian = new CultureInfo("hu-HU", false).TextInfo;
+
     [JsonPropertyName("code")]
     public int Code { get; set; } = code;
 
     [JsonPropertyName("name")]
     public string Name { get; set; } = name;
+
+    [JsonPropertyName("name2")]
+    public string Name2 => Hungarian.ToTitleCase(Hungarian.ToLower(Name));
 
     [JsonPropertyName("county")]
     public string County { get; set; } = string.Empty;

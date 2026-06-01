@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using System.Diagnostics;
+using System.Globalization;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
@@ -7,6 +8,7 @@ using ExcelDataReader;
 
 namespace Választás_2026 {
   class Program {
+    static TextInfo Hungarian = new CultureInfo("hu-HU", false).TextInfo;
     static string InputFolder = string.Empty;
     static string OutputFolder = string.Empty;
 
@@ -141,7 +143,7 @@ namespace Választás_2026 {
 
     private static void ProcessPollingStations(DataTable table) {
       foreach (var row in table.Rows.Cast<DataRow>().Skip(6)) {
-        string County = Candidate.GetCounty(row.CellString(0).ToUpperInvariant());
+        string County = Candidate.GetCounty(Hungarian.ToUpper(row.CellString(0)));
         string Id = row.CellString(2);
         string OEVK = row.CellString(3);
         string Key = $"{County}|{OEVK}|{Id}";
@@ -172,7 +174,7 @@ namespace Választás_2026 {
 
           Key = $"{county.Code}|{OEVK.Code}|{station.Id}";
           if (StationAddresses.TryGetValue(Key, out string? value))
-            station.Address = value;
+            station.Description = value;
           else
             throw new DataException($"Ismeretlen szavazókör: {Key}");
 

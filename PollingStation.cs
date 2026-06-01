@@ -1,8 +1,9 @@
 ﻿using System.Data;
 using System.Text.Json.Serialization;
+using System.Text.RegularExpressions;
 
 namespace Választás_2026 {
-  internal class PollingStation(string code, string oevk) : BallotStats {
+  internal partial class PollingStation(string code, string oevk) : BallotStats {
     [JsonPropertyName("code")]
     public string Code { get; set; } = code;
 
@@ -22,8 +23,14 @@ namespace Választás_2026 {
     [JsonPropertyName("settlement")]
     public string Settlement { get; set; } = string.Empty;
 
+    [JsonPropertyName("description")]
+    public string Description { get; set; } = string.Empty;
+
+    [JsonPropertyName("name")]
+    public string Name => NamePart().Match(Description).Value;
+
     [JsonPropertyName("address")]
-    public string? Address { get; set; } = null;
+    public string Address => AddressPart().Match(Description).Value;
 
     [JsonPropertyName("absentee")]
     public int Absentee { get; set; } = 0;
@@ -123,5 +130,11 @@ namespace Választás_2026 {
           Nationalities.Votes[nationality] = vote;
       }
     }
+
+    [GeneratedRegex(@"(?<=\().+?(?=\))")]
+    private static partial Regex NamePart();
+
+    [GeneratedRegex(@"^.*?(?=\s*\()")]
+    private static partial Regex AddressPart();
   }
 }
