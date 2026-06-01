@@ -1,0 +1,4475 @@
+{
+  "ABDALLAH-MAGDY SZABRINA|02|04": {
+    "code": 0,
+    "name": "ABDALLAH-MAGDY SZABRINA",
+    "county": "02",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "ÁBRAHÁM BARNABÁS|12|03": {
+    "code": 0,
+    "name": "ÁBRAHÁM BARNABÁS",
+    "county": "12",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "ÁCS JÓZSEF|02|04": {
+    "code": 0,
+    "name": "ÁCS JÓZSEF",
+    "county": "02",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "ÁDÁM EMESE|14|05": {
+    "code": 0,
+    "name": "ÁDÁM EMESE",
+    "county": "14",
+    "oevk": "05",
+    "party": "MKKP"
+  },
+  "ADAMASKY LŐRINC|07|04": {
+    "code": 0,
+    "name": "ADAMASKY LŐRINC",
+    "county": "07",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "ADORJÁN BÉLA|16|04": {
+    "code": 0,
+    "name": "ADORJÁN BÉLA",
+    "county": "16",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "ÁGH PÉTER|18|02": {
+    "code": 0,
+    "name": "ÁGH PÉTER",
+    "county": "18",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "ANDER BALÁZS|15|02": {
+    "code": 0,
+    "name": "ANDER BALÁZS",
+    "county": "15",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "ANDRÁS KÁROLY|03|01": {
+    "code": 0,
+    "name": "ANDRÁS KÁROLY",
+    "county": "03",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "ANTAL SZABOLCS|09|03": {
+    "code": 0,
+    "name": "ANTAL SZABOLCS",
+    "county": "09",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. APÁTI ISTVÁN|16|05": {
+    "code": 0,
+    "name": "DR. APÁTI ISTVÁN",
+    "county": "16",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "ARATÓ GERGELY|01|07": {
+    "code": 0,
+    "name": "ARATÓ GERGELY",
+    "county": "01",
+    "oevk": "07",
+    "party": "DK"
+  },
+  "DR. ÁRVAY NIKOLETT|12|03": {
+    "code": 0,
+    "name": "DR. ÁRVAY NIKOLETT",
+    "county": "12",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "AUTH ISTVÁN|02|01": {
+    "code": 0,
+    "name": "AUTH ISTVÁN",
+    "county": "02",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "BACSIKNÉ SZIGETI GABRIELLA|16|01": {
+    "code": 0,
+    "name": "BACSIKNÉ SZIGETI GABRIELLA",
+    "county": "16",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "BAGDI PIROSKA JUDIT|05|03": {
+    "code": 0,
+    "name": "BAGDI PIROSKA JUDIT",
+    "county": "05",
+    "oevk": "03",
+    "party": null
+  },
+  "BAGI REA|04|01": {
+    "code": 0,
+    "name": "BAGI REA",
+    "county": "04",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "BAGYURA MÁRTON|02|02": {
+    "code": 0,
+    "name": "BAGYURA MÁRTON",
+    "county": "02",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "BAJNOK GYULA|13|01": {
+    "code": 0,
+    "name": "BAJNOK GYULA",
+    "county": "13",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "BAKAI-NAGY ZITA|15|04": {
+    "code": 0,
+    "name": "BAKAI-NAGY ZITA",
+    "county": "15",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "BAKK ISTVÁN|19|03": {
+    "code": 0,
+    "name": "BAKK ISTVÁN",
+    "county": "19",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "BAKÓ JÓZSEF ISTVÁN|16|02": {
+    "code": 0,
+    "name": "BAKÓ JÓZSEF ISTVÁN",
+    "county": "16",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "BAKÓ NORBERT|17|01": {
+    "code": 0,
+    "name": "BAKÓ NORBERT",
+    "county": "17",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "BAKOS CSABA ATTILA|15|03": {
+    "code": 0,
+    "name": "BAKOS CSABA ATTILA",
+    "county": "15",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BALAJTI ISTVÁN|14|08": {
+    "code": 0,
+    "name": "BALAJTI ISTVÁN",
+    "county": "14",
+    "oevk": "08",
+    "party": "TISZA"
+  },
+  "BALANYI ISTVÁN|03|02": {
+    "code": 0,
+    "name": "BALANYI ISTVÁN",
+    "county": "03",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "DR. BALATINCZ PÉTER|19|03": {
+    "code": 0,
+    "name": "DR. BALATINCZ PÉTER",
+    "county": "19",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BALLA MIHÁLY|13|02": {
+    "code": 0,
+    "name": "BALLA MIHÁLY",
+    "county": "13",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "BALLA PÉTER|10|01": {
+    "code": 0,
+    "name": "BALLA PÉTER",
+    "county": "10",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "BALOG CSABA|01|12": {
+    "code": 0,
+    "name": "BALOG CSABA",
+    "county": "01",
+    "oevk": "12",
+    "party": "Mi Hazánk"
+  },
+  "BALOGH IMRE ATTILÁNÉ|11|01": {
+    "code": 0,
+    "name": "BALOGH IMRE ATTILÁNÉ",
+    "county": "11",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "BALOGHNÉ RUSZNYÁK SAROLTA|05|05": {
+    "code": 0,
+    "name": "BALOGHNÉ RUSZNYÁK SAROLTA",
+    "county": "05",
+    "oevk": "05",
+    "party": null
+  },
+  "BÁNNÉ DR. GÁL BOGLÁRKA|05|05": {
+    "code": 0,
+    "name": "BÁNNÉ DR. GÁL BOGLÁRKA",
+    "county": "05",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "BÁNYAI AMIR ATTILA|01|16": {
+    "code": 0,
+    "name": "BÁNYAI AMIR ATTILA",
+    "county": "01",
+    "oevk": "16",
+    "party": "DK"
+  },
+  "BÁNYAI GÁBOR|03|05": {
+    "code": 0,
+    "name": "BÁNYAI GÁBOR",
+    "county": "03",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "BARABÁS GYÖRGY LÁSZLÓ|01|03": {
+    "code": 0,
+    "name": "BARABÁS GYÖRGY LÁSZLÓ",
+    "county": "01",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "DR. BARCZA ATTILA|08|04": {
+    "code": 0,
+    "name": "DR. BARCZA ATTILA",
+    "county": "08",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. BARCSA LAJOS|09|01": {
+    "code": 0,
+    "name": "DR. BARCSA LAJOS",
+    "county": "09",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "BÁRKÁNYI BENCE|06|03": {
+    "code": 0,
+    "name": "BÁRKÁNYI BENCE",
+    "county": "06",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BARKÓCZI BALÁZS|01|13": {
+    "code": 0,
+    "name": "BARKÓCZI BALÁZS",
+    "county": "01",
+    "oevk": "13",
+    "party": "DK"
+  },
+  "DR. BARNA-SZABÓ TÍMEA|16|06": {
+    "code": 0,
+    "name": "DR. BARNA-SZABÓ TÍMEA",
+    "county": "16",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "BARTAL ANDRÁS|01|13": {
+    "code": 0,
+    "name": "BARTAL ANDRÁS",
+    "county": "01",
+    "oevk": "13",
+    "party": "Mi Hazánk"
+  },
+  "BARTHA BARNA|14|14": {
+    "code": 0,
+    "name": "BARTHA BARNA",
+    "county": "14",
+    "oevk": "14",
+    "party": "Mi Hazánk"
+  },
+  "BECSÓ ZSOLT|13|01": {
+    "code": 0,
+    "name": "BECSÓ ZSOLT",
+    "county": "13",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. BEKE ERZSÉBET|02|04": {
+    "code": 0,
+    "name": "DR. BEKE ERZSÉBET",
+    "county": "02",
+    "oevk": "04",
+    "party": "Szentkorona"
+  },
+  "BÉKÉSI SÁNDOR|04|04": {
+    "code": 0,
+    "name": "BÉKÉSI SÁNDOR",
+    "county": "04",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "BENCZE GÁBORNÉ|08|01": {
+    "code": 0,
+    "name": "BENCZE GÁBORNÉ",
+    "county": "08",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "BENCSIK JÁNOS|12|01": {
+    "code": 0,
+    "name": "BENCSIK JÁNOS",
+    "county": "12",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "BENKE JÓZSEF|15|02": {
+    "code": 0,
+    "name": "BENKE JÓZSEF",
+    "county": "15",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "BERECZKI MIKLÓS|01|16": {
+    "code": 0,
+    "name": "BERECZKI MIKLÓS",
+    "county": "01",
+    "oevk": "16",
+    "party": null
+  },
+  "BERÉNYI GÁBOR|07|04": {
+    "code": 0,
+    "name": "BERÉNYI GÁBOR",
+    "county": "07",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "BÉRES BALÁZS ÁKOS|09|04": {
+    "code": 0,
+    "name": "BÉRES BALÁZS ÁKOS",
+    "county": "09",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "BERKÓ ATTILA|11|01": {
+    "code": 0,
+    "name": "BERKÓ ATTILA",
+    "county": "11",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. BIHARI ZOLTÁN|05|06": {
+    "code": 0,
+    "name": "DR. BIHARI ZOLTÁN",
+    "county": "05",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "DR. BILISICS ZITA|14|09": {
+    "code": 0,
+    "name": "DR. BILISICS ZITA",
+    "county": "14",
+    "oevk": "09",
+    "party": "TISZA"
+  },
+  "BINDER CSABA|01|04": {
+    "code": 0,
+    "name": "BINDER CSABA",
+    "county": "01",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "BLAU SÁNDOR|10|01": {
+    "code": 0,
+    "name": "BLAU SÁNDOR",
+    "county": "10",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "BLAU VIRÁG|05|02": {
+    "code": 0,
+    "name": "BLAU VIRÁG",
+    "county": "05",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "BODA BÁNK|12|01": {
+    "code": 0,
+    "name": "BODA BÁNK",
+    "county": "12",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "BODA NIKOLETTA|01|11": {
+    "code": 0,
+    "name": "BODA NIKOLETTA",
+    "county": "01",
+    "oevk": "11",
+    "party": "TISZA"
+  },
+  "BODÁCS KÁROLY|08|02": {
+    "code": 0,
+    "name": "BODÁCS KÁROLY",
+    "county": "08",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "BÓDI CSABA BENDEGÚZ|11|02": {
+    "code": 0,
+    "name": "BÓDI CSABA BENDEGÚZ",
+    "county": "11",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "BÓDIS KRISZTA|01|02": {
+    "code": 0,
+    "name": "BÓDIS KRISZTA",
+    "county": "01",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "DR. BÓDIS PÉTER|10|01": {
+    "code": 0,
+    "name": "DR. BÓDIS PÉTER",
+    "county": "10",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "BODÓ LÁSZLÓ|20|03": {
+    "code": 0,
+    "name": "BODÓ LÁSZLÓ",
+    "county": "20",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "BODÓ SÁNDOR|09|05": {
+    "code": 0,
+    "name": "BODÓ SÁNDOR",
+    "county": "09",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "BODÓCZI ISTVÁN|04|01": {
+    "code": 0,
+    "name": "BODÓCZI ISTVÁN",
+    "county": "04",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "DR. BOGNÁR LÁSZLÓ|14|05": {
+    "code": 0,
+    "name": "DR. BOGNÁR LÁSZLÓ",
+    "county": "14",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "BOKÁNYI BERTOLD|07|02": {
+    "code": 0,
+    "name": "BOKÁNYI BERTOLD",
+    "county": "07",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "BOLBÁS ILDIKÓ|14|06": {
+    "code": 0,
+    "name": "BOLBÁS ILDIKÓ",
+    "county": "14",
+    "oevk": "06",
+    "party": "MKKP"
+  },
+  "BOMBICZ TAMÁS|01|14": {
+    "code": 0,
+    "name": "BOMBICZ TAMÁS",
+    "county": "01",
+    "oevk": "14",
+    "party": "MKKP"
+  },
+  "BÓNA SZABOLCS|08|03": {
+    "code": 0,
+    "name": "BÓNA SZABOLCS",
+    "county": "08",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BÓNA ZOLTÁN|14|09": {
+    "code": 0,
+    "name": "BÓNA ZOLTÁN",
+    "county": "14",
+    "oevk": "09",
+    "party": "FIDESZ-KDNP"
+  },
+  "BORICS MIHÁLY|07|02": {
+    "code": 0,
+    "name": "BORICS MIHÁLY",
+    "county": "07",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "BORKUTI BÁLINT|01|13": {
+    "code": 0,
+    "name": "BORKUTI BÁLINT",
+    "county": "01",
+    "oevk": "13",
+    "party": "MKKP"
+  },
+  "BOROS DÁNIEL|14|01": {
+    "code": 0,
+    "name": "BOROS DÁNIEL",
+    "county": "14",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "DR. BORVENDÉG ZSUZSANNA|14|03": {
+    "code": 0,
+    "name": "DR. BORVENDÉG ZSUZSANNA",
+    "county": "14",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "BOTLÓ KORNÉL|14|10": {
+    "code": 0,
+    "name": "BOTLÓ KORNÉL",
+    "county": "14",
+    "oevk": "10",
+    "party": "Mi Hazánk"
+  },
+  "DR. BÖGI VIKTÓRIA|07|03": {
+    "code": 0,
+    "name": "DR. BÖGI VIKTÓRIA",
+    "county": "07",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BÖJTE ZITA|14|05": {
+    "code": 0,
+    "name": "BÖJTE ZITA",
+    "county": "14",
+    "oevk": "05",
+    "party": "Jobbik"
+  },
+  "BUCZKÓ RÉKA|19|01": {
+    "code": 0,
+    "name": "BUCZKÓ RÉKA",
+    "county": "19",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "DR. BUGYA LÁSZLÓ|16|05": {
+    "code": 0,
+    "name": "DR. BUGYA LÁSZLÓ",
+    "county": "16",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "BUJDOSÓ ANDREA ANNA|14|03": {
+    "code": 0,
+    "name": "BUJDOSÓ ANDREA ANNA",
+    "county": "14",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "BURAI ERIKA|11|03": {
+    "code": 0,
+    "name": "BURAI ERIKA",
+    "county": "11",
+    "oevk": "03",
+    "party": null
+  },
+  "BÜRGER ZOLTÁN|01|03": {
+    "code": 0,
+    "name": "BÜRGER ZOLTÁN",
+    "county": "01",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "CZEGLÉDI JÁNOS|01|07": {
+    "code": 0,
+    "name": "CZEGLÉDI JÁNOS",
+    "county": "01",
+    "oevk": "07",
+    "party": "Mi Hazánk"
+  },
+  "DR. CZIPA ANDRÁS|05|02": {
+    "code": 0,
+    "name": "DR. CZIPA ANDRÁS",
+    "county": "05",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "DR. CZIRÁKI ATTILA|02|01": {
+    "code": 0,
+    "name": "DR. CZIRÁKI ATTILA",
+    "county": "02",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "CZIRBUS GÁBOR|06|04": {
+    "code": 0,
+    "name": "CZIRBUS GÁBOR",
+    "county": "06",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. CZUCZOR GERGELY|14|02": {
+    "code": 0,
+    "name": "DR. CZUCZOR GERGELY",
+    "county": "14",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "CZUNYINÉ DR. BERTALAN JUDIT|12|03": {
+    "code": 0,
+    "name": "CZUNYINÉ DR. BERTALAN JUDIT",
+    "county": "12",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "CSÁK LÁSZLÓ|09|03": {
+    "code": 0,
+    "name": "CSÁK LÁSZLÓ",
+    "county": "09",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "CSÁRDI ANTAL|01|02": {
+    "code": 0,
+    "name": "CSÁRDI ANTAL",
+    "county": "01",
+    "oevk": "02",
+    "party": null
+  },
+  "CSATÁRI ERNŐ|15|04": {
+    "code": 0,
+    "name": "CSATÁRI ERNŐ",
+    "county": "15",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "CSATÓ DÁNIEL|17|02": {
+    "code": 0,
+    "name": "CSATÓ DÁNIEL",
+    "county": "17",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "CSEFKÓ BALÁZS|09|05": {
+    "code": 0,
+    "name": "CSEFKÓ BALÁZS",
+    "county": "09",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "CSEH TAMÁS|17|03": {
+    "code": 0,
+    "name": "CSEH TAMÁS",
+    "county": "17",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "CSEH TAMÁS|03|02": {
+    "code": 0,
+    "name": "CSEH TAMÁS",
+    "county": "03",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "CSERESNYÉS PÉTER|20|03": {
+    "code": 0,
+    "name": "CSERESNYÉS PÉTER",
+    "county": "20",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "CSÉZI ERZSÉBET|05|07": {
+    "code": 0,
+    "name": "CSÉZI ERZSÉBET",
+    "county": "05",
+    "oevk": "07",
+    "party": "TISZA"
+  },
+  "DR. CSIBI KRISZTINA|17|02": {
+    "code": 0,
+    "name": "DR. CSIBI KRISZTINA",
+    "county": "17",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "CSIGE TAMÁS|09|06": {
+    "code": 0,
+    "name": "CSIGE TAMÁS",
+    "county": "09",
+    "oevk": "06",
+    "party": "DK"
+  },
+  "CSIKÓS BOTOND|04|02": {
+    "code": 0,
+    "name": "CSIKÓS BOTOND",
+    "county": "04",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "CSISZÁR BÉLA|07|01": {
+    "code": 0,
+    "name": "CSISZÁR BÉLA",
+    "county": "07",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "CSIZMADIA CSEKE|14|10": {
+    "code": 0,
+    "name": "CSIZMADIA CSEKE",
+    "county": "14",
+    "oevk": "10",
+    "party": "MKKP"
+  },
+  "CSOMA KRISZTIÁN|08|05": {
+    "code": 0,
+    "name": "CSOMA KRISZTIÁN",
+    "county": "08",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "CSONTOS BENCE|03|06": {
+    "code": 0,
+    "name": "CSONTOS BENCE",
+    "county": "03",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "CSÖBÖR KATALIN|05|01": {
+    "code": 0,
+    "name": "CSÖBÖR KATALIN",
+    "county": "05",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "CSŐSZI ATTILA|03|01": {
+    "code": 0,
+    "name": "CSŐSZI ATTILA",
+    "county": "03",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "DR. CSUZDA GÁBOR|05|03": {
+    "code": 0,
+    "name": "DR. CSUZDA GÁBOR",
+    "county": "05",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "D. KOVÁCS RÓBERT ANTAL|01|07": {
+    "code": 0,
+    "name": "D. KOVÁCS RÓBERT ANTAL",
+    "county": "01",
+    "oevk": "07",
+    "party": "FIDESZ-KDNP"
+  },
+  "DALA FERENC|18|02": {
+    "code": 0,
+    "name": "DALA FERENC",
+    "county": "18",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "DANKA DÁVID|14|02": {
+    "code": 0,
+    "name": "DANKA DÁVID",
+    "county": "14",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "DR. DANKA LAJOS|18|01": {
+    "code": 0,
+    "name": "DR. DANKA LAJOS",
+    "county": "18",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "DANKÓ BÉLA|04|02": {
+    "code": 0,
+    "name": "DANKÓ BÉLA",
+    "county": "04",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "DARÓCZI ZOLTÁN|01|14": {
+    "code": 0,
+    "name": "DARÓCZI ZOLTÁN",
+    "county": "01",
+    "oevk": "14",
+    "party": null
+  },
+  "DEÁK BALÁZS|14|03": {
+    "code": 0,
+    "name": "DEÁK BALÁZS",
+    "county": "14",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "DEÁK GÁBOR|18|02": {
+    "code": 0,
+    "name": "DEÁK GÁBOR",
+    "county": "18",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "DEÁK LAJOS|18|03": {
+    "code": 0,
+    "name": "DEÁK LAJOS",
+    "county": "18",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "DELINÉ GRÁCZ GRÉTA|15|04": {
+    "code": 0,
+    "name": "DELINÉ GRÁCZ GRÉTA",
+    "county": "15",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DEMETER ZOLTÁN|05|04": {
+    "code": 0,
+    "name": "DEMETER ZOLTÁN",
+    "county": "05",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "DÉNES ISTVÁN|02|02": {
+    "code": 0,
+    "name": "DÉNES ISTVÁN",
+    "county": "02",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "DICSŐ VIKTÓRIA|16|03": {
+    "code": 0,
+    "name": "DICSŐ VIKTÓRIA",
+    "county": "16",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "DIÓSZEGI JUDIT|08|01": {
+    "code": 0,
+    "name": "DIÓSZEGI JUDIT",
+    "county": "08",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "DOBOS ERZSÉBET|17|03": {
+    "code": 0,
+    "name": "DOBOS ERZSÉBET",
+    "county": "17",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "DÓCS DÁVID|13|02": {
+    "code": 0,
+    "name": "DÓCS DÁVID",
+    "county": "13",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "DOHÁNY ANDRÁS|05|02": {
+    "code": 0,
+    "name": "DOHÁNY ANDRÁS",
+    "county": "05",
+    "oevk": "02",
+    "party": null
+  },
+  "DOHÁNYNÉ VARRÓ ANNA|05|01": {
+    "code": 0,
+    "name": "DOHÁNYNÉ VARRÓ ANNA",
+    "county": "05",
+    "oevk": "01",
+    "party": null
+  },
+  "DOHI KITTI ERIKA|03|05": {
+    "code": 0,
+    "name": "DOHI KITTI ERIKA",
+    "county": "03",
+    "oevk": "05",
+    "party": "Munkáspárt"
+  },
+  "DOMJÁN ÁKOS DONÁT|19|04": {
+    "code": 0,
+    "name": "DOMJÁN ÁKOS DONÁT",
+    "county": "19",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "DOMOKOS ZSUZSANNA|16|05": {
+    "code": 0,
+    "name": "DOMOKOS ZSUZSANNA",
+    "county": "16",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "DOROGI GYULA|14|10": {
+    "code": 0,
+    "name": "DOROGI GYULA",
+    "county": "14",
+    "oevk": "10",
+    "party": "Munkáspárt"
+  },
+  "DÓSA FERENC|15|02": {
+    "code": 0,
+    "name": "DÓSA FERENC",
+    "county": "15",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "DÖME ZSUZSANNA|05|03": {
+    "code": 0,
+    "name": "DÖME ZSUZSANNA",
+    "county": "05",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "DUDÁS RÓBERT|10|02": {
+    "code": 0,
+    "name": "DUDÁS RÓBERT",
+    "county": "10",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "DUNAI MÓNIKA|01|15": {
+    "code": 0,
+    "name": "DUNAI MÓNIKA",
+    "county": "01",
+    "oevk": "15",
+    "party": "FIDESZ-KDNP"
+  },
+  "DÚRÓ DÓRA|17|02": {
+    "code": 0,
+    "name": "DÚRÓ DÓRA",
+    "county": "17",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "ÉBERLING BALÁZS|03|06": {
+    "code": 0,
+    "name": "ÉBERLING BALÁZS",
+    "county": "03",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "EDŐCS BEÁTA|01|05": {
+    "code": 0,
+    "name": "EDŐCS BEÁTA",
+    "county": "01",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "ENDRE BÉLA|03|04": {
+    "code": 0,
+    "name": "ENDRE BÉLA",
+    "county": "03",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "ERDÉLYI ÁKOS|15|01": {
+    "code": 0,
+    "name": "ERDÉLYI ÁKOS",
+    "county": "15",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "ERDŐS NORBERT|04|04": {
+    "code": 0,
+    "name": "ERDŐS NORBERT",
+    "county": "04",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "ERŐS GÁBOR|12|02": {
+    "code": 0,
+    "name": "ERŐS GÁBOR",
+    "county": "12",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "F. KOVÁCS SÁNDOR|11|03": {
+    "code": 0,
+    "name": "F. KOVÁCS SÁNDOR",
+    "county": "11",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "FÁBIÁN ÁRON BENDE|12|02": {
+    "code": 0,
+    "name": "FÁBIÁN ÁRON BENDE",
+    "county": "12",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "FARKAS ATTILA|20|01": {
+    "code": 0,
+    "name": "FARKAS ATTILA",
+    "county": "20",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "DR. FARKAS CSONGOR|11|04": {
+    "code": 0,
+    "name": "DR. FARKAS CSONGOR",
+    "county": "11",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "FARKAS DÁVID|05|01": {
+    "code": 0,
+    "name": "FARKAS DÁVID",
+    "county": "05",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "FARKAS KÁLMÁN|16|06": {
+    "code": 0,
+    "name": "FARKAS KÁLMÁN",
+    "county": "16",
+    "oevk": "06",
+    "party": "DK"
+  },
+  "FARKAS LÁSZLÓ|17|01": {
+    "code": 0,
+    "name": "FARKAS LÁSZLÓ",
+    "county": "17",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "DR. FARKAS LEVENTE|06|01": {
+    "code": 0,
+    "name": "DR. FARKAS LEVENTE",
+    "county": "06",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "FARKAS TÍMEA|01|15": {
+    "code": 0,
+    "name": "FARKAS TÍMEA",
+    "county": "01",
+    "oevk": "15",
+    "party": "NÉP"
+  },
+  "FAZAKAS ATTILA|07|02": {
+    "code": 0,
+    "name": "FAZAKAS ATTILA",
+    "county": "07",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "FAZEKAS CSILLA|01|01": {
+    "code": 0,
+    "name": "FAZEKAS CSILLA",
+    "county": "01",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "FEHÉR BENJÁMIN|11|03": {
+    "code": 0,
+    "name": "FEHÉR BENJÁMIN",
+    "county": "11",
+    "oevk": "03",
+    "party": "KÁP"
+  },
+  "FEJES TIBOR|04|03": {
+    "code": 0,
+    "name": "FEJES TIBOR",
+    "county": "04",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "FEKETE BÉLA|16|03": {
+    "code": 0,
+    "name": "FEKETE BÉLA",
+    "county": "16",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "DR. FEKETE DÁVID|08|02": {
+    "code": 0,
+    "name": "DR. FEKETE DÁVID",
+    "county": "08",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "FEKETE GYÖRGY|01|08": {
+    "code": 0,
+    "name": "FEKETE GYÖRGY",
+    "county": "01",
+    "oevk": "08",
+    "party": "Mi Hazánk"
+  },
+  "FELDMAN LÁSZLÓ|14|13": {
+    "code": 0,
+    "name": "FELDMAN LÁSZLÓ",
+    "county": "14",
+    "oevk": "13",
+    "party": "FIDESZ-KDNP"
+  },
+  "FENYVES DÁVID GYÖRGY|15|04": {
+    "code": 0,
+    "name": "FENYVES DÁVID GYÖRGY",
+    "county": "15",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "FERANCZ NORBERT|01|08": {
+    "code": 0,
+    "name": "FERANCZ NORBERT",
+    "county": "01",
+    "oevk": "08",
+    "party": "MKKP"
+  },
+  "DR. FERENCZ ORSOLYA|01|02": {
+    "code": 0,
+    "name": "DR. FERENCZ ORSOLYA",
+    "county": "01",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. FERENCZI GÁBOR|06|04": {
+    "code": 0,
+    "name": "DR. FERENCZI GÁBOR",
+    "county": "06",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "DR. FISZTER ZSUZSANNA|05|04": {
+    "code": 0,
+    "name": "DR. FISZTER ZSUZSANNA",
+    "county": "05",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "FIZEL JÓZSEF|12|02": {
+    "code": 0,
+    "name": "FIZEL JÓZSEF",
+    "county": "12",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "FODOR BETTINA|14|03": {
+    "code": 0,
+    "name": "FODOR BETTINA",
+    "county": "14",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "FODOR LAJOS|14|10": {
+    "code": 0,
+    "name": "FODOR LAJOS",
+    "county": "14",
+    "oevk": "10",
+    "party": "Jobbik"
+  },
+  "FONT SÁNDOR|03|03": {
+    "code": 0,
+    "name": "FONT SÁNDOR",
+    "county": "03",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "FORGÁCS VALTER ZSOLT|05|07": {
+    "code": 0,
+    "name": "FORGÁCS VALTER ZSOLT",
+    "county": "05",
+    "oevk": "07",
+    "party": "Munkáspárt"
+  },
+  "FORSTHOFFER ÁGNES|19|02": {
+    "code": 0,
+    "name": "FORSTHOFFER ÁGNES",
+    "county": "19",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "FÖLDESI GYULA|01|16": {
+    "code": 0,
+    "name": "FÖLDESI GYULA",
+    "county": "01",
+    "oevk": "16",
+    "party": "FIDESZ-KDNP"
+  },
+  "FÖLDESI MIHÁLY|04|02": {
+    "code": 0,
+    "name": "FÖLDESI MIHÁLY",
+    "county": "04",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "FÖLDI JUDIT|07|01": {
+    "code": 0,
+    "name": "FÖLDI JUDIT",
+    "county": "07",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "FÖLDI LÁSZLÓ|14|14": {
+    "code": 0,
+    "name": "FÖLDI LÁSZLÓ",
+    "county": "14",
+    "oevk": "14",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. FRANKFURTER ZSUZSANNA|13|02": {
+    "code": 0,
+    "name": "DR. FRANKFURTER ZSUZSANNA",
+    "county": "13",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "FÜLÖP ATTILA|01|04": {
+    "code": 0,
+    "name": "FÜLÖP ATTILA",
+    "county": "01",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "FÜLÖP LÁSZLÓNÉ|19|03": {
+    "code": 0,
+    "name": "FÜLÖP LÁSZLÓNÉ",
+    "county": "19",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "DR. FÜLÖP ZOLTÁN|04|01": {
+    "code": 0,
+    "name": "DR. FÜLÖP ZOLTÁN",
+    "county": "04",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "GAJDA ATTILA|06|02": {
+    "code": 0,
+    "name": "GAJDA ATTILA",
+    "county": "06",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "GAJDOS LÁSZLÓ|16|01": {
+    "code": 0,
+    "name": "GAJDOS LÁSZLÓ",
+    "county": "16",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "GÁL ADRIENN|02|01": {
+    "code": 0,
+    "name": "GÁL ADRIENN",
+    "county": "02",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "GÁL PÉTER|01|15": {
+    "code": 0,
+    "name": "GÁL PÉTER",
+    "county": "01",
+    "oevk": "15",
+    "party": "Munkáspárt"
+  },
+  "GALÓ CSABA|04|02": {
+    "code": 0,
+    "name": "GALÓ CSABA",
+    "county": "04",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "DR. GÁSPÁR LEVENTE|19|01": {
+    "code": 0,
+    "name": "DR. GÁSPÁR LEVENTE",
+    "county": "19",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "GÁSPÁR TIBOR JÓZSEF|14|13": {
+    "code": 0,
+    "name": "GÁSPÁR TIBOR JÓZSEF",
+    "county": "14",
+    "oevk": "13",
+    "party": "NÉP"
+  },
+  "GELENCSÉR ATTILA|15|01": {
+    "code": 0,
+    "name": "GELENCSÉR ATTILA",
+    "county": "15",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "GERENCSÉR NORBERT|08|04": {
+    "code": 0,
+    "name": "GERENCSÉR NORBERT",
+    "county": "08",
+    "oevk": "04",
+    "party": null
+  },
+  "GERGELICS ÁDÁM|19|03": {
+    "code": 0,
+    "name": "GERGELICS ÁDÁM",
+    "county": "19",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "DR. GERGELY ANDREA|01|02": {
+    "code": 0,
+    "name": "DR. GERGELY ANDREA",
+    "county": "01",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "GERGELY RÓBERT|04|02": {
+    "code": 0,
+    "name": "GERGELY RÓBERT",
+    "county": "04",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "GIEBER LAJOS|07|05": {
+    "code": 0,
+    "name": "GIEBER LAJOS",
+    "county": "07",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "GOMBÁR DÁVID|04|02": {
+    "code": 0,
+    "name": "GOMBÁR DÁVID",
+    "county": "04",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "GONDA ESZTER|08|01": {
+    "code": 0,
+    "name": "GONDA ESZTER",
+    "county": "08",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "DR. GŐDÉNY GYÖRGY|19|02": {
+    "code": 0,
+    "name": "DR. GŐDÉNY GYÖRGY",
+    "county": "19",
+    "oevk": "02",
+    "party": "NÉP"
+  },
+  "GÖNCZI GYÖRGY|05|07": {
+    "code": 0,
+    "name": "GÖNCZI GYÖRGY",
+    "county": "05",
+    "oevk": "07",
+    "party": "Jobbik"
+  },
+  "GÖRÖGHNÉ BOCSKAI ÉVA|09|06": {
+    "code": 0,
+    "name": "GÖRÖGHNÉ BOCSKAI ÉVA",
+    "county": "09",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "GRÉCZI ZSOLT|01|03": {
+    "code": 0,
+    "name": "GRÉCZI ZSOLT",
+    "county": "01",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "GREGUS RENÁTA|10|03": {
+    "code": 0,
+    "name": "GREGUS RENÁTA",
+    "county": "10",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "DR. GRUNDTNER ANDRÁS|01|03": {
+    "code": 0,
+    "name": "DR. GRUNDTNER ANDRÁS",
+    "county": "01",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "GUBA ENDRE|16|04": {
+    "code": 0,
+    "name": "GUBA ENDRE",
+    "county": "16",
+    "oevk": "04",
+    "party": "NÉP"
+  },
+  "GULYÁS JÓZSEF|15|01": {
+    "code": 0,
+    "name": "GULYÁS JÓZSEF",
+    "county": "15",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "GULYÁS NORBERT|13|02": {
+    "code": 0,
+    "name": "GULYÁS NORBERT",
+    "county": "13",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "DR. GURZÓ MÁRIA|04|04": {
+    "code": 0,
+    "name": "DR. GURZÓ MÁRIA",
+    "county": "04",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "GY. NÉMETH ERZSÉBET|01|15": {
+    "code": 0,
+    "name": "GY. NÉMETH ERZSÉBET",
+    "county": "01",
+    "oevk": "15",
+    "party": "DK"
+  },
+  "GYAPJAS SÁNDOR|05|02": {
+    "code": 0,
+    "name": "GYAPJAS SÁNDOR",
+    "county": "05",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "GYARMATI MIHÁLY|16|02": {
+    "code": 0,
+    "name": "GYARMATI MIHÁLY",
+    "county": "16",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "GYEBNÁR DÁVID|04|01": {
+    "code": 0,
+    "name": "GYEBNÁR DÁVID",
+    "county": "04",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "GYEKICZKI MÁRTON|14|01": {
+    "code": 0,
+    "name": "GYEKICZKI MÁRTON",
+    "county": "14",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "GYEPES ÁDÁM|01|11": {
+    "code": 0,
+    "name": "GYEPES ÁDÁM",
+    "county": "01",
+    "oevk": "11",
+    "party": "FIDESZ-KDNP"
+  },
+  "GYOPÁROS ALPÁR|08|03": {
+    "code": 0,
+    "name": "GYOPÁROS ALPÁR",
+    "county": "08",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "GYŐRFFY PÉTER|10|02": {
+    "code": 0,
+    "name": "GYŐRFFY PÉTER",
+    "county": "10",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "GYÖRGY JÓZSEF|14|02": {
+    "code": 0,
+    "name": "GYÖRGY JÓZSEF",
+    "county": "14",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "HADERSPRUNG ZSUZSANNA|07|04": {
+    "code": 0,
+    "name": "HADERSPRUNG ZSUZSANNA",
+    "county": "07",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DR. HADHÁZY ÁKOS|01|06": {
+    "code": 0,
+    "name": "DR. HADHÁZY ÁKOS",
+    "county": "01",
+    "oevk": "06",
+    "party": null
+  },
+  "HALÁSZNÉ HUNYADI GYÖNGYI|15|02": {
+    "code": 0,
+    "name": "HALÁSZNÉ HUNYADI GYÖNGYI",
+    "county": "15",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "HALKÓNÉ DR. RUDOLF ÉVA|16|01": {
+    "code": 0,
+    "name": "HALKÓNÉ DR. RUDOLF ÉVA",
+    "county": "16",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. HALLERNÉ DR. NAGY ANIKÓ|08|04": {
+    "code": 0,
+    "name": "DR. HALLERNÉ DR. NAGY ANIKÓ",
+    "county": "08",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "HALMAI FERENC TIBOR|11|02": {
+    "code": 0,
+    "name": "HALMAI FERENC TIBOR",
+    "county": "11",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "HALMAI RICHÁRD|01|02": {
+    "code": 0,
+    "name": "HALMAI RICHÁRD",
+    "county": "01",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "HANEK GÁBOR|14|08": {
+    "code": 0,
+    "name": "HANEK GÁBOR",
+    "county": "14",
+    "oevk": "08",
+    "party": "DK"
+  },
+  "DR. HANKÓ BALÁZS|14|06": {
+    "code": 0,
+    "name": "DR. HANKÓ BALÁZS",
+    "county": "14",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  },
+  "HANKÓ KLÁRA|14|07": {
+    "code": 0,
+    "name": "HANKÓ KLÁRA",
+    "county": "14",
+    "oevk": "07",
+    "party": "MKKP"
+  },
+  "DR. HARGITAI JÁNOS|02|03": {
+    "code": 0,
+    "name": "DR. HARGITAI JÁNOS",
+    "county": "02",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "HARTVIG DÁNIEL|14|08": {
+    "code": 0,
+    "name": "HARTVIG DÁNIEL",
+    "county": "14",
+    "oevk": "08",
+    "party": "MKKP"
+  },
+  "HATALA-OROSZ CSABA|05|04": {
+    "code": 0,
+    "name": "HATALA-OROSZ CSABA",
+    "county": "05",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "HAUSEL IMRE|05|05": {
+    "code": 0,
+    "name": "HAUSEL IMRE",
+    "county": "05",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "DR. HEGEDŰS BARBARA|19|02": {
+    "code": 0,
+    "name": "DR. HEGEDŰS BARBARA",
+    "county": "19",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "HEGYESI BEÁTA|01|04": {
+    "code": 0,
+    "name": "HEGYESI BEÁTA",
+    "county": "01",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "HEGYI ADRIÁN|06|04": {
+    "code": 0,
+    "name": "HEGYI ADRIÁN",
+    "county": "06",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "HENDE MÁTÉ|14|13": {
+    "code": 0,
+    "name": "HENDE MÁTÉ",
+    "county": "14",
+    "oevk": "13",
+    "party": "TISZA"
+  },
+  "HERCZEG ZSOLT|11|04": {
+    "code": 0,
+    "name": "HERCZEG ZSOLT",
+    "county": "11",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "HERFORT MARIETTA|01|01": {
+    "code": 0,
+    "name": "HERFORT MARIETTA",
+    "county": "01",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "DR. HILLER ISTVÁN|01|16": {
+    "code": 0,
+    "name": "DR. HILLER ISTVÁN",
+    "county": "01",
+    "oevk": "16",
+    "party": null
+  },
+  "HÓDI ZSUZSANNA|03|02": {
+    "code": 0,
+    "name": "HÓDI ZSUZSANNA",
+    "county": "03",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "HOLLÓSY ANDRÁS|05|02": {
+    "code": 0,
+    "name": "HOLLÓSY ANDRÁS",
+    "county": "05",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. HOPPÁL PÉTER|02|02": {
+    "code": 0,
+    "name": "DR. HOPPÁL PÉTER",
+    "county": "02",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "HORTOBÁGYI KATALIN|19|04": {
+    "code": 0,
+    "name": "HORTOBÁGYI KATALIN",
+    "county": "19",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "HORVÁT IMRÉNÉ|09|05": {
+    "code": 0,
+    "name": "HORVÁT IMRÉNÉ",
+    "county": "09",
+    "oevk": "05",
+    "party": "KÁP"
+  },
+  "HORVÁTH ANNAMÁRIA|03|04": {
+    "code": 0,
+    "name": "HORVÁTH ANNAMÁRIA",
+    "county": "03",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "HORVÁTH ANTAL|16|05": {
+    "code": 0,
+    "name": "HORVÁTH ANTAL",
+    "county": "16",
+    "oevk": "05",
+    "party": "KÁP"
+  },
+  "HORVÁTH ISTVÁN|17|01": {
+    "code": 0,
+    "name": "HORVÁTH ISTVÁN",
+    "county": "17",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "HORVÁTH LÁSZLÓ|10|02": {
+    "code": 0,
+    "name": "HORVÁTH LÁSZLÓ",
+    "county": "10",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "HORVÁTH NÁNDOR ZSOLT|18|03": {
+    "code": 0,
+    "name": "HORVÁTH NÁNDOR ZSOLT",
+    "county": "18",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "HRABOVSZKI LÁSZLÓ|19|01": {
+    "code": 0,
+    "name": "HRABOVSZKI LÁSZLÓ",
+    "county": "19",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "HUNYADI MÁTÉ|09|03": {
+    "code": 0,
+    "name": "HUNYADI MÁTÉ",
+    "county": "09",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "HUPEK JÁNOS|16|06": {
+    "code": 0,
+    "name": "HUPEK JÁNOS",
+    "county": "16",
+    "oevk": "06",
+    "party": "Munkáspárt"
+  },
+  "IPACS SÁNDOR|02|03": {
+    "code": 0,
+    "name": "IPACS SÁNDOR",
+    "county": "02",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "JAKAB KOPPÁNY ATILLA|13|02": {
+    "code": 0,
+    "name": "JAKAB KOPPÁNY ATILLA",
+    "county": "13",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "JAKAB PÉTER|05|01": {
+    "code": 0,
+    "name": "JAKAB PÉTER",
+    "county": "05",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "DR. JAKAB ZSUZSANNA|01|12": {
+    "code": 0,
+    "name": "DR. JAKAB ZSUZSANNA",
+    "county": "01",
+    "oevk": "12",
+    "party": "TISZA"
+  },
+  "JÁMBOR PÉTER|15|04": {
+    "code": 0,
+    "name": "JÁMBOR PÉTER",
+    "county": "15",
+    "oevk": "04",
+    "party": "IRÁNY"
+  },
+  "JANCSEK SÁNDOR|07|02": {
+    "code": 0,
+    "name": "JANCSEK SÁNDOR",
+    "county": "07",
+    "oevk": "02",
+    "party": null
+  },
+  "JANECSKA ZOLTÁN|17|03": {
+    "code": 0,
+    "name": "JANECSKA ZOLTÁN",
+    "county": "17",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "JECKEL NIKOLETTA|14|03": {
+    "code": 0,
+    "name": "JECKEL NIKOLETTA",
+    "county": "14",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "JELENCSIK JÓZSEF|14|01": {
+    "code": 0,
+    "name": "JELENCSIK JÓZSEF",
+    "county": "14",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "JELINEK DEMIEN|07|04": {
+    "code": 0,
+    "name": "JELINEK DEMIEN",
+    "county": "07",
+    "oevk": "04",
+    "party": null
+  },
+  "JÓSZAI TEODÓRA|14|09": {
+    "code": 0,
+    "name": "JÓSZAI TEODÓRA",
+    "county": "14",
+    "oevk": "09",
+    "party": "DK"
+  },
+  "JOZÓ TAMÁS|15|03": {
+    "code": 0,
+    "name": "JOZÓ TAMÁS",
+    "county": "15",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "JUDÁK ZSOLT|03|03": {
+    "code": 0,
+    "name": "JUDÁK ZSOLT",
+    "county": "03",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "DR. JUHÁSZ ÁRON|10|03": {
+    "code": 0,
+    "name": "DR. JUHÁSZ ÁRON",
+    "county": "10",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "JUHÁSZ BÉLA|14|11": {
+    "code": 0,
+    "name": "JUHÁSZ BÉLA",
+    "county": "14",
+    "oevk": "11",
+    "party": "DK"
+  },
+  "DR. JUHÁSZ MÁTÉ|06|01": {
+    "code": 0,
+    "name": "DR. JUHÁSZ MÁTÉ",
+    "county": "06",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "JUHÁSZ ROLAND|05|01": {
+    "code": 0,
+    "name": "JUHÁSZ ROLAND",
+    "county": "05",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "JUHÁSZ VERONIKA|20|01": {
+    "code": 0,
+    "name": "JUHÁSZ VERONIKA",
+    "county": "20",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "JUHÁSZ-BAUER ÁGOSTON BÁLINT|20|02": {
+    "code": 0,
+    "name": "JUHÁSZ-BAUER ÁGOSTON BÁLINT",
+    "county": "20",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "KÁLMÁN OLGA|14|04": {
+    "code": 0,
+    "name": "KÁLMÁN OLGA",
+    "county": "14",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "KÁLMÁNDY ÁRPÁD|16|04": {
+    "code": 0,
+    "name": "KÁLMÁNDY ÁRPÁD",
+    "county": "16",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "KAPÁS ROLAND|11|01": {
+    "code": 0,
+    "name": "KAPÁS ROLAND",
+    "county": "11",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "KAPRONCZAI BALÁZS|02|04": {
+    "code": 0,
+    "name": "KAPRONCZAI BALÁZS",
+    "county": "02",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "KARDOSNÉ GYURKÓ KATALIN|14|01": {
+    "code": 0,
+    "name": "KARDOSNÉ GYURKÓ KATALIN",
+    "county": "14",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "KARIKÓ ÁGNES|03|02": {
+    "code": 0,
+    "name": "KARIKÓ ÁGNES",
+    "county": "03",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "KÁRPÁTI ZOLTÁN|02|04": {
+    "code": 0,
+    "name": "KÁRPÁTI ZOLTÁN",
+    "county": "02",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "DR. KARSAI ZSUZSÁNNA|14|06": {
+    "code": 0,
+    "name": "DR. KARSAI ZSUZSÁNNA",
+    "county": "14",
+    "oevk": "06",
+    "party": "DK"
+  },
+  "KARSAI-JUHÁSZ KATALIN|03|05": {
+    "code": 0,
+    "name": "KARSAI-JUHÁSZ KATALIN",
+    "county": "03",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "KARTNIK KRISZTINA|14|08": {
+    "code": 0,
+    "name": "KARTNIK KRISZTINA",
+    "county": "14",
+    "oevk": "08",
+    "party": "Munkáspárt"
+  },
+  "KASSAB ADONIS|11|02": {
+    "code": 0,
+    "name": "KASSAB ADONIS",
+    "county": "11",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "KÁTAI ALIZ|12|03": {
+    "code": 0,
+    "name": "KÁTAI ALIZ",
+    "county": "12",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "DR. KÁTAI-NÉMETH VILMOS|01|09": {
+    "code": 0,
+    "name": "DR. KÁTAI-NÉMETH VILMOS",
+    "county": "01",
+    "oevk": "09",
+    "party": "TISZA"
+  },
+  "KATONA TIBOR|01|08": {
+    "code": 0,
+    "name": "KATONA TIBOR",
+    "county": "01",
+    "oevk": "08",
+    "party": "Munkáspárt"
+  },
+  "KATUS NORBERT|14|07": {
+    "code": 0,
+    "name": "KATUS NORBERT",
+    "county": "14",
+    "oevk": "07",
+    "party": "FIDESZ-KDNP"
+  },
+  "KECSKEMÉTI ISTVÁN|17|02": {
+    "code": 0,
+    "name": "KECSKEMÉTI ISTVÁN",
+    "county": "17",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "KELEI ZITA|15|02": {
+    "code": 0,
+    "name": "KELEI ZITA",
+    "county": "15",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "KELLER LÁSZLÓ|14|02": {
+    "code": 0,
+    "name": "KELLER LÁSZLÓ",
+    "county": "14",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "KENÉZ ISTVÁN|14|10": {
+    "code": 0,
+    "name": "KENÉZ ISTVÁN",
+    "county": "14",
+    "oevk": "10",
+    "party": "DK"
+  },
+  "KEREKES EDIT|05|01": {
+    "code": 0,
+    "name": "KEREKES EDIT",
+    "county": "05",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "KERTÉSZ ÉVA|07|03": {
+    "code": 0,
+    "name": "KERTÉSZ ÉVA",
+    "county": "07",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "KESZTHELYI DOROTTYA|01|05": {
+    "code": 0,
+    "name": "KESZTHELYI DOROTTYA",
+    "county": "01",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "KESZTYÜS ATTILA|15|03": {
+    "code": 0,
+    "name": "KESZTYÜS ATTILA",
+    "county": "15",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "KIRÁLY NÓRA|01|09": {
+    "code": 0,
+    "name": "KIRÁLY NÓRA",
+    "county": "01",
+    "oevk": "09",
+    "party": "FIDESZ-KDNP"
+  },
+  "KISS BEATRIX|02|02": {
+    "code": 0,
+    "name": "KISS BEATRIX",
+    "county": "02",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "KISS FERENC|20|02": {
+    "code": 0,
+    "name": "KISS FERENC",
+    "county": "20",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "KISS JÁNOS|10|02": {
+    "code": 0,
+    "name": "KISS JÁNOS",
+    "county": "10",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "KISS KORNÉL|01|09": {
+    "code": 0,
+    "name": "KISS KORNÉL",
+    "county": "01",
+    "oevk": "09",
+    "party": "MKKP"
+  },
+  "KISS LÍVIA|19|02": {
+    "code": 0,
+    "name": "KISS LÍVIA",
+    "county": "19",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "DR. KISS SÁNDOR|16|06": {
+    "code": 0,
+    "name": "DR. KISS SÁNDOR",
+    "county": "16",
+    "oevk": "06",
+    "party": "Jobbik"
+  },
+  "KISS ZSOLT|09|01": {
+    "code": 0,
+    "name": "KISS ZSOLT",
+    "county": "09",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "KLING OND|01|07": {
+    "code": 0,
+    "name": "KLING OND",
+    "county": "01",
+    "oevk": "07",
+    "party": "MKKP"
+  },
+  "KÓBER GYÖRGY MÁRK|18|01": {
+    "code": 0,
+    "name": "KÓBER GYÖRGY MÁRK",
+    "county": "18",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "KOCSIS-CAKE OLIVIO|01|14": {
+    "code": 0,
+    "name": "KOCSIS-CAKE OLIVIO",
+    "county": "01",
+    "oevk": "14",
+    "party": "DK"
+  },
+  "KOCSONDI MÁRK|01|10": {
+    "code": 0,
+    "name": "KOCSONDI MÁRK",
+    "county": "01",
+    "oevk": "10",
+    "party": "FIDESZ-KDNP"
+  },
+  "KÓKAI KATALIN|03|03": {
+    "code": 0,
+    "name": "KÓKAI KATALIN",
+    "county": "03",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "KÓKAI MÁTYÁS|20|02": {
+    "code": 0,
+    "name": "KÓKAI MÁTYÁS",
+    "county": "20",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "KOLTAI TIBOR|20|01": {
+    "code": 0,
+    "name": "KOLTAI TIBOR",
+    "county": "20",
+    "oevk": "01",
+    "party": null
+  },
+  "KOMÁROMSZKY ATTILA|08|01": {
+    "code": 0,
+    "name": "KOMÁROMSZKY ATTILA",
+    "county": "08",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "DR. KONCZ ÁRON|01|04": {
+    "code": 0,
+    "name": "DR. KONCZ ÁRON",
+    "county": "01",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "DR. KONCZ ZSÓFIA|05|06": {
+    "code": 0,
+    "name": "DR. KONCZ ZSÓFIA",
+    "county": "05",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  },
+  "KONTRA ISTVÁN|11|04": {
+    "code": 0,
+    "name": "KONTRA ISTVÁN",
+    "county": "11",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "KÓNYA ISTVÁN|04|03": {
+    "code": 0,
+    "name": "KÓNYA ISTVÁN",
+    "county": "04",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "KORÓDI ISTVÁN|08|01": {
+    "code": 0,
+    "name": "KORÓDI ISTVÁN",
+    "county": "08",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "DR. KOVÁCS ÁRON|02|02": {
+    "code": 0,
+    "name": "DR. KOVÁCS ÁRON",
+    "county": "02",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "KOVÁCS ATTILA|01|16": {
+    "code": 0,
+    "name": "KOVÁCS ATTILA",
+    "county": "01",
+    "oevk": "16",
+    "party": "Mi Hazánk"
+  },
+  "KOVÁCS BALÁZS NORBERT|01|05": {
+    "code": 0,
+    "name": "KOVÁCS BALÁZS NORBERT",
+    "county": "01",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. KOVÁCS GYULA|03|04": {
+    "code": 0,
+    "name": "DR. KOVÁCS GYULA",
+    "county": "03",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "KOVÁCS HUNOR KRISZTIÁN|11|03": {
+    "code": 0,
+    "name": "KOVÁCS HUNOR KRISZTIÁN",
+    "county": "11",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "KOVÁCS IMRE ISTVÁN|05|02": {
+    "code": 0,
+    "name": "KOVÁCS IMRE ISTVÁN",
+    "county": "05",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "KOVÁCS KOPPÁNY ZOLTÁN|16|01": {
+    "code": 0,
+    "name": "KOVÁCS KOPPÁNY ZOLTÁN",
+    "county": "16",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "KOVÁCS PETRA JUDIT|09|04": {
+    "code": 0,
+    "name": "KOVÁCS PETRA JUDIT",
+    "county": "09",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "KOVÁCS SÁNDOR|16|05": {
+    "code": 0,
+    "name": "KOVÁCS SÁNDOR",
+    "county": "16",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "KOVÁTS GÁBOR|05|07": {
+    "code": 0,
+    "name": "KOVÁTS GÁBOR",
+    "county": "05",
+    "oevk": "07",
+    "party": "MKKP"
+  },
+  "KOZMA ATTILA MÁTYÁS|09|01": {
+    "code": 0,
+    "name": "KOZMA ATTILA MÁTYÁS",
+    "county": "09",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "KOZMA PÉTER|10|02": {
+    "code": 0,
+    "name": "KOZMA PÉTER",
+    "county": "10",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "KÖKÉNY GÁBOR KÁLMÁN|14|14": {
+    "code": 0,
+    "name": "KÖKÉNY GÁBOR KÁLMÁN",
+    "county": "14",
+    "oevk": "14",
+    "party": "DK"
+  },
+  "KÖRMENDI GÁBOR ATTILA|01|13": {
+    "code": 0,
+    "name": "KÖRMENDI GÁBOR ATTILA",
+    "county": "01",
+    "oevk": "13",
+    "party": "Munkáspárt"
+  },
+  "KŐSZEGI MIHÁLY|03|03": {
+    "code": 0,
+    "name": "KŐSZEGI MIHÁLY",
+    "county": "03",
+    "oevk": "03",
+    "party": null
+  },
+  "KRÁLIK KÁROLY|16|05": {
+    "code": 0,
+    "name": "KRÁLIK KÁROLY",
+    "county": "16",
+    "oevk": "05",
+    "party": "Munkáspárt"
+  },
+  "KRIZS NORBERT|13|01": {
+    "code": 0,
+    "name": "KRIZS NORBERT",
+    "county": "13",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "KUBOVICSNÉ DR. BORBÉLY ANETT|16|04": {
+    "code": 0,
+    "name": "KUBOVICSNÉ DR. BORBÉLY ANETT",
+    "county": "16",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "KULCSÁR KRISZTIÁN|01|10": {
+    "code": 0,
+    "name": "KULCSÁR KRISZTIÁN",
+    "county": "01",
+    "oevk": "10",
+    "party": "TISZA"
+  },
+  "KVACSKAY KÁROLY|01|02": {
+    "code": 0,
+    "name": "KVACSKAY KÁROLY",
+    "county": "01",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "LACZKÓ KORNÉL|14|04": {
+    "code": 0,
+    "name": "LACZKÓ KORNÉL",
+    "county": "14",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "LACZKÓ ZSOLT|06|03": {
+    "code": 0,
+    "name": "LACZKÓ ZSOLT",
+    "county": "06",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "LADÁNYI LUCA|12|01": {
+    "code": 0,
+    "name": "LADÁNYI LUCA",
+    "county": "12",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "LAJOS MILÁN|02|01": {
+    "code": 0,
+    "name": "LAJOS MILÁN",
+    "county": "02",
+    "oevk": "01",
+    "party": null
+  },
+  "LAKATOS ATTILA|16|06": {
+    "code": 0,
+    "name": "LAKATOS ATTILA",
+    "county": "16",
+    "oevk": "06",
+    "party": null
+  },
+  "LÁNGFALVI ATTILA|07|01": {
+    "code": 0,
+    "name": "LÁNGFALVI ATTILA",
+    "county": "07",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "LANTOS JÁNOS|12|02": {
+    "code": 0,
+    "name": "LANTOS JÁNOS",
+    "county": "12",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "LÁSZLÓ ATTILA|14|13": {
+    "code": 0,
+    "name": "LÁSZLÓ ATTILA",
+    "county": "14",
+    "oevk": "13",
+    "party": "Mi Hazánk"
+  },
+  "LÁSZLÓ ENDRE MÁRTON|14|06": {
+    "code": 0,
+    "name": "LÁSZLÓ ENDRE MÁRTON",
+    "county": "14",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "DR. LÁSZLÓ PÉTER|19|01": {
+    "code": 0,
+    "name": "DR. LÁSZLÓ PÉTER",
+    "county": "19",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "LEHOCZKI FERENC|15|01": {
+    "code": 0,
+    "name": "LEHOCZKI FERENC",
+    "county": "15",
+    "oevk": "01",
+    "party": "Jobbik"
+  },
+  "LEITNER SZILÁRD|06|04": {
+    "code": 0,
+    "name": "LEITNER SZILÁRD",
+    "county": "06",
+    "oevk": "04",
+    "party": null
+  },
+  "LENDVAY ENDRE|14|12": {
+    "code": 0,
+    "name": "LENDVAY ENDRE",
+    "county": "14",
+    "oevk": "12",
+    "party": "Mi Hazánk"
+  },
+  "LEZSÁK SÁNDOR|03|04": {
+    "code": 0,
+    "name": "LEZSÁK SÁNDOR",
+    "county": "03",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "LISZKAI ERZSÉBET|20|02": {
+    "code": 0,
+    "name": "LISZKAI ERZSÉBET",
+    "county": "20",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "LONTAY LÁSZLÓ|05|05": {
+    "code": 0,
+    "name": "LONTAY LÁSZLÓ",
+    "county": "05",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "LOSÓ ÉVA|07|02": {
+    "code": 0,
+    "name": "LOSÓ ÉVA",
+    "county": "07",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "LOVKÓ CSABA|20|03": {
+    "code": 0,
+    "name": "LOVKÓ CSABA",
+    "county": "20",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "DR. LŐRINCZ VIKTÓRIA|15|01": {
+    "code": 0,
+    "name": "DR. LŐRINCZ VIKTÓRIA",
+    "county": "15",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "LUDVÁN ZSOLT LÁSZLÓ|18|03": {
+    "code": 0,
+    "name": "LUDVÁN ZSOLT LÁSZLÓ",
+    "county": "18",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "MAGDICS MÁTÉ|14|13": {
+    "code": 0,
+    "name": "MAGDICS MÁTÉ",
+    "county": "14",
+    "oevk": "13",
+    "party": "DK"
+  },
+  "MAGDICS MÓNIKA|14|12": {
+    "code": 0,
+    "name": "MAGDICS MÓNIKA",
+    "county": "14",
+    "oevk": "12",
+    "party": "DK"
+  },
+  "MAGOSI RÓBERT|05|05": {
+    "code": 0,
+    "name": "MAGOSI RÓBERT",
+    "county": "05",
+    "oevk": "05",
+    "party": "Munkáspárt"
+  },
+  "MAGYAR GÁBOR|04|03": {
+    "code": 0,
+    "name": "MAGYAR GÁBOR",
+    "county": "04",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "MAGYAR PÉTER|18|02": {
+    "code": 0,
+    "name": "MAGYAR PÉTER",
+    "county": "18",
+    "oevk": "02",
+    "party": null
+  },
+  "MAGYAR PÉTER|01|03": {
+    "code": 0,
+    "name": "MAGYAR PÉTER",
+    "county": "01",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "MAKULA GÁBRIEL|05|05": {
+    "code": 0,
+    "name": "MAKULA GÁBRIEL",
+    "county": "05",
+    "oevk": "05",
+    "party": "NÉP"
+  },
+  "MAROSVÖLGYI ANNA|01|11": {
+    "code": 0,
+    "name": "MAROSVÖLGYI ANNA",
+    "county": "01",
+    "oevk": "11",
+    "party": "Mi Hazánk"
+  },
+  "MÁTÉ SÁNDOR|05|03": {
+    "code": 0,
+    "name": "MÁTÉ SÁNDOR",
+    "county": "05",
+    "oevk": "03",
+    "party": "KÁP"
+  },
+  "DR. MATYIJCSIK SÁNDOR|20|03": {
+    "code": 0,
+    "name": "DR. MATYIJCSIK SÁNDOR",
+    "county": "20",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "MENCZER TAMÁS|14|03": {
+    "code": 0,
+    "name": "MENCZER TAMÁS",
+    "county": "14",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "MÉSZÁROS DÁVID|11|01": {
+    "code": 0,
+    "name": "MÉSZÁROS DÁVID",
+    "county": "11",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "MÉSZÁROS GÉZA|08|03": {
+    "code": 0,
+    "name": "MÉSZÁROS GÉZA",
+    "county": "08",
+    "oevk": "03",
+    "party": null
+  },
+  "DR. MÉSZÁROS LAJOS|07|04": {
+    "code": 0,
+    "name": "DR. MÉSZÁROS LAJOS",
+    "county": "07",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "MÉSZÁROS SZABOLCS|15|01": {
+    "code": 0,
+    "name": "MÉSZÁROS SZABOLCS",
+    "county": "15",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "MEZEI ZSOLT|07|05": {
+    "code": 0,
+    "name": "MEZEI ZSOLT",
+    "county": "07",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "MIHÁLFFY BÉLA|06|02": {
+    "code": 0,
+    "name": "MIHÁLFFY BÉLA",
+    "county": "06",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "MIKLÓS ÁRPÁD FERENC|05|01": {
+    "code": 0,
+    "name": "MIKLÓS ÁRPÁD FERENC",
+    "county": "05",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "MIRKÓCZKI ÁDÁM|10|01": {
+    "code": 0,
+    "name": "MIRKÓCZKI ÁDÁM",
+    "county": "10",
+    "oevk": "01",
+    "party": null
+  },
+  "DR. MISKOLCZI ORSOLYA|14|05": {
+    "code": 0,
+    "name": "DR. MISKOLCZI ORSOLYA",
+    "county": "14",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "DR. MOKRAI MIHÁLY|05|02": {
+    "code": 0,
+    "name": "DR. MOKRAI MIHÁLY",
+    "county": "05",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "MOLNÁR BÁLINT|19|04": {
+    "code": 0,
+    "name": "MOLNÁR BÁLINT",
+    "county": "19",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "MOLNÁR GÁBOR|04|03": {
+    "code": 0,
+    "name": "MOLNÁR GÁBOR",
+    "county": "04",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "MOLNÁR GYULA|01|10": {
+    "code": 0,
+    "name": "MOLNÁR GYULA",
+    "county": "01",
+    "oevk": "10",
+    "party": "DK"
+  },
+  "MOLNÁR JÁNOS|03|02": {
+    "code": 0,
+    "name": "MOLNÁR JÁNOS",
+    "county": "03",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "MOLNÁR MÁRIA|09|04": {
+    "code": 0,
+    "name": "MOLNÁR MÁRIA",
+    "county": "09",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DR. MOLNÁR PÉTER|15|01": {
+    "code": 0,
+    "name": "DR. MOLNÁR PÉTER",
+    "county": "15",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "MOLNÁR SÁMUEL LÁSZLÓ|05|05": {
+    "code": 0,
+    "name": "MOLNÁR SÁMUEL LÁSZLÓ",
+    "county": "05",
+    "oevk": "05",
+    "party": "MKKP"
+  },
+  "MOLNÁR ZOLTÁN|13|02": {
+    "code": 0,
+    "name": "MOLNÁR ZOLTÁN",
+    "county": "13",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "MOLNÁR ZOLTÁN|05|03": {
+    "code": 0,
+    "name": "MOLNÁR ZOLTÁN",
+    "county": "05",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "MÓRING JÓZSEF ATTILA|15|03": {
+    "code": 0,
+    "name": "MÓRING JÓZSEF ATTILA",
+    "county": "15",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "MUCSI TAMÁS|06|04": {
+    "code": 0,
+    "name": "MUCSI TAMÁS",
+    "county": "06",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "MUHARI GERGELY|14|14": {
+    "code": 0,
+    "name": "MUHARI GERGELY",
+    "county": "14",
+    "oevk": "14",
+    "party": "TISZA"
+  },
+  "MÜLLER ANNA|01|13": {
+    "code": 0,
+    "name": "MÜLLER ANNA",
+    "county": "01",
+    "oevk": "13",
+    "party": "TISZA"
+  },
+  "NAGY ATTILA|01|01": {
+    "code": 0,
+    "name": "NAGY ATTILA",
+    "county": "01",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "NAGY ATTILA TIBOR|10|03": {
+    "code": 0,
+    "name": "NAGY ATTILA TIBOR",
+    "county": "10",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "NAGY BÁLINT|20|02": {
+    "code": 0,
+    "name": "NAGY BÁLINT",
+    "county": "20",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "NAGY BÉLA|06|01": {
+    "code": 0,
+    "name": "NAGY BÉLA",
+    "county": "06",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "NAGY CSABA|02|04": {
+    "code": 0,
+    "name": "NAGY CSABA",
+    "county": "02",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "NAGY DÁVID|01|06": {
+    "code": 0,
+    "name": "NAGY DÁVID",
+    "county": "01",
+    "oevk": "06",
+    "party": "MKKP"
+  },
+  "NAGY DÁVID|01|12": {
+    "code": 0,
+    "name": "NAGY DÁVID",
+    "county": "01",
+    "oevk": "12",
+    "party": "MKKP"
+  },
+  "NAGY ERVIN|07|04": {
+    "code": 0,
+    "name": "NAGY ERVIN",
+    "county": "07",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "NAGY FERENC|09|02": {
+    "code": 0,
+    "name": "NAGY FERENC",
+    "county": "09",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "NAGY FERENC|14|09": {
+    "code": 0,
+    "name": "NAGY FERENC",
+    "county": "14",
+    "oevk": "09",
+    "party": "Munkáspárt"
+  },
+  "NAGY FERENC|08|03": {
+    "code": 0,
+    "name": "NAGY FERENC",
+    "county": "08",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "NAGY GUSZTÁV|03|06": {
+    "code": 0,
+    "name": "NAGY GUSZTÁV",
+    "county": "03",
+    "oevk": "06",
+    "party": "Munkáspárt"
+  },
+  "NAGY IMRE|03|04": {
+    "code": 0,
+    "name": "NAGY IMRE",
+    "county": "03",
+    "oevk": "04",
+    "party": null
+  },
+  "DR. NAGY ISTVÁN|08|05": {
+    "code": 0,
+    "name": "DR. NAGY ISTVÁN",
+    "county": "08",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "NAGY JÓZSEF LÁSZLÓ|16|04": {
+    "code": 0,
+    "name": "NAGY JÓZSEF LÁSZLÓ",
+    "county": "16",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DR. NAGY MÁRTA|20|01": {
+    "code": 0,
+    "name": "DR. NAGY MÁRTA",
+    "county": "20",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "NAGY RICHÁRD|07|05": {
+    "code": 0,
+    "name": "NAGY RICHÁRD",
+    "county": "07",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "NAGY RICHÁRD GYÖRGY|01|11": {
+    "code": 0,
+    "name": "NAGY RICHÁRD GYÖRGY",
+    "county": "01",
+    "oevk": "11",
+    "party": "DK"
+  },
+  "NAGY SZABOLCS|03|05": {
+    "code": 0,
+    "name": "NAGY SZABOLCS",
+    "county": "03",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "NAGY TAMÁS|17|01": {
+    "code": 0,
+    "name": "NAGY TAMÁS",
+    "county": "17",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "NAGY TIBOR BALÁZS|10|03": {
+    "code": 0,
+    "name": "NAGY TIBOR BALÁZS",
+    "county": "10",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "NAGY ZOLTÁN|09|06": {
+    "code": 0,
+    "name": "NAGY ZOLTÁN",
+    "county": "09",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "NAGY-NÉMETH NÓRA|08|04": {
+    "code": 0,
+    "name": "NAGY-NÉMETH NÓRA",
+    "county": "08",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "NARDAI PÉTER|19|04": {
+    "code": 0,
+    "name": "NARDAI PÉTER",
+    "county": "19",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "DR. NAVRACSICS TIBOR|19|03": {
+    "code": 0,
+    "name": "DR. NAVRACSICS TIBOR",
+    "county": "19",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "NÉHER ANDRÁS|08|02": {
+    "code": 0,
+    "name": "NÉHER ANDRÁS",
+    "county": "08",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "NEMES GÁBOR|14|07": {
+    "code": 0,
+    "name": "NEMES GÁBOR",
+    "county": "14",
+    "oevk": "07",
+    "party": "DK"
+  },
+  "NÉMETH BALÁZS|01|13": {
+    "code": 0,
+    "name": "NÉMETH BALÁZS",
+    "county": "01",
+    "oevk": "13",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. NÉMETH CSILLA|05|03": {
+    "code": 0,
+    "name": "DR. NÉMETH CSILLA",
+    "county": "05",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "NÉMETH HELGA|15|03": {
+    "code": 0,
+    "name": "NÉMETH HELGA",
+    "county": "15",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "NÉMETH KÁROLY|19|03": {
+    "code": 0,
+    "name": "NÉMETH KÁROLY",
+    "county": "19",
+    "oevk": "03",
+    "party": null
+  },
+  "NÉMETH SZILVESZTER|03|05": {
+    "code": 0,
+    "name": "NÉMETH SZILVESZTER",
+    "county": "03",
+    "oevk": "05",
+    "party": null
+  },
+  "DR. NEULINGER ÁGNES|01|10": {
+    "code": 0,
+    "name": "DR. NEULINGER ÁGNES",
+    "county": "01",
+    "oevk": "10",
+    "party": "MKKP"
+  },
+  "NOVÁK ELŐD|01|10": {
+    "code": 0,
+    "name": "NOVÁK ELŐD",
+    "county": "01",
+    "oevk": "10",
+    "party": "Mi Hazánk"
+  },
+  "NYITRAI ATTILA|05|06": {
+    "code": 0,
+    "name": "NYITRAI ATTILA",
+    "county": "05",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "NYITRAI-CSABAY LIZA CSILLA|08|05": {
+    "code": 0,
+    "name": "NYITRAI-CSABAY LIZA CSILLA",
+    "county": "08",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "ÓHIDY ISTVÁN|06|02": {
+    "code": 0,
+    "name": "ÓHIDY ISTVÁN",
+    "county": "06",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "OLÁH JÁNOS|01|05": {
+    "code": 0,
+    "name": "OLÁH JÁNOS",
+    "county": "01",
+    "oevk": "05",
+    "party": "MKKP"
+  },
+  "OLÁH ZSOLT|05|05": {
+    "code": 0,
+    "name": "OLÁH ZSOLT",
+    "county": "05",
+    "oevk": "05",
+    "party": "KÁP"
+  },
+  "ORBÁN ADRIEN|08|02": {
+    "code": 0,
+    "name": "ORBÁN ADRIEN",
+    "county": "08",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "ORMOS TAS ZSOLT|05|05": {
+    "code": 0,
+    "name": "ORMOS TAS ZSOLT",
+    "county": "05",
+    "oevk": "05",
+    "party": "Jobbik"
+  },
+  "OROSZ PATRIK|14|07": {
+    "code": 0,
+    "name": "OROSZ PATRIK",
+    "county": "14",
+    "oevk": "07",
+    "party": "Mi Hazánk"
+  },
+  "OTTLOKÁN RADOVÁN|06|04": {
+    "code": 0,
+    "name": "OTTLOKÁN RADOVÁN",
+    "county": "06",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "OVÁDI PÉTER|19|01": {
+    "code": 0,
+    "name": "OVÁDI PÉTER",
+    "county": "19",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "PAÁL GÉZA|19|02": {
+    "code": 0,
+    "name": "PAÁL GÉZA",
+    "county": "19",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "PÁGER FERENC|02|03": {
+    "code": 0,
+    "name": "PÁGER FERENC",
+    "county": "02",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "DR. PAJTÓK GÁBOR|10|01": {
+    "code": 0,
+    "name": "DR. PAJTÓK GÁBOR",
+    "county": "10",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "PAKUSZA ZOLTÁN|05|02": {
+    "code": 0,
+    "name": "PAKUSZA ZOLTÁN",
+    "county": "05",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "PÁL ANNA VIKTÓRIA|06|04": {
+    "code": 0,
+    "name": "PÁL ANNA VIKTÓRIA",
+    "county": "06",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "PÁL BÉLA|14|04": {
+    "code": 0,
+    "name": "PÁL BÉLA",
+    "county": "14",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "PÁL ÉVA|01|09": {
+    "code": 0,
+    "name": "PÁL ÉVA",
+    "county": "01",
+    "oevk": "09",
+    "party": "Munkáspárt"
+  },
+  "DR. PÁLI JENŐ|14|11": {
+    "code": 0,
+    "name": "DR. PÁLI JENŐ",
+    "county": "14",
+    "oevk": "11",
+    "party": "Mi Hazánk"
+  },
+  "PAP FERENC|05|04": {
+    "code": 0,
+    "name": "PAP FERENC",
+    "county": "05",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DR. PÁPAI ÁKOS|10|01": {
+    "code": 0,
+    "name": "DR. PÁPAI ÁKOS",
+    "county": "10",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "PÁPAI PETRA|08|02": {
+    "code": 0,
+    "name": "PÁPAI PETRA",
+    "county": "08",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "PAPP DÁVID|03|01": {
+    "code": 0,
+    "name": "PAPP DÁVID",
+    "county": "03",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "PAPP KARULY BARNABÁS|15|04": {
+    "code": 0,
+    "name": "PAPP KARULY BARNABÁS",
+    "county": "15",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "PAPP ZOLTÁN|20|01": {
+    "code": 0,
+    "name": "PAPP ZOLTÁN",
+    "county": "20",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "PAPP ZSOLT|09|06": {
+    "code": 0,
+    "name": "PAPP ZSOLT",
+    "county": "09",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  },
+  "PAPPNÉ SUSZTER ANNA|05|03": {
+    "code": 0,
+    "name": "PAPPNÉ SUSZTER ANNA",
+    "county": "05",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "PARDI-OLÁH ROBERTA|11|03": {
+    "code": 0,
+    "name": "PARDI-OLÁH ROBERTA",
+    "county": "11",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "PARÉ ATTILA|16|06": {
+    "code": 0,
+    "name": "PARÉ ATTILA",
+    "county": "16",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "PASZICSNYEK JÁNOS|07|03": {
+    "code": 0,
+    "name": "PASZICSNYEK JÁNOS",
+    "county": "07",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "DR. PÁSZTOR ESZTER|07|01": {
+    "code": 0,
+    "name": "DR. PÁSZTOR ESZTER",
+    "county": "07",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "PASZTORNICZKY ISTVÁN|05|05": {
+    "code": 0,
+    "name": "PASZTORNICZKY ISTVÁN",
+    "county": "05",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "PÉRCSI VIKTÓRIA|01|06": {
+    "code": 0,
+    "name": "PÉRCSI VIKTÓRIA",
+    "county": "01",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "PERDIÁK JÁNOS|16|03": {
+    "code": 0,
+    "name": "PERDIÁK JÁNOS",
+    "county": "16",
+    "oevk": "03",
+    "party": "MIÉP"
+  },
+  "PERTICSNÉ KÁCSOR ANDREA|14|10": {
+    "code": 0,
+    "name": "PERTICSNÉ KÁCSOR ANDREA",
+    "county": "14",
+    "oevk": "10",
+    "party": "TISZA"
+  },
+  "PÉTERFALVINÉ KALMÁR PIROSKA|17|01": {
+    "code": 0,
+    "name": "PÉTERFALVINÉ KALMÁR PIROSKA",
+    "county": "17",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "PETRIK BARBARA|02|03": {
+    "code": 0,
+    "name": "PETRIK BARBARA",
+    "county": "02",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "PILISI EMÍLIA|01|04": {
+    "code": 0,
+    "name": "PILISI EMÍLIA",
+    "county": "01",
+    "oevk": "04",
+    "party": "MKKP"
+  },
+  "PINTÉR FERENC|11|02": {
+    "code": 0,
+    "name": "PINTÉR FERENC",
+    "county": "11",
+    "oevk": "02",
+    "party": null
+  },
+  "PISÁK ISTVÁN|08|04": {
+    "code": 0,
+    "name": "PISÁK ISTVÁN",
+    "county": "08",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "DR. PÓCS ALFRÉD|10|01": {
+    "code": 0,
+    "name": "DR. PÓCS ALFRÉD",
+    "county": "10",
+    "oevk": "01",
+    "party": "Szentkorona"
+  },
+  "PÓCS JÁNOS|11|02": {
+    "code": 0,
+    "name": "PÓCS JÁNOS",
+    "county": "11",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "PÓCS MIKLÓS|08|02": {
+    "code": 0,
+    "name": "PÓCS MIKLÓS",
+    "county": "08",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "POGÁCSÁS TIBOR|14|12": {
+    "code": 0,
+    "name": "POGÁCSÁS TIBOR",
+    "county": "14",
+    "oevk": "12",
+    "party": "FIDESZ-KDNP"
+  },
+  "POLGÁR GYÖRGY|14|12": {
+    "code": 0,
+    "name": "POLGÁR GYÖRGY",
+    "county": "14",
+    "oevk": "12",
+    "party": "TISZA"
+  },
+  "PORCHER ÁRON|01|15": {
+    "code": 0,
+    "name": "PORCHER ÁRON",
+    "county": "01",
+    "oevk": "15",
+    "party": "TISZA"
+  },
+  "DR. PORPÁCZY KRISZTINA|08|05": {
+    "code": 0,
+    "name": "DR. PORPÁCZY KRISZTINA",
+    "county": "08",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "PÓSFAI GÁBOR|14|02": {
+    "code": 0,
+    "name": "PÓSFAI GÁBOR",
+    "county": "14",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "RADECZKI CSONGOR|09|02": {
+    "code": 0,
+    "name": "RADECZKI CSONGOR",
+    "county": "09",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "RADICS BÉLA|01|06": {
+    "code": 0,
+    "name": "RADICS BÉLA",
+    "county": "01",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  },
+  "RADNAI MÁRK|12|02": {
+    "code": 0,
+    "name": "RADNAI MÁRK",
+    "county": "12",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "RÁKI ZSOLT|04|03": {
+    "code": 0,
+    "name": "RÁKI ZSOLT",
+    "county": "04",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "RÁPLI RÓBERT|18|01": {
+    "code": 0,
+    "name": "RÁPLI RÓBERT",
+    "county": "18",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "RÁTKOVICS ROLAND ZSOLT|08|04": {
+    "code": 0,
+    "name": "RÁTKOVICS ROLAND ZSOLT",
+    "county": "08",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "REGŐS BALÁZS|14|06": {
+    "code": 0,
+    "name": "REGŐS BALÁZS",
+    "county": "14",
+    "oevk": "06",
+    "party": "Mi Hazánk"
+  },
+  "REHÁKNÉ MENYHÁRT GABRIELLA|09|04": {
+    "code": 0,
+    "name": "REHÁKNÉ MENYHÁRT GABRIELLA",
+    "county": "09",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "REMES GÁBOR|15|02": {
+    "code": 0,
+    "name": "REMES GÁBOR",
+    "county": "15",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "RÉTVÁRI BENCE|14|11": {
+    "code": 0,
+    "name": "RÉTVÁRI BENCE",
+    "county": "14",
+    "oevk": "11",
+    "party": "FIDESZ-KDNP"
+  },
+  "RÉVI ATTILA|11|04": {
+    "code": 0,
+    "name": "RÉVI ATTILA",
+    "county": "11",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "RINGWALD PANKA|09|03": {
+    "code": 0,
+    "name": "RINGWALD PANKA",
+    "county": "09",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "RIZMAYERNÉ CSIK ERZSÉBET|01|09": {
+    "code": 0,
+    "name": "RIZMAYERNÉ CSIK ERZSÉBET",
+    "county": "01",
+    "oevk": "09",
+    "party": "Mi Hazánk"
+  },
+  "RÓNAI SÁNDOR|14|05": {
+    "code": 0,
+    "name": "RÓNAI SÁNDOR",
+    "county": "14",
+    "oevk": "05",
+    "party": "DK"
+  },
+  "ROST ANDREA|11|01": {
+    "code": 0,
+    "name": "ROST ANDREA",
+    "county": "11",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "RÓZSAHEGYI ÁRON|02|03": {
+    "code": 0,
+    "name": "RÓZSAHEGYI ÁRON",
+    "county": "02",
+    "oevk": "03",
+    "party": "TISZA"
+  },
+  "DR. RUSZIN-SZENDI ROMULUSZ|09|05": {
+    "code": 0,
+    "name": "DR. RUSZIN-SZENDI ROMULUSZ",
+    "county": "09",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "DR. RUZSA DIÁNA|02|01": {
+    "code": 0,
+    "name": "DR. RUZSA DIÁNA",
+    "county": "02",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "DR. SALACZ LÁSZLÓ|03|01": {
+    "code": 0,
+    "name": "DR. SALACZ LÁSZLÓ",
+    "county": "03",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "SALÁNKINÉ KUTI ZSUZSANNA|09|01": {
+    "code": 0,
+    "name": "SALÁNKINÉ KUTI ZSUZSANNA",
+    "county": "09",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "SALKOVICS RÓBERT|12|03": {
+    "code": 0,
+    "name": "SALKOVICS RÓBERT",
+    "county": "12",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "SAMU DOMONKOS|08|03": {
+    "code": 0,
+    "name": "SAMU DOMONKOS",
+    "county": "08",
+    "oevk": "03",
+    "party": null
+  },
+  "SÁNDOR ISTVÁN|14|09": {
+    "code": 0,
+    "name": "SÁNDOR ISTVÁN",
+    "county": "14",
+    "oevk": "09",
+    "party": "NÉP"
+  },
+  "DR. SÁNDOR ZOLTÁN|02|02": {
+    "code": 0,
+    "name": "DR. SÁNDOR ZOLTÁN",
+    "county": "02",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "SARKADI PÁL|03|04": {
+    "code": 0,
+    "name": "SARKADI PÁL",
+    "county": "03",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "SÁRKÖZI BETTI|14|13": {
+    "code": 0,
+    "name": "SÁRKÖZI BETTI",
+    "county": "14",
+    "oevk": "13",
+    "party": "MKKP"
+  },
+  "DR. SÁROSI JÓZSEF|17|01": {
+    "code": 0,
+    "name": "DR. SÁROSI JÓZSEF",
+    "county": "17",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "SÁROSY ZOLTÁN|16|03": {
+    "code": 0,
+    "name": "SÁROSY ZOLTÁN",
+    "county": "16",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "SAS ZOLTÁN|14|08": {
+    "code": 0,
+    "name": "SAS ZOLTÁN",
+    "county": "14",
+    "oevk": "08",
+    "party": "Jobbik"
+  },
+  "SASI-SZABÓ TAMÁS|09|01": {
+    "code": 0,
+    "name": "SASI-SZABÓ TAMÁS",
+    "county": "09",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "SASS BULCSÚ|09|05": {
+    "code": 0,
+    "name": "SASS BULCSÚ",
+    "county": "09",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "SCHMIDT ROLAND|07|02": {
+    "code": 0,
+    "name": "SCHMIDT ROLAND",
+    "county": "07",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "SCHULTZ GÁBOR|04|04": {
+    "code": 0,
+    "name": "SCHULTZ GÁBOR",
+    "county": "04",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "SERES-POLYÁK KATALIN|10|02": {
+    "code": 0,
+    "name": "SERES-POLYÁK KATALIN",
+    "county": "10",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "SERMER ÁDÁM|05|07": {
+    "code": 0,
+    "name": "SERMER ÁDÁM",
+    "county": "05",
+    "oevk": "07",
+    "party": "DK"
+  },
+  "DR. SESZTÁK MIKLÓS|16|03": {
+    "code": 0,
+    "name": "DR. SESZTÁK MIKLÓS",
+    "county": "16",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "SIMON ANITA ÉVA|03|02": {
+    "code": 0,
+    "name": "SIMON ANITA ÉVA",
+    "county": "03",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "SIMON GYÖRGY|01|02": {
+    "code": 0,
+    "name": "SIMON GYÖRGY",
+    "county": "01",
+    "oevk": "02",
+    "party": "Munkáspárt"
+  },
+  "SIMON JÓZSEF FERENC|14|04": {
+    "code": 0,
+    "name": "SIMON JÓZSEF FERENC",
+    "county": "14",
+    "oevk": "04",
+    "party": "Munkáspárt"
+  },
+  "DR. SIMON MIKLÓS|16|06": {
+    "code": 0,
+    "name": "DR. SIMON MIKLÓS",
+    "county": "16",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  },
+  "SIMON ZOLTÁN|08|04": {
+    "code": 0,
+    "name": "SIMON ZOLTÁN",
+    "county": "08",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "DR. SIMON ZSUZSÁNNA|16|04": {
+    "code": 0,
+    "name": "DR. SIMON ZSUZSÁNNA",
+    "county": "16",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "SIMONKA GYÖRGY|04|04": {
+    "code": 0,
+    "name": "SIMONKA GYÖRGY",
+    "county": "04",
+    "oevk": "04",
+    "party": null
+  },
+  "SIPOS IVETT|06|02": {
+    "code": 0,
+    "name": "SIPOS IVETT",
+    "county": "06",
+    "oevk": "02",
+    "party": "MKKP"
+  },
+  "SOM TAMÁS|07|03": {
+    "code": 0,
+    "name": "SOM TAMÁS",
+    "county": "07",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "SOMLAY RÓBERT|11|03": {
+    "code": 0,
+    "name": "SOMLAY RÓBERT",
+    "county": "11",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "SOMODY FERENC BALÁZS|14|09": {
+    "code": 0,
+    "name": "SOMODY FERENC BALÁZS",
+    "county": "14",
+    "oevk": "09",
+    "party": "MKKP"
+  },
+  "SOMOGYINÉ HATVANI ZSUZSANNA|01|15": {
+    "code": 0,
+    "name": "SOMOGYINÉ HATVANI ZSUZSANNA",
+    "county": "01",
+    "oevk": "15",
+    "party": "Mi Hazánk"
+  },
+  "DR. SOPOV ILDIKÓ ÉVA|12|01": {
+    "code": 0,
+    "name": "DR. SOPOV ILDIKÓ ÉVA",
+    "county": "12",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "STEINER ATTILA|01|03": {
+    "code": 0,
+    "name": "STEINER ATTILA",
+    "county": "01",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "STRASSZER JÓZSEF|07|02": {
+    "code": 0,
+    "name": "STRASSZER JÓZSEF",
+    "county": "07",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "STROMPOVÁ VIKTÓRIA|18|02": {
+    "code": 0,
+    "name": "STROMPOVÁ VIKTÓRIA",
+    "county": "18",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "DR. STUMPF PÉTER|06|01": {
+    "code": 0,
+    "name": "DR. STUMPF PÉTER",
+    "county": "06",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "SÜLI JÁNOS|17|03": {
+    "code": 0,
+    "name": "SÜLI JÁNOS",
+    "county": "17",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZABADI ISTVÁN|03|05": {
+    "code": 0,
+    "name": "SZABADI ISTVÁN",
+    "county": "03",
+    "oevk": "05",
+    "party": "Mi Hazánk"
+  },
+  "DR. SZABÓ ALEXANDRA|01|14": {
+    "code": 0,
+    "name": "DR. SZABÓ ALEXANDRA",
+    "county": "01",
+    "oevk": "14",
+    "party": "TISZA"
+  },
+  "SZABÓ BETTINA|11|04": {
+    "code": 0,
+    "name": "SZABÓ BETTINA",
+    "county": "11",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "SZABÓ GÉZA|05|06": {
+    "code": 0,
+    "name": "SZABÓ GÉZA",
+    "county": "05",
+    "oevk": "06",
+    "party": "Munkáspárt"
+  },
+  "SZABÓ ISTVÁN|06|03": {
+    "code": 0,
+    "name": "SZABÓ ISTVÁN",
+    "county": "06",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZABÓ LÁSZLÓ JÓZSEF|20|03": {
+    "code": 0,
+    "name": "SZABÓ LÁSZLÓ JÓZSEF",
+    "county": "20",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "SZABÓ MIKLÓS|19|02": {
+    "code": 0,
+    "name": "SZABÓ MIKLÓS",
+    "county": "19",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "SZABÓ PATRIK|03|03": {
+    "code": 0,
+    "name": "SZABÓ PATRIK",
+    "county": "03",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "SZABÓ ZOLTÁN|08|03": {
+    "code": 0,
+    "name": "SZABÓ ZOLTÁN",
+    "county": "08",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "SZABÓ ZSOLT|10|03": {
+    "code": 0,
+    "name": "SZABÓ ZSOLT",
+    "county": "10",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZABÓ-KELLNER KATALIN|01|16": {
+    "code": 0,
+    "name": "SZABÓ-KELLNER KATALIN",
+    "county": "01",
+    "oevk": "16",
+    "party": "LMP"
+  },
+  "SZABÓNÉ PAPP KLÁRA|14|08": {
+    "code": 0,
+    "name": "SZABÓNÉ PAPP KLÁRA",
+    "county": "14",
+    "oevk": "08",
+    "party": "Mi Hazánk"
+  },
+  "SZAFKÓ ZOLTÁN PÉTER|13|01": {
+    "code": 0,
+    "name": "SZAFKÓ ZOLTÁN PÉTER",
+    "county": "13",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "SZAJLAI JÁNOS|05|07": {
+    "code": 0,
+    "name": "SZAJLAI JÁNOS",
+    "county": "05",
+    "oevk": "07",
+    "party": "Mi Hazánk"
+  },
+  "SZAKÁCS PÉTER LAJOS|16|02": {
+    "code": 0,
+    "name": "SZAKÁCS PÉTER LAJOS",
+    "county": "16",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "SZALAI TIMEA|14|01": {
+    "code": 0,
+    "name": "SZALAI TIMEA",
+    "county": "14",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "SZALKAI IMRE|04|02": {
+    "code": 0,
+    "name": "SZALKAI IMRE",
+    "county": "04",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "SZANYI TIBOR|01|14": {
+    "code": 0,
+    "name": "SZANYI TIBOR",
+    "county": "01",
+    "oevk": "14",
+    "party": null
+  },
+  "SZARKA SÁNDOR|17|03": {
+    "code": 0,
+    "name": "SZARKA SÁNDOR",
+    "county": "17",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "SZARKÁNDINÉ JERSZI KATALIN|02|04": {
+    "code": 0,
+    "name": "SZARKÁNDINÉ JERSZI KATALIN",
+    "county": "02",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "SZATMÁRI BÉLA|06|03": {
+    "code": 0,
+    "name": "SZATMÁRI BÉLA",
+    "county": "06",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "SZATMÁRY KRISTÓF|01|14": {
+    "code": 0,
+    "name": "SZATMÁRY KRISTÓF",
+    "county": "01",
+    "oevk": "14",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZEGEDI JÁNOS ATTILA|11|04": {
+    "code": 0,
+    "name": "SZEGEDI JÁNOS ATTILA",
+    "county": "11",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "SZÉKELY DÁNIEL|03|06": {
+    "code": 0,
+    "name": "SZÉKELY DÁNIEL",
+    "county": "03",
+    "oevk": "06",
+    "party": "DK"
+  },
+  "SZÉKELY SÁNDOR|01|16": {
+    "code": 0,
+    "name": "SZÉKELY SÁNDOR",
+    "county": "01",
+    "oevk": "16",
+    "party": "Munkáspárt"
+  },
+  "DR. SZÉLES DIÁNA|09|02": {
+    "code": 0,
+    "name": "DR. SZÉLES DIÁNA",
+    "county": "09",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZELES SZABOLCS|08|01": {
+    "code": 0,
+    "name": "SZELES SZABOLCS",
+    "county": "08",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZÉLPÁL SZILÁRD|06|03": {
+    "code": 0,
+    "name": "SZÉLPÁL SZILÁRD",
+    "county": "06",
+    "oevk": "03",
+    "party": "MKKP"
+  },
+  "SZENTMIKLÓSI TAMÁS LÁSZLÓ|14|05": {
+    "code": 0,
+    "name": "SZENTMIKLÓSI TAMÁS LÁSZLÓ",
+    "county": "14",
+    "oevk": "05",
+    "party": "Munkáspárt"
+  },
+  "DR. SZIJJÁRTÓ GÁBOR|17|02": {
+    "code": 0,
+    "name": "DR. SZIJJÁRTÓ GÁBOR",
+    "county": "17",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "SZILÁGYI JÓZSEF|08|03": {
+    "code": 0,
+    "name": "SZILÁGYI JÓZSEF",
+    "county": "08",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "SZILASI GÁBOR|20|01": {
+    "code": 0,
+    "name": "SZILASI GÁBOR",
+    "county": "20",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZIMON RENÁTA|14|11": {
+    "code": 0,
+    "name": "SZIMON RENÁTA",
+    "county": "14",
+    "oevk": "11",
+    "party": "TISZA"
+  },
+  "SZIN RICHÁRD|01|15": {
+    "code": 0,
+    "name": "SZIN RICHÁRD",
+    "county": "01",
+    "oevk": "15",
+    "party": "MKKP"
+  },
+  "DR. SZINTAY ISTVÁN|01|01": {
+    "code": 0,
+    "name": "DR. SZINTAY ISTVÁN",
+    "county": "01",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "SZLOBODNIK LÁSZLÓ|05|06": {
+    "code": 0,
+    "name": "SZLOBODNIK LÁSZLÓ",
+    "county": "05",
+    "oevk": "06",
+    "party": "Jobbik"
+  },
+  "SZOLNOKI GÁBOR|05|01": {
+    "code": 0,
+    "name": "SZOLNOKI GÁBOR",
+    "county": "05",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "SZÖRÉNYI KÁROLY|09|03": {
+    "code": 0,
+    "name": "SZÖRÉNYI KÁROLY",
+    "county": "09",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "DR. SZŰCS LAJOS|14|08": {
+    "code": 0,
+    "name": "DR. SZŰCS LAJOS",
+    "county": "14",
+    "oevk": "08",
+    "party": "FIDESZ-KDNP"
+  },
+  "SZÜCS ZOLTÁN|19|01": {
+    "code": 0,
+    "name": "SZÜCS ZOLTÁN",
+    "county": "19",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "DR. TAKÁCS ÁRPÁD|04|01": {
+    "code": 0,
+    "name": "DR. TAKÁCS ÁRPÁD",
+    "county": "04",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "TAKÁCS IMRE FERENC|18|03": {
+    "code": 0,
+    "name": "TAKÁCS IMRE FERENC",
+    "county": "18",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "TAKÁCS LÁSZLÓ|17|02": {
+    "code": 0,
+    "name": "TAKÁCS LÁSZLÓ",
+    "county": "17",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "TAKÁCS PÉTER|19|04": {
+    "code": 0,
+    "name": "TAKÁCS PÉTER",
+    "county": "19",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "TÁLLAI ANDRÁS|05|07": {
+    "code": 0,
+    "name": "TÁLLAI ANDRÁS",
+    "county": "05",
+    "oevk": "07",
+    "party": "FIDESZ-KDNP"
+  },
+  "TANÁCS ZOLTÁN|01|01": {
+    "code": 0,
+    "name": "TANÁCS ZOLTÁN",
+    "county": "01",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "TANBERGER TIBOR|15|04": {
+    "code": 0,
+    "name": "TANBERGER TIBOR",
+    "county": "15",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "TÁRKÁNYI ZSOLT|09|01": {
+    "code": 0,
+    "name": "TÁRKÁNYI ZSOLT",
+    "county": "09",
+    "oevk": "01",
+    "party": "TISZA"
+  },
+  "DR. TARNAI RICHÁRD|01|08": {
+    "code": 0,
+    "name": "DR. TARNAI RICHÁRD",
+    "county": "01",
+    "oevk": "08",
+    "party": "FIDESZ-KDNP"
+  },
+  "TARR ZOLTÁN|01|16": {
+    "code": 0,
+    "name": "TARR ZOLTÁN",
+    "county": "01",
+    "oevk": "16",
+    "party": "TISZA"
+  },
+  "TASSI RÓBERT|14|09": {
+    "code": 0,
+    "name": "TASSI RÓBERT",
+    "county": "14",
+    "oevk": "09",
+    "party": "Mi Hazánk"
+  },
+  "TESSELY ZOLTÁN|07|03": {
+    "code": 0,
+    "name": "TESSELY ZOLTÁN",
+    "county": "07",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. TILKI ATTILA|16|04": {
+    "code": 0,
+    "name": "DR. TILKI ATTILA",
+    "county": "16",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. TIMÁR TAMÁS|06|01": {
+    "code": 0,
+    "name": "DR. TIMÁR TAMÁS",
+    "county": "06",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "TOMHAUSER FERENC|07|01": {
+    "code": 0,
+    "name": "TOMHAUSER FERENC",
+    "county": "07",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "TOMHAUSER-CZEGLÉDI ESZTER|07|03": {
+    "code": 0,
+    "name": "TOMHAUSER-CZEGLÉDI ESZTER",
+    "county": "07",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "TOMPA ENIKŐ|09|02": {
+    "code": 0,
+    "name": "TOMPA ENIKŐ",
+    "county": "09",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "TONZOR PÉTER|09|04": {
+    "code": 0,
+    "name": "TONZOR PÉTER",
+    "county": "09",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "TOROCZKAI LÁSZLÓ|06|02": {
+    "code": 0,
+    "name": "TOROCZKAI LÁSZLÓ",
+    "county": "06",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "TÓTH KÁLMÁN|01|11": {
+    "code": 0,
+    "name": "TÓTH KÁLMÁN",
+    "county": "01",
+    "oevk": "11",
+    "party": "MKKP"
+  },
+  "TÓTH PÉTER PÁL|16|03": {
+    "code": 0,
+    "name": "TÓTH PÉTER PÁL",
+    "county": "16",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "TÓTH TAMARA|16|06": {
+    "code": 0,
+    "name": "TÓTH TAMARA",
+    "county": "16",
+    "oevk": "06",
+    "party": "MKKP"
+  },
+  "TÓTH-BEERI SZILVIA|09|02": {
+    "code": 0,
+    "name": "TÓTH-BEERI SZILVIA",
+    "county": "09",
+    "oevk": "02",
+    "party": "Jobbik"
+  },
+  "TÓTHMAJOR BALÁZS|14|04": {
+    "code": 0,
+    "name": "TÓTHMAJOR BALÁZS",
+    "county": "14",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "TÖRŐ GÁBOR|07|02": {
+    "code": 0,
+    "name": "TÖRŐ GÁBOR",
+    "county": "07",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "TRENTIN BALÁZS|01|07": {
+    "code": 0,
+    "name": "TRENTIN BALÁZS",
+    "county": "01",
+    "oevk": "07",
+    "party": "TISZA"
+  },
+  "TROMPLER ILDIKÓ|14|07": {
+    "code": 0,
+    "name": "TROMPLER ILDIKÓ",
+    "county": "14",
+    "oevk": "07",
+    "party": "TISZA"
+  },
+  "TURÓ JENŐ|11|03": {
+    "code": 0,
+    "name": "TURÓ JENŐ",
+    "county": "11",
+    "oevk": "03",
+    "party": null
+  },
+  "TÚRÓ RICHÁRD|11|03": {
+    "code": 0,
+    "name": "TÚRÓ RICHÁRD",
+    "county": "11",
+    "oevk": "03",
+    "party": null
+  },
+  "TUZSON BENCE|14|05": {
+    "code": 0,
+    "name": "TUZSON BENCE",
+    "county": "14",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "TÜRK ATTILA|16|01": {
+    "code": 0,
+    "name": "TÜRK ATTILA",
+    "county": "16",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "UJVÁRI SZILVIA|19|04": {
+    "code": 0,
+    "name": "UJVÁRI SZILVIA",
+    "county": "19",
+    "oevk": "04",
+    "party": "TISZA"
+  },
+  "URBÁN DÁVID KILIÁN|14|11": {
+    "code": 0,
+    "name": "URBÁN DÁVID KILIÁN",
+    "county": "14",
+    "oevk": "11",
+    "party": "MKKP"
+  },
+  "URBÁN IMRE|11|02": {
+    "code": 0,
+    "name": "URBÁN IMRE",
+    "county": "11",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "URBIN GYÖRGY|14|13": {
+    "code": 0,
+    "name": "URBIN GYÖRGY",
+    "county": "14",
+    "oevk": "13",
+    "party": "Munkáspárt"
+  },
+  "DR. URSZÁN TAMÁS|14|12": {
+    "code": 0,
+    "name": "DR. URSZÁN TAMÁS",
+    "county": "14",
+    "oevk": "12",
+    "party": "MKKP"
+  },
+  "V.NÉMETH ZSOLT|18|03": {
+    "code": 0,
+    "name": "V.NÉMETH ZSOLT",
+    "county": "18",
+    "oevk": "03",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. VADAI ÁGNES|12|01": {
+    "code": 0,
+    "name": "DR. VADAI ÁGNES",
+    "county": "12",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "VADAI ATTILA|01|09": {
+    "code": 0,
+    "name": "VADAI ATTILA",
+    "county": "01",
+    "oevk": "09",
+    "party": "DK"
+  },
+  "VALENTIN ANDRÁS|01|16": {
+    "code": 0,
+    "name": "VALENTIN ANDRÁS",
+    "county": "01",
+    "oevk": "16",
+    "party": "MKKP"
+  },
+  "VÁMOS ZOLTÁN|18|01": {
+    "code": 0,
+    "name": "VÁMOS ZOLTÁN",
+    "county": "18",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. VÁNTSA BOTOND|14|10": {
+    "code": 0,
+    "name": "DR. VÁNTSA BOTOND",
+    "county": "14",
+    "oevk": "10",
+    "party": "FIDESZ-KDNP"
+  },
+  "VÁRADI BARNA|09|03": {
+    "code": 0,
+    "name": "VÁRADI BARNA",
+    "county": "09",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "VARGA BALÁZS|05|03": {
+    "code": 0,
+    "name": "VARGA BALÁZS",
+    "county": "05",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "VARGA BALÁZS|20|02": {
+    "code": 0,
+    "name": "VARGA BALÁZS",
+    "county": "20",
+    "oevk": "02",
+    "party": "TISZA"
+  },
+  "VARGA FERENC|06|03": {
+    "code": 0,
+    "name": "VARGA FERENC",
+    "county": "06",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "VARGA GÁBOR|07|05": {
+    "code": 0,
+    "name": "VARGA GÁBOR",
+    "county": "07",
+    "oevk": "05",
+    "party": "FIDESZ-KDNP"
+  },
+  "VARGA GERGŐ|05|04": {
+    "code": 0,
+    "name": "VARGA GERGŐ",
+    "county": "05",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "VARGA JÁNOS|10|02": {
+    "code": 0,
+    "name": "VARGA JÁNOS",
+    "county": "10",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "VARGA TAMÁS|02|01": {
+    "code": 0,
+    "name": "VARGA TAMÁS",
+    "county": "02",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "VARGA ZOLTÁN|09|01": {
+    "code": 0,
+    "name": "VARGA ZOLTÁN",
+    "county": "09",
+    "oevk": "01",
+    "party": "DK"
+  },
+  "VARGHA TAMÁS|07|01": {
+    "code": 0,
+    "name": "VARGHA TAMÁS",
+    "county": "07",
+    "oevk": "01",
+    "party": "FIDESZ-KDNP"
+  },
+  "VARJU LÁSZLÓ|01|12": {
+    "code": 0,
+    "name": "VARJU LÁSZLÓ",
+    "county": "01",
+    "oevk": "12",
+    "party": "DK"
+  },
+  "VÁRKONYI ZOLTÁN|01|01": {
+    "code": 0,
+    "name": "VÁRKONYI ZOLTÁN",
+    "county": "01",
+    "oevk": "01",
+    "party": "Munkáspárt"
+  },
+  "VASVÁRI PÉTER LAJOS|14|03": {
+    "code": 0,
+    "name": "VASVÁRI PÉTER LAJOS",
+    "county": "14",
+    "oevk": "03",
+    "party": "DK"
+  },
+  "VASZKÓ IMRE|09|02": {
+    "code": 0,
+    "name": "VASZKÓ IMRE",
+    "county": "09",
+    "oevk": "02",
+    "party": "DK"
+  },
+  "VÉGH ANNAMÁRIA|07|01": {
+    "code": 0,
+    "name": "VÉGH ANNAMÁRIA",
+    "county": "07",
+    "oevk": "01",
+    "party": "Mi Hazánk"
+  },
+  "VÉKONY CSONGOR|01|07": {
+    "code": 0,
+    "name": "VÉKONY CSONGOR",
+    "county": "01",
+    "oevk": "07",
+    "party": null
+  },
+  "VELKEY GYÖRGY LÁSZLÓ|01|06": {
+    "code": 0,
+    "name": "VELKEY GYÖRGY LÁSZLÓ",
+    "county": "01",
+    "oevk": "06",
+    "party": "TISZA"
+  },
+  "VERES CSABA|06|04": {
+    "code": 0,
+    "name": "VERES CSABA",
+    "county": "06",
+    "oevk": "04",
+    "party": "Mi Hazánk"
+  },
+  "VESELICZ TIBORNÉ|04|04": {
+    "code": 0,
+    "name": "VESELICZ TIBORNÉ",
+    "county": "04",
+    "oevk": "04",
+    "party": "DK"
+  },
+  "VICZÁN PÉTER|11|01": {
+    "code": 0,
+    "name": "VICZÁN PÉTER",
+    "county": "11",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "VIDÓ ATTILA|04|03": {
+    "code": 0,
+    "name": "VIDÓ ATTILA",
+    "county": "04",
+    "oevk": "03",
+    "party": "Mi Hazánk"
+  },
+  "VIDÓ EDIT MÁRTA|04|04": {
+    "code": 0,
+    "name": "VIDÓ EDIT MÁRTA",
+    "county": "04",
+    "oevk": "04",
+    "party": "Jobbik"
+  },
+  "VILCSEK ERNŐ|05|03": {
+    "code": 0,
+    "name": "VILCSEK ERNŐ",
+    "county": "05",
+    "oevk": "03",
+    "party": "Jobbik"
+  },
+  "VINCZE OLGA|19|03": {
+    "code": 0,
+    "name": "VINCZE OLGA",
+    "county": "19",
+    "oevk": "03",
+    "party": "Munkáspárt"
+  },
+  "VINKLÁR LÁSZLÓ|07|05": {
+    "code": 0,
+    "name": "VINKLÁR LÁSZLÓ",
+    "county": "07",
+    "oevk": "05",
+    "party": "MKKP"
+  },
+  "DR. VINNAI GYŐZŐ|16|02": {
+    "code": 0,
+    "name": "DR. VINNAI GYŐZŐ",
+    "county": "16",
+    "oevk": "02",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. VIRÁGH GABRIELLA|01|08": {
+    "code": 0,
+    "name": "DR. VIRÁGH GABRIELLA",
+    "county": "01",
+    "oevk": "08",
+    "party": "TISZA"
+  },
+  "DR. VITÁLYOS ESZTER|14|04": {
+    "code": 0,
+    "name": "DR. VITÁLYOS ESZTER",
+    "county": "14",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "DR. VITÁNYI ISTVÁN|09|04": {
+    "code": 0,
+    "name": "DR. VITÁNYI ISTVÁN",
+    "county": "09",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "VÖRÖS JÁNOS|09|02": {
+    "code": 0,
+    "name": "VÖRÖS JÁNOS",
+    "county": "09",
+    "oevk": "02",
+    "party": "Mi Hazánk"
+  },
+  "WEIGAND ISTVÁN|01|05": {
+    "code": 0,
+    "name": "WEIGAND ISTVÁN",
+    "county": "01",
+    "oevk": "05",
+    "party": "TISZA"
+  },
+  "WIEDERMANN ATTILA|05|06": {
+    "code": 0,
+    "name": "WIEDERMANN ATTILA",
+    "county": "05",
+    "oevk": "06",
+    "party": "DK"
+  },
+  "WITZMANN MIHÁLY|15|04": {
+    "code": 0,
+    "name": "WITZMANN MIHÁLY",
+    "county": "15",
+    "oevk": "04",
+    "party": "FIDESZ-KDNP"
+  },
+  "ZAKUPSZKI TAMÁS|02|01": {
+    "code": 0,
+    "name": "ZAKUPSZKI TAMÁS",
+    "county": "02",
+    "oevk": "01",
+    "party": "MKKP"
+  },
+  "ZELENKA JÁNOS|08|05": {
+    "code": 0,
+    "name": "ZELENKA JÁNOS",
+    "county": "08",
+    "oevk": "05",
+    "party": "MKKP"
+  },
+  "DR. ZSIDRÓ LÁSZLÓ|01|14": {
+    "code": 0,
+    "name": "DR. ZSIDRÓ LÁSZLÓ",
+    "county": "01",
+    "oevk": "14",
+    "party": "Mi Hazánk"
+  },
+  "ZSIGMOND BARNA PÁL|01|12": {
+    "code": 0,
+    "name": "ZSIGMOND BARNA PÁL",
+    "county": "01",
+    "oevk": "12",
+    "party": "FIDESZ-KDNP"
+  },
+  "ZSIGÓ RÓBERT|03|06": {
+    "code": 0,
+    "name": "ZSIGÓ RÓBERT",
+    "county": "03",
+    "oevk": "06",
+    "party": "FIDESZ-KDNP"
+  }
+}
