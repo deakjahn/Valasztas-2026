@@ -154,11 +154,43 @@ namespace Választás_2026 {
     private static void ProcessPollingStations(DataTable table) {
       foreach (var row in table.Rows.Cast<DataRow>().Skip(6)) {
         string County = Candidate.GetCounty(Hungarian.ToUpper(row.CellString(0)));
+        string Settlement = OEVK.ExtractSettlement(row.CellString(1));
         string Id = row.CellString(2);
-        string OEVK = row.CellString(3);
-        string Key = $"{County}|{OEVK}|{Id}";
+        string EVK = row.CellString(3);
+        string Key = $"{County}|{Settlement}|{EVK}|{Id}";
+        if (StationAddresses.ContainsKey(Key))
+          throw new DataException($"Ismétlődő szavazókör: {Key}");
         StationAddresses[Key] = row.CellString(5);
       }
+    }
+
+    private static string ExtractSettlement(string name) {
+      return name switch {
+        "Budapest I. kerület" => "01",
+        "Budapest II. kerület" => "02",
+        "Budapest III. kerület" => "03",
+        "Budapest IV. kerület" => "04",
+        "Budapest V. kerület" => "05",
+        "Budapest VI. kerület" => "06",
+        "Budapest VII. kerület" => "07",
+        "Budapest VIII. kerület" => "08",
+        "Budapest IX. kerület" => "09",
+        "Budapest X. kerület" => "10",
+        "Budapest XI. kerület" => "11",
+        "Budapest XII. kerület" => "12",
+        "Budapest XIII. kerület" => "13",
+        "Budapest XIV. kerület" => "14",
+        "Budapest XV. kerület" => "15",
+        "Budapest XVI. kerület" => "16",
+        "Budapest XVII. kerület" => "17",
+        "Budapest XVIII. kerület" => "18",
+        "Budapest XIX. kerület" => "19",
+        "Budapest XX. kerület" => "20",
+        "Budapest XXI. kerület" => "21",
+        "Budapest XXII. kerület" => "22",
+        "Budapest XXIII. kerület" => "23",
+        _ => name,
+      };
     }
 
     private static void ProcessOEVKs(County county, DataTableCollection tables) {
@@ -182,7 +214,7 @@ namespace Választás_2026 {
         foreach (var row in table.Rows.Cast<DataRow>().Skip(2)) {
           var station = PollingStation.Create(row, OEVK.Code);
 
-          Key = $"{county.Code}|{OEVK.Code}|{station.Id}";
+          Key = $"{county.Code}|{ExtractSettlement(station.Settlement)}|{OEVK.Code}|{station.Id}";
           if (StationAddresses.TryGetValue(Key, out string? value))
             station.Description = value;
           else
