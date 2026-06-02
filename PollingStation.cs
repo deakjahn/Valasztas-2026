@@ -30,7 +30,7 @@ namespace Választás_2026 {
     public string Name => NamePart().Match(Description).Value;
 
     [JsonPropertyName("address")]
-    public string Address => AddressPart().Match(Description).Value;
+    public string Address => Extensions.FirstValid(AddressPart().Match(Description).Value, Description);
 
     [JsonPropertyName("absentee")]
     public int Absentee { get; set; } = 0;

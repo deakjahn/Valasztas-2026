@@ -276,7 +276,7 @@ nem csak a választáson végül ténylegesen elindultak.
 oldalról származik (a fájl letöltéskor kap időbélyeget a nevébe, tehát a fájlnév nem stabil). Az eredeti formátum CSV volt.
 
 * `korzet.xls` — Az egyes szavazókörök címét egy harmadik adathalmazból kellett kiemelni. Ez — teljesen érthetetlen módon —
-nem is használja a szavazókörök egyedi azonosítóját, szerencsére ettől még az egymáshoz rendelés sikeresen megtörténik.
+nem is használja a szavazókörök egyedi azonosítóját, szerencsére ettől még az egymáshoz rendelés némi ravaszkodással megoldható.
 
 * `oevk.json` — A választókerületek térképi megjelenítéshez szükséges adatok. Az NVI megjelölésével ellentétben
 ez egyáltalán nem GeoJSON, csak egy sima koordináta-pár és -lista.

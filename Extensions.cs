@@ -2,7 +2,14 @@
 using System.Globalization;
 
 namespace Választás_2026 {
-  public static class DataSetExtensions {
+  public static class Extensions {
+
+    public static string FirstValid(params string[] strings) {
+      foreach (string s in strings)
+        if (!string.IsNullOrEmpty(s))
+          return s;
+      return string.Empty;
+    }
 
     public static object? Cell(this DataRow row, int index) {
       if (index < 0 || index >= row.ItemArray.Length)
