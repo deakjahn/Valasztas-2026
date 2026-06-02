@@ -28,7 +28,7 @@ ellenőrzéseket, kiigazításokat.
 
 A fejléc a két azonosítón kívül az állandóan visszatérő elemeket írja le — ilyenek a pártok és a nemzetiségek:
 
-```
+```json
 {
   "year": 2026,
   "generated": "2026-05-31T20:59:09.9583934Z",
@@ -79,7 +79,7 @@ A tényleges adatok hierarchiájának legfelső szintjén a vármegyék állnak.
 (országgyűlési egyéni választókerületek). Ezek a néven és kódjukon kívül tartalmazzák a földrajzi középpontjuk
 koordinátáit és a választókerület határát leíró poligon koordináta-sorozatát is.
 
-```
+```json
   "counties": {
     "01": {
       "code": "01",
@@ -90,12 +90,19 @@ koordinátáit és a választókerület határát leíró poligon koordináta-so
           "name": "01. evk",
           "center": "47.490980 19.045150",
           "border": "47.5146939015652 19.0436777064605,47.5147366015652 19.0434745064606,...,47.514130201565 19.0452562064603",
+          "voted": 73914, // Választókerület jelöltjeire szavazók aktuális száma
+          "domicile": 68236, // Hazai szavazókörben lakcím szerint szavazók száma
+          "transferOut": 2851, // Belföldön más OEVK-ba átjelentkezettek száma
+          "transferIn": 7451, // OEVK-ba átjelentkezett szavazók száma
+          "absentee": 2827, // Külképviseleten szavazók száma
+          "register": 75687, // Választókerületi névjegyzékben szereplő választópolgárok aktuális száma
+          "inland": 68236, // Hazai szavazókörben lakcím szerint szavazók száma
 ```
 
 Minden OEVK az elején leírja a benne induló egyéni jelölteket (a szavazatok később ezzel a kulcssal
 hivatkoznak vissza a jelöltekre):
 
-```
+```json
           "candidates": {
             "1": {
               "code": 1,
@@ -125,7 +132,7 @@ a szavazókörökhöz rendelni.
 A — természetesen amúgy a JSON-ban nem használt — megjegyzések a szavazóköri jegyzőkönyvek és a feldolgozott XLS-fájlok
 rubrikáira és jelmagyarázatára utalnak:
 
-```
+```json
           "stations": {
             "01-001-001-5": {
               "code": "01-001-001-5",
@@ -143,7 +150,7 @@ rubrikáira és jelmagyarázatára utalnak:
               "inperson": 1006, // F = Szavazókörben szavazó választópolgárok száma
               "notstamped": 0, // O = Urnában és a beérkezett lezárt borítékokban lévő, bélyegzőlenyomat nélküli szavazólapok száma
               "stamped": 1002, // K = Urnában és a beérkezett lezárt borítékokban lévő, lebélyegzett szavazólapok száma
-              "difference": 0, // L = Eltérés a szavazóként megjelenetk számától (L=K-J; többlet:+/hiány:-)
+              "difference": 0, // L = Eltérés a szavazóként megjelentek számától (L=K-J; többlet:+/hiány:-)
               "invalid": 2, // M = Érvénytelen lebélyegzett szavazólapok száma
               "valid": 1000, // N = Érvényes szavazólapok száma
 ```
@@ -151,7 +158,7 @@ rubrikáira és jelmagyarázatára utalnak:
 Az általános, egész szavazókörre érvényes statisztikai adatok után elsőként a listákra leadott szavazatok jelennek meg.
 A `votes` kulcsai a fejlécben felsorolt pártok azonosítói. 
 
-```
+```json
               "list": {
                 "register": 1154,
                 "inperson": 1004,
@@ -173,7 +180,7 @@ A `votes` kulcsai a fejlécben felsorolt pártok azonosítói.
 Ezután következnek az egyéni képviselőjelöltekre leadott szavazatok, a statisztikai adatok értelmezése megegyezik a korábbival,
 az egyes jelöltek kulcsa az OEVK fejlécében felsorolt jelöltekre hivatkozik vissza:
 
-```
+```json
               "individual": {
                 "register": 1156,
                 "voters": 1156,
@@ -198,7 +205,7 @@ az egyes jelöltek kulcsa az OEVK fejlécében felsorolt jelöltekre hivatkozik 
 A szavazókör adatai a nemzetiségi listákra leadott szavazatokkal zárulnak. A `byList` kulcsai a fejlécben definiált
 nemzetiségek kódjára hivatkoznak:
 
-```
+```json
               "nationalities": {
                 "register": 2,
                 "inperson": 2,
@@ -233,7 +240,7 @@ nemzetiségek kódjára hivatkoznak:
 
 A szavazókör adatainak végeztével jön a következő:
 
-```
+```json
             "01-001-002-1": {
               "code": "01-001-002-1",
               "oevk": "01",
@@ -253,53 +260,35 @@ majd így tovább, a következő OEVK, és a következő vármegye.
 
 A konvertáló program az `Adatok/Eredeti` mappában levő fájlokat dolgozza fel. A fájlok szinte mindegyike a
 [valasztas.hu ide vonatkozó oldaláról](https://www.valasztas.hu/ogy2026-letoltheto-es-tovabbfeldolgozhato-adatok)
-származik. Az adatok legnagyobb része a
+származik.
 
-* `<vármegye> listás 2026.xls`
-* `<vármegye> OEVK egyéni 2026.xls`
-
-fájlpárból kerül ki (a Pest vármegyei listásba kézzel bele kellett javítani, mert a főoldala a többihez képest tartalmaz egy
+* `<vármegye> listás 2026.xls` és `<vármegye> OEVK egyéni 2026.xls` — Az adatok legnagyobb része ezekből a fájlpárokból kerül ki
+(a Pest vármegyei listásba kézzel bele kellett javítani, mert a főoldala a többihez képest tartalmaz egy
 felesleges sort).
 
-Ahogy az elején említettem, a fenti adatok egyáltalán nem tartalmazzák az egyéni jelöltek pártját, ezért azt egy párhuzamos
-adathalmazból kell kiemelni. Ez a fájl a [Jelölő szervezetek, jelöltek](https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek?tab=jeloltek)
-oldalról származik (a fájl letöltéskor kap időbélyeget a nevébe, tehát a lenti fájlnév nem stabil):
+* `jeloltek_20260531.xls` — Mivel a fenti adatok egyáltalán nem tartalmazzák az egyéni jelöltek pártját, ezért azt egy
+párhuzamos adathalmazból kell kiemelni. Ez a fájl a [Jelölő szervezetek, jelöltek](https://vtr.valasztas.hu/ogy2026/jelolo-szervezetek?tab=jeloltek)
+oldalról származik (a fájl letöltéskor kap időbélyeget a nevébe, tehát a fájlnév nem stabil). Az eredeti formátum CSV volt,
+az itt található XLS ahhoz képest már szűrt változat, mert az eredetiben a különféle köztes státuszú jelöltek is megtalálhatók,
+nem csak a választáson végül ténylegesen elindultak.
 
-* `jeloltek_20260531.xls`
+* `oevk-valasztopolgarok_2026062.xls` — OEVK-szintű statisztikai adatok. Ez a fájl az [Egyéni választókerületek](https://vtr.valasztas.hu/ogy2026/egyeni-valasztokeruletek?filter=orszagos)
+oldalról származik (a fájl letöltéskor kap időbélyeget a nevébe, tehát a fájlnév nem stabil). Az eredeti formátum CSV volt.
 
-Az eredeti formátum CSV, az itt található XLS ahhoz képest már szűrt változat, mert az eredetiben a különféle köztes státuszú
-jelöltek is megtalálhatók, nem csak a választáson végül ténylegesen elindultak.
+* `korzet.xls` — Az egyes szavazókörök címét egy harmadik adathalmazból kellett kiemelni. Ez — teljesen érthetetlen módon —
+nem is használja a szavazókörök egyedi azonosítóját, szerencsére ettől még az egymáshoz rendelés sikeresen megtörténik.
 
-Az egyes szavazókörök címét egy harmadik adathalmazból kellett kiemelni:
-
-* `korzet.xls`
-
-ráadásul ez — teljesen érthetetlen módon — nem is használja a szavazókörök egyedi azonosítóját, szerencsére ettől még
-az egymáshoz rendelés sikeresen megtörténik.
-
-A térképi megjelenítéshez szükséges adatok egy negyedik fájlból származnak:
-
-* `oevk.json`
-
-Az NVI megjelölésével ellentétben ez egyáltalán nem GeoJSON, csak egy sima koordináta-pár és -lista.
+* `oevk.json` — A választókerületek térképi megjelenítéshez szükséges adatok. Az NVI megjelölésével ellentétben
+ez egyáltalán nem GeoJSON, csak egy sima koordináta-pár és -lista.
 
 ## Kimeneti fájlok
 
-Az egyértelműen fontos kimenet az
+* `ogy2026.json` — A fájl, amely a választás teljes adatanyagát tartalmazza.
 
-* `ogy2026.json`
+* `ogy2026_jeloltek.json` — Mivel a feldolgozás során amúgy is elő kellett állítani, a program lementi a jelöltek adatait.
+A kulcs — a névegyezésekből eredő ütközések elkerülésére — a _név|vármegye|OEVK_ kombinációból áll.
 
-fájl, amely a választás teljes adatanyagát tartalmazza. Mivel a feldolgozás során amúgy is elő kellett állítani,
-a program lementi az
-
-* `ogy2026_jeloltek.json`
-
-fájlt is, amelyben a jelöltek adatai találhatók. A kulcs — a névegyezésekből eredő ütközések elkerülésére —
-a _név|vármegye|OEVK_ kombinációból áll.
-
-* `ogy2026_schema.json`
-
-A kimeneti fájl sémáját tartalmazza JSON Schema formátumban.
+* `ogy2026_schema.json` — A kimeneti fájl sémája JSON Schema formátumban.
 
 ## Felhasználás
 

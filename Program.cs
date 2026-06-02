@@ -71,6 +71,7 @@ namespace Választás_2026 {
       ProcessOEVK();
       ProcessIndividual();
       ProcessList();
+      ProcessOEVKStats();
 
       string OutputPath = Path.Combine(OutputFolder, $"ogy{election.Year}.json");
       var options = new JsonSerializerOptions {
@@ -105,6 +106,14 @@ namespace Választás_2026 {
       using var @in = File.Open(InputPath, FileMode.Open, FileAccess.Read);
       var Data = JsonSerializer.Deserialize<List<Geo>>(@in) ?? [];
       OEVKData = Data.ToDictionary(item => $"{item.County}|{item.OEVK}", item => item);
+    }
+
+    private static void ProcessOEVKStats() {
+      string InputPath = Path.Combine(InputFolder, "oevk-valasztopolgarok_2026062.xls");
+      Trace.WriteLine(InputPath);
+      using var @in = File.Open(InputPath, FileMode.Open, FileAccess.Read);
+      using var reader = ExcelReaderFactory.CreateReader(@in);
+      ProcessStatistics(reader.AsDataSet().Tables[0]);
     }
 
     private static void ProcessIndividual() {
@@ -183,6 +192,22 @@ namespace Választás_2026 {
         }
         county.OEVKs[OEVK.Code] = OEVK;
         count++;
+      }
+    }
+
+    private static void ProcessStatistics(DataTable table) {
+      foreach (var row in table.Rows.Cast<DataRow>().Skip(1)) {
+        string[] Parts = row.CellString(1).Split(", ");
+        string CountyId = Candidate.ExtractCounty(Parts.First());
+        string OEVKId = Candidate.ExtractOEVK(Parts.Last());
+        var OEVK = election.Counties[CountyId].OEVKs[OEVKId];
+        OEVK.Voted = row.CellInt(2);
+        OEVK.Domicile = row.CellInt(3);
+        OEVK.TransferOut = row.CellInt(4);
+        OEVK.Absentee = row.CellInt(5);
+        OEVK.Register = row.CellInt(6);
+        OEVK.Inland = row.CellInt(7);
+        OEVK.TransferIn = row.CellInt(8);
       }
     }
 

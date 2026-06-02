@@ -69,7 +69,7 @@ namespace Választás_2026 {
       };
     }
 
-    private static string ExtractCounty(string name) {
+    public static string ExtractCounty(string name) {
       return name switch {
         "Budapest főváros" => "01",
         "Baranya vármegye" => "02",
@@ -95,7 +95,7 @@ namespace Választás_2026 {
       };
     }
 
-    private static string ExtractOEVK(string name) {
+    public static string ExtractOEVK(string name) {
       return name switch {
         "01. számú egyéni választókerület" => "01",
         "02. számú egyéni választókerület" => "02",

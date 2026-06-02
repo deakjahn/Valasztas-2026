@@ -83,7 +83,7 @@
         },
         "difference": {
           "type": "integer",
-          "description": "L = Eltérés a szavazóként megjelenetk számától (L=K-J; többlet:+/hiány:-)"
+          "description": "L = Eltérés a szavazóként megjelentek számától (L=K-J; többlet:+/hiány:-)"
         },
         "invalid": {
           "type": "integer",
@@ -118,6 +118,34 @@
         "name": { "type": "string" },
         "center": { "type": "string" },
         "border": { "type": "string" },
+        "voted": {
+          "type": "integer",
+          "description": "Választókerület jelöltjeire szavazók aktuális száma"
+        },
+        "domicile": {
+          "type": "integer",
+          "description": "Hazai szavazókörben lakcím szerint szavazók száma"
+        },
+        "transferOut": {
+          "type": "integer",
+          "description": "Belföldön más OEVK-ba átjelentkezettek száma"
+        },
+        "transferIn": {
+          "type": "integer",
+          "description": "OEVK-ba átjelentkezett szavazók száma"
+        },
+        "absentee": {
+          "type": "integer",
+          "description": "Külképviseleten szavazók száma"
+        },
+        "register": {
+          "type": "integer",
+          "description": "Választókerületi névjegyzékben szereplő választópolgárok aktuális száma"
+        },
+        "inland": {
+          "type": "integer",
+          "description": "Hazai szavazókörben lakcím szerint szavazók száma"
+        },
         "candidates": {
           "type": "object",
           "patternProperties": {
@@ -133,7 +161,7 @@
           "additionalProperties": false
         }
       },
-      "required": [ "code", "name", "center", "border", "candidates", "stations" ]
+      "required": [ "code", "name", "center", "border", "voted", "domicile", "transferOut", "transferIn", "absentee", "register", "inland", "candidates", "stations" ]
     },
     "station": {
       "allOf": [
