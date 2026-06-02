@@ -135,7 +135,8 @@ namespace Választás_2026 {
         string OEVK = row.CellString(3);
         if (!string.IsNullOrEmpty(OEVK)) {
           var candidate = Candidate.Identify(row);
-          if (PartyCandidates.ContainsKey(candidate.Key)) throw new DataException($"Ismétlődő név: {candidate.Key}");
+          if (PartyCandidates.ContainsKey(candidate.Key))
+            throw new DataException($"Ismétlődő név: {candidate.Key}");
           PartyCandidates[candidate.Key] = candidate;
         }
       }

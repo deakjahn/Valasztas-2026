@@ -295,8 +295,11 @@ a program lementi az
 * `ogy2026_jeloltek.json`
 
 fájlt is, amelyben a jelöltek adatai találhatók. A kulcs — a névegyezésekből eredő ütközések elkerülésére —
-a _név|vármegye|OEVK_ kombinációból áll. A neveken semmilyen átalakítás nem történt, minden úgy maradt, beleértve a
-meglehetősen sajátos nagybetűs írásmódot, ahogy az eredeti fájlok tartalmazták.
+a _név|vármegye|OEVK_ kombinációból áll.
+
+* `ogy2026_schema.json`
+
+A kimeneti fájl sémáját tartalmazza JSON Schema formátumban.
 
 ## Felhasználás
 

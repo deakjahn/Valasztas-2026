@@ -1,0 +1,238 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/deakjahn/Valasztas-2026/ogy2026_schema.json",
+  "type": "object",
+  "properties": {
+    "year": { "const": 2026 },
+    "generated": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "parties": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]+$": { "$ref": "#/$defs/party" }
+      },
+      "additionalProperties": false
+    },
+    "nationalities": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]+$": { "$ref": "#/$defs/nationality" }
+      },
+      "additionalProperties": false
+    },
+    "counties": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-2][0-9]$": { "$ref": "#/$defs/county" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": [ "year", "generated", "parties", "nationalities", "counties" ],
+  "$defs": {
+    "party": {
+      "type": "object",
+      "properties": {
+        "code": { "type": "integer" },
+        "abbreviation": { "type": "string" },
+        "name": { "type": "string" }
+      },
+      "required": [ "code", "abbreviation", "name" ]
+    },
+    "nationality": {
+      "type": "object",
+      "properties": {
+        "code": { "type": "integer" },
+        "abbreviation": { "type": "string" },
+        "name": { "type": "string" }
+      },
+      "required": [ "code", "abbreviation", "name" ]
+    },
+    "candidate": {
+      "type": "object",
+      "properties": {
+        "code": { "type": "integer" },
+        "name": { "type": "string" },
+        "name2": { "type": "string" },
+        "county": { "type": "string" },
+        "oevk": { "type": "string" },
+        "party": { "type": "string" }
+      },
+      "required": [ "code", "name", "name2", "county", "oevk", "party" ]
+    },
+    "ballots": {
+      "type": "object",
+      "properties": {
+        "register": {
+          "type": "integer",
+          "description": "A = Szavazóköri névjegyzékben lévő választópolgárok száma"
+        },
+        "inperson": {
+          "type": "integer",
+          "description": "F = Szavazókörben szavazó választópolgárok száma"
+        },
+        "notstamped": {
+          "type": "integer",
+          "description": "O = Urnában és a beérkezett lezárt borítékokban lévő, bélyegzőlenyomat nélküli szavazólapok száma"
+        },
+        "stamped": {
+          "type": "integer",
+          "description": "K = Urnában és a beérkezett lezárt borítékokban lévő, lebélyegzett szavazólapok száma"
+        },
+        "difference": {
+          "type": "integer",
+          "description": "L = Eltérés a szavazóként megjelenetk számától (L=K-J; többlet:+/hiány:-)"
+        },
+        "invalid": {
+          "type": "integer",
+          "description": "M = Érvénytelen lebélyegzett szavazólapok száma"
+        },
+        "valid": {
+          "type": "integer",
+          "description": "N = Érvényes szavazólapok száma"
+        }
+      },
+      "required": [ "register", "inperson", "notstamped", "stamped", "difference", "invalid", "valid" ]
+    },
+    "county": {
+      "type": "object",
+      "properties": {
+        "code": { "type": "string" },
+        "name": { "type": "string" },
+        "oevks": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9][0-9]$": { "$ref": "#/$defs/oevk" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [ "code", "name", "oevks" ]
+    },
+    "oevk": {
+      "type": "object",
+      "properties": {
+        "code": { "type": "string" },
+        "name": { "type": "string" },
+        "center": { "type": "string" },
+        "border": { "type": "string" },
+        "candidates": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]+$": { "$ref": "#/$defs/candidate" }
+          },
+          "additionalProperties": false
+        },
+        "stations": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9]$": { "$ref": "#/$defs/station" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [ "code", "name", "center", "border", "candidates", "stations" ]
+    },
+    "station": {
+      "allOf": [
+        { "$ref": "#/$defs/ballots" },
+        {
+          "type": "object",
+          "properties": {
+            "code": { "type": "string" },
+            "oevk": { "type": "string" },
+            "settlement": { "type": "string" },
+            "description": { "type": "string" },
+            "name": { "type": "string" },
+            "address": { "type": "string" },
+            "absentee": {
+              "type": "integer",
+              "description": "C = Külképviseleti névjegyzékben lévő választópolgárok száma"
+            },
+            "transfer": {
+              "type": "integer",
+              "description": "B = Az átjelentkezett választópolgárok száma"
+            },
+            "voters": {
+              "type": "integer",
+              "description": "E = Választópolgárok száma összesen"
+            },
+            "voted": {
+              "type": "integer",
+              "description": "J = Szavazó választópolgárok száma összesen"
+            },
+            "envelope": {
+              "type": "integer",
+              "description": "I = Átjelentkezéssel és külképviseleten szavazó választópolgárok beérkezett lezárt borítékjainak száma"
+            },
+            "list": {
+              "allOf": [
+                { "$ref": "#/$defs/ballots" },
+                {
+                  "type": "object",
+                  "properties": {
+                    "votes": {
+                      "type": "object",
+                      "patternProperties": {
+                        "^[0-9]+$": { "type": "integer" }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [ "votes" ]
+                }
+              ]
+            },
+            "individual": {
+              "allOf": [
+                { "$ref": "#/$defs/ballots" },
+                {
+                  "type": "object",
+                  "properties": {
+                    "voters": {
+                      "type": "integer",
+                      "description": "E = Választópolgárok száma összesen"
+                    },
+                    "voted": {
+                      "type": "integer",
+                      "description": "J = Szavazó választópolgárok száma összesen"
+                    },
+                    "votes": {
+                      "type": "object",
+                      "patternProperties": {
+                        "^[0-9]+$": { "type": "integer" }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [ "voters", "voted", "votes" ]
+                }
+              ]
+            },
+            "nationalities": {
+              "allOf": [
+                { "$ref": "#/$defs/ballots" },
+                {
+                  "type": "object",
+                  "properties": {
+                    "byList": {
+                      "type": "object",
+                      "patternProperties": {
+                        "^[0-9]+$": { "$ref": "#/$defs/ballots" }
+                      },
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [ "byList" ]
+                }
+              ]
+            }
+          },
+          "required": [ "code", "oevk", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
+        }
+      ]
+    }
+  }
+}
