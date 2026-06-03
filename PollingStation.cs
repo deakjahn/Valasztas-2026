@@ -27,10 +27,15 @@ namespace Választás_2026 {
     public string Description { get; set; } = string.Empty;
 
     [JsonPropertyName("name")]
-    public string Name => NamePart().Match(Description).Value;
+    public string Name => FixPeriod(Extensions.FirstValid(
+      NamePartParens().Match(Description).Value,
+      NamePartSlash().Match(Description).Value));
 
     [JsonPropertyName("address")]
-    public string Address => Extensions.FirstValid(AddressPart().Match(Description).Value, Description);
+    public string Address => FixPeriod(Extensions.FirstValid(
+      AddressPartParens().Match(Description).Value,
+      AddressPartSlash().Match(Description).Value,
+      Description));
 
     [JsonPropertyName("absentee")]
     public int Absentee { get; set; } = 0;
@@ -132,9 +137,22 @@ namespace Választás_2026 {
     }
 
     [GeneratedRegex(@"(?<=\().+?(?=\))")]
-    private static partial Regex NamePart();
+    private static partial Regex NamePartParens();
+
+    [GeneratedRegex(@"(?<=\s*/\s*).+")]
+    private static partial Regex NamePartSlash();
 
     [GeneratedRegex(@"^.*?(?=\s*\()")]
-    private static partial Regex AddressPart();
+    private static partial Regex AddressPartParens();
+
+    [GeneratedRegex(@"^.*?(?=\s*/\s*)")]
+    private static partial Regex AddressPartSlash();
+
+    [GeneratedRegex(@"\.(?=\S)")]
+    private static partial Regex WrongPeriod();
+
+    private string FixPeriod(string s) {
+      return WrongPeriod().Replace(s, ". ");
+    }
   }
 }

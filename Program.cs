@@ -233,13 +233,13 @@ namespace Választás_2026 {
         string CountyId = Candidate.ExtractCounty(Parts.First());
         string OEVKId = Candidate.ExtractOEVK(Parts.Last());
         var OEVK = election.Counties[CountyId].OEVKs[OEVKId];
-        OEVK.Voted = row.CellInt(2);
-        OEVK.Domicile = row.CellInt(3);
-        OEVK.TransferOut = row.CellInt(4);
-        OEVK.Absentee = row.CellInt(5);
-        OEVK.Register = row.CellInt(6);
-        OEVK.Inland = row.CellInt(7);
-        OEVK.TransferIn = row.CellInt(8);
+        OEVK.Voted = row.CellInt(2); // Választókerület jelöltjeire szavazók aktuális száma
+        OEVK.Domicile = row.CellInt(3); // Hazai szavazókörben lakcím szerint szavazók száma
+        OEVK.TransferOut = row.CellInt(4); // Belföldön más OEVK-ba átjelentkezettek száma
+        OEVK.Absentee = row.CellInt(5); // Külképviseleten szavazók száma
+        OEVK.Register = row.CellInt(6); // Választókerületi névjegyzékben szereplő választópolgárok aktuális száma
+        OEVK.Inland = row.CellInt(7); // Hazai szavazókörben lakcím szerint szavazók száma
+        OEVK.TransferIn = row.CellInt(8); // OEVK-ba átjelentkezett szavazók száma
       }
     }
 
