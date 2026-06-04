@@ -18,7 +18,7 @@ namespace Választás_2026 {
     [JsonPropertyName("county")]
     public string County { get; set; } = string.Empty;
 
-    [JsonPropertyName("oevk")]
+    [JsonPropertyName("constituency")]
     public string OEVK { get; set; } = string.Empty;
 
     [JsonPropertyName("party")]

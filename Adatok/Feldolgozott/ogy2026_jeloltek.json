@@ -4,7 +4,7 @@
     "name": "ABDALLAH-MAGDY SZABRINA",
     "name2": "Abdallah-Magdy Szabrina",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "ÁBRAHÁM BARNABÁS|12|03": {
@@ -12,7 +12,7 @@
     "name": "ÁBRAHÁM BARNABÁS",
     "name2": "Ábrahám Barnabás",
     "county": "12",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "ÁCS JÓZSEF|02|04": {
@@ -20,7 +20,7 @@
     "name": "ÁCS JÓZSEF",
     "name2": "Ács József",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "ÁDÁM EMESE|14|05": {
@@ -28,7 +28,7 @@
     "name": "ÁDÁM EMESE",
     "name2": "Ádám Emese",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "MKKP"
   },
   "ADAMASKY LŐRINC|07|04": {
@@ -36,7 +36,7 @@
     "name": "ADAMASKY LŐRINC",
     "name2": "Adamasky Lőrinc",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "ADORJÁN BÉLA|16|04": {
@@ -44,7 +44,7 @@
     "name": "ADORJÁN BÉLA",
     "name2": "Adorján Béla",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "ÁGH PÉTER|18|02": {
@@ -52,7 +52,7 @@
     "name": "ÁGH PÉTER",
     "name2": "Ágh Péter",
     "county": "18",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "ANDER BALÁZS|15|02": {
@@ -60,7 +60,7 @@
     "name": "ANDER BALÁZS",
     "name2": "Ander Balázs",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "ANDRÁS KÁROLY|03|01": {
@@ -68,7 +68,7 @@
     "name": "ANDRÁS KÁROLY",
     "name2": "András Károly",
     "county": "03",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "ANTAL SZABOLCS|09|03": {
@@ -76,7 +76,7 @@
     "name": "ANTAL SZABOLCS",
     "name2": "Antal Szabolcs",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "DR. APÁTI ISTVÁN|16|05": {
@@ -84,7 +84,7 @@
     "name": "DR. APÁTI ISTVÁN",
     "name2": "Dr. Apáti István",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "ARATÓ GERGELY|01|07": {
@@ -92,7 +92,7 @@
     "name": "ARATÓ GERGELY",
     "name2": "Arató Gergely",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": "DK"
   },
   "DR. ÁRVAY NIKOLETT|12|03": {
@@ -100,7 +100,7 @@
     "name": "DR. ÁRVAY NIKOLETT",
     "name2": "Dr. Árvay Nikolett",
     "county": "12",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "AUTH ISTVÁN|02|01": {
@@ -108,7 +108,7 @@
     "name": "AUTH ISTVÁN",
     "name2": "Auth István",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "BACSIKNÉ SZIGETI GABRIELLA|16|01": {
@@ -116,7 +116,7 @@
     "name": "BACSIKNÉ SZIGETI GABRIELLA",
     "name2": "Bacsikné Szigeti Gabriella",
     "county": "16",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "BAGDI PIROSKA JUDIT|05|03": {
@@ -124,7 +124,7 @@
     "name": "BAGDI PIROSKA JUDIT",
     "name2": "Bagdi Piroska Judit",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "BAGI REA|04|01": {
@@ -132,7 +132,7 @@
     "name": "BAGI REA",
     "name2": "Bagi Rea",
     "county": "04",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "BAGYURA MÁRTON|02|02": {
@@ -140,7 +140,7 @@
     "name": "BAGYURA MÁRTON",
     "name2": "Bagyura Márton",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "BAJNOK GYULA|13|01": {
@@ -148,7 +148,7 @@
     "name": "BAJNOK GYULA",
     "name2": "Bajnok Gyula",
     "county": "13",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "BAKAI-NAGY ZITA|15|04": {
@@ -156,7 +156,7 @@
     "name": "BAKAI-NAGY ZITA",
     "name2": "Bakai-Nagy Zita",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "BAKK ISTVÁN|19|03": {
@@ -164,7 +164,7 @@
     "name": "BAKK ISTVÁN",
     "name2": "Bakk István",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "BAKÓ JÓZSEF ISTVÁN|16|02": {
@@ -172,7 +172,7 @@
     "name": "BAKÓ JÓZSEF ISTVÁN",
     "name2": "Bakó József István",
     "county": "16",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "BAKÓ NORBERT|17|01": {
@@ -180,7 +180,7 @@
     "name": "BAKÓ NORBERT",
     "name2": "Bakó Norbert",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "BAKOS CSABA ATTILA|15|03": {
@@ -188,7 +188,7 @@
     "name": "BAKOS CSABA ATTILA",
     "name2": "Bakos Csaba Attila",
     "county": "15",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BALAJTI ISTVÁN|14|08": {
@@ -196,7 +196,7 @@
     "name": "BALAJTI ISTVÁN",
     "name2": "Balajti István",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "TISZA"
   },
   "BALANYI ISTVÁN|03|02": {
@@ -204,7 +204,7 @@
     "name": "BALANYI ISTVÁN",
     "name2": "Balanyi István",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "DR. BALATINCZ PÉTER|19|03": {
@@ -212,7 +212,7 @@
     "name": "DR. BALATINCZ PÉTER",
     "name2": "Dr. Balatincz Péter",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BALLA MIHÁLY|13|02": {
@@ -220,7 +220,7 @@
     "name": "BALLA MIHÁLY",
     "name2": "Balla Mihály",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "BALLA PÉTER|10|01": {
@@ -228,7 +228,7 @@
     "name": "BALLA PÉTER",
     "name2": "Balla Péter",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "BALOG CSABA|01|12": {
@@ -236,7 +236,7 @@
     "name": "BALOG CSABA",
     "name2": "Balog Csaba",
     "county": "01",
-    "oevk": "12",
+    "constituency": "12",
     "party": "Mi Hazánk"
   },
   "BALOGH IMRE ATTILÁNÉ|11|01": {
@@ -244,7 +244,7 @@
     "name": "BALOGH IMRE ATTILÁNÉ",
     "name2": "Balogh Imre Attiláné",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "BALOGHNÉ RUSZNYÁK SAROLTA|05|05": {
@@ -252,7 +252,7 @@
     "name": "BALOGHNÉ RUSZNYÁK SAROLTA",
     "name2": "Baloghné Rusznyák Sarolta",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": null
   },
   "BÁNNÉ DR. GÁL BOGLÁRKA|05|05": {
@@ -260,7 +260,7 @@
     "name": "BÁNNÉ DR. GÁL BOGLÁRKA",
     "name2": "Bánné Dr. Gál Boglárka",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "BÁNYAI AMIR ATTILA|01|16": {
@@ -268,7 +268,7 @@
     "name": "BÁNYAI AMIR ATTILA",
     "name2": "Bányai Amir Attila",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "DK"
   },
   "BÁNYAI GÁBOR|03|05": {
@@ -276,7 +276,7 @@
     "name": "BÁNYAI GÁBOR",
     "name2": "Bányai Gábor",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "BARABÁS GYÖRGY LÁSZLÓ|01|03": {
@@ -284,7 +284,7 @@
     "name": "BARABÁS GYÖRGY LÁSZLÓ",
     "name2": "Barabás György László",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "DR. BARCZA ATTILA|08|04": {
@@ -292,7 +292,7 @@
     "name": "DR. BARCZA ATTILA",
     "name2": "Dr. Barcza Attila",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "DR. BARCSA LAJOS|09|01": {
@@ -300,7 +300,7 @@
     "name": "DR. BARCSA LAJOS",
     "name2": "Dr. Barcsa Lajos",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "BÁRKÁNYI BENCE|06|03": {
@@ -308,7 +308,7 @@
     "name": "BÁRKÁNYI BENCE",
     "name2": "Bárkányi Bence",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BARKÓCZI BALÁZS|01|13": {
@@ -316,7 +316,7 @@
     "name": "BARKÓCZI BALÁZS",
     "name2": "Barkóczi Balázs",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "DK"
   },
   "DR. BARNA-SZABÓ TÍMEA|16|06": {
@@ -324,7 +324,7 @@
     "name": "DR. BARNA-SZABÓ TÍMEA",
     "name2": "Dr. Barna-Szabó Tímea",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "BARTAL ANDRÁS|01|13": {
@@ -332,7 +332,7 @@
     "name": "BARTAL ANDRÁS",
     "name2": "Bartal András",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "Mi Hazánk"
   },
   "BARTHA BARNA|14|14": {
@@ -340,7 +340,7 @@
     "name": "BARTHA BARNA",
     "name2": "Bartha Barna",
     "county": "14",
-    "oevk": "14",
+    "constituency": "14",
     "party": "Mi Hazánk"
   },
   "BECSÓ ZSOLT|13|01": {
@@ -348,7 +348,7 @@
     "name": "BECSÓ ZSOLT",
     "name2": "Becsó Zsolt",
     "county": "13",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "DR. BEKE ERZSÉBET|02|04": {
@@ -356,7 +356,7 @@
     "name": "DR. BEKE ERZSÉBET",
     "name2": "Dr. Beke Erzsébet",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Szentkorona"
   },
   "BÉKÉSI SÁNDOR|04|04": {
@@ -364,7 +364,7 @@
     "name": "BÉKÉSI SÁNDOR",
     "name2": "Békési Sándor",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "BENCZE GÁBORNÉ|08|01": {
@@ -372,7 +372,7 @@
     "name": "BENCZE GÁBORNÉ",
     "name2": "Bencze Gáborné",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "BENCSIK JÁNOS|12|01": {
@@ -380,7 +380,7 @@
     "name": "BENCSIK JÁNOS",
     "name2": "Bencsik János",
     "county": "12",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "BENKE JÓZSEF|15|02": {
@@ -388,7 +388,7 @@
     "name": "BENKE JÓZSEF",
     "name2": "Benke József",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "BERECZKI MIKLÓS|01|16": {
@@ -396,7 +396,7 @@
     "name": "BERECZKI MIKLÓS",
     "name2": "Bereczki Miklós",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": null
   },
   "BERÉNYI GÁBOR|07|04": {
@@ -404,7 +404,7 @@
     "name": "BERÉNYI GÁBOR",
     "name2": "Berényi Gábor",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "BÉRES BALÁZS ÁKOS|09|04": {
@@ -412,7 +412,7 @@
     "name": "BÉRES BALÁZS ÁKOS",
     "name2": "Béres Balázs Ákos",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "BERKÓ ATTILA|11|01": {
@@ -420,7 +420,7 @@
     "name": "BERKÓ ATTILA",
     "name2": "Berkó Attila",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "DR. BIHARI ZOLTÁN|05|06": {
@@ -428,7 +428,7 @@
     "name": "DR. BIHARI ZOLTÁN",
     "name2": "Dr. Bihari Zoltán",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "DR. BILISICS ZITA|14|09": {
@@ -436,7 +436,7 @@
     "name": "DR. BILISICS ZITA",
     "name2": "Dr. Bilisics Zita",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "TISZA"
   },
   "BINDER CSABA|01|04": {
@@ -444,7 +444,7 @@
     "name": "BINDER CSABA",
     "name2": "Binder Csaba",
     "county": "01",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "BLAU SÁNDOR|10|01": {
@@ -452,7 +452,7 @@
     "name": "BLAU SÁNDOR",
     "name2": "Blau Sándor",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "BLAU VIRÁG|05|02": {
@@ -460,7 +460,7 @@
     "name": "BLAU VIRÁG",
     "name2": "Blau Virág",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "BODA BÁNK|12|01": {
@@ -468,7 +468,7 @@
     "name": "BODA BÁNK",
     "name2": "Boda Bánk",
     "county": "12",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "BODA NIKOLETTA|01|11": {
@@ -476,7 +476,7 @@
     "name": "BODA NIKOLETTA",
     "name2": "Boda Nikoletta",
     "county": "01",
-    "oevk": "11",
+    "constituency": "11",
     "party": "TISZA"
   },
   "BODÁCS KÁROLY|08|02": {
@@ -484,7 +484,7 @@
     "name": "BODÁCS KÁROLY",
     "name2": "Bodács Károly",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "BÓDI CSABA BENDEGÚZ|11|02": {
@@ -492,7 +492,7 @@
     "name": "BÓDI CSABA BENDEGÚZ",
     "name2": "Bódi Csaba Bendegúz",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "BÓDIS KRISZTA|01|02": {
@@ -500,7 +500,7 @@
     "name": "BÓDIS KRISZTA",
     "name2": "Bódis Kriszta",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "DR. BÓDIS PÉTER|10|01": {
@@ -508,7 +508,7 @@
     "name": "DR. BÓDIS PÉTER",
     "name2": "Dr. Bódis Péter",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "BODÓ LÁSZLÓ|20|03": {
@@ -516,7 +516,7 @@
     "name": "BODÓ LÁSZLÓ",
     "name2": "Bodó László",
     "county": "20",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "BODÓ SÁNDOR|09|05": {
@@ -524,7 +524,7 @@
     "name": "BODÓ SÁNDOR",
     "name2": "Bodó Sándor",
     "county": "09",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "BODÓCZI ISTVÁN|04|01": {
@@ -532,7 +532,7 @@
     "name": "BODÓCZI ISTVÁN",
     "name2": "Bodóczi István",
     "county": "04",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "DR. BOGNÁR LÁSZLÓ|14|05": {
@@ -540,7 +540,7 @@
     "name": "DR. BOGNÁR LÁSZLÓ",
     "name2": "Dr. Bognár László",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "BOKÁNYI BERTOLD|07|02": {
@@ -548,7 +548,7 @@
     "name": "BOKÁNYI BERTOLD",
     "name2": "Bokányi Bertold",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "BOLBÁS ILDIKÓ|14|06": {
@@ -556,7 +556,7 @@
     "name": "BOLBÁS ILDIKÓ",
     "name2": "Bolbás Ildikó",
     "county": "14",
-    "oevk": "06",
+    "constituency": "06",
     "party": "MKKP"
   },
   "BOMBICZ TAMÁS|01|14": {
@@ -564,7 +564,7 @@
     "name": "BOMBICZ TAMÁS",
     "name2": "Bombicz Tamás",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": "MKKP"
   },
   "BÓNA SZABOLCS|08|03": {
@@ -572,7 +572,7 @@
     "name": "BÓNA SZABOLCS",
     "name2": "Bóna Szabolcs",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BÓNA ZOLTÁN|14|09": {
@@ -580,7 +580,7 @@
     "name": "BÓNA ZOLTÁN",
     "name2": "Bóna Zoltán",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "FIDESZ-KDNP"
   },
   "BORICS MIHÁLY|07|02": {
@@ -588,7 +588,7 @@
     "name": "BORICS MIHÁLY",
     "name2": "Borics Mihály",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "BORKUTI BÁLINT|01|13": {
@@ -596,7 +596,7 @@
     "name": "BORKUTI BÁLINT",
     "name2": "Borkuti Bálint",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "MKKP"
   },
   "BOROS DÁNIEL|14|01": {
@@ -604,7 +604,7 @@
     "name": "BOROS DÁNIEL",
     "name2": "Boros Dániel",
     "county": "14",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "DR. BORVENDÉG ZSUZSANNA|14|03": {
@@ -612,7 +612,7 @@
     "name": "DR. BORVENDÉG ZSUZSANNA",
     "name2": "Dr. Borvendég Zsuzsanna",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "BOTLÓ KORNÉL|14|10": {
@@ -620,7 +620,7 @@
     "name": "BOTLÓ KORNÉL",
     "name2": "Botló Kornél",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "Mi Hazánk"
   },
   "DR. BÖGI VIKTÓRIA|07|03": {
@@ -628,7 +628,7 @@
     "name": "DR. BÖGI VIKTÓRIA",
     "name2": "Dr. Bögi Viktória",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BÖJTE ZITA|14|05": {
@@ -636,7 +636,7 @@
     "name": "BÖJTE ZITA",
     "name2": "Böjte Zita",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Jobbik"
   },
   "BUCZKÓ RÉKA|19|01": {
@@ -644,7 +644,7 @@
     "name": "BUCZKÓ RÉKA",
     "name2": "Buczkó Réka",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "DR. BUGYA LÁSZLÓ|16|05": {
@@ -652,7 +652,7 @@
     "name": "DR. BUGYA LÁSZLÓ",
     "name2": "Dr. Bugya László",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "BUJDOSÓ ANDREA ANNA|14|03": {
@@ -660,7 +660,7 @@
     "name": "BUJDOSÓ ANDREA ANNA",
     "name2": "Bujdosó Andrea Anna",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "BURAI ERIKA|11|03": {
@@ -668,7 +668,7 @@
     "name": "BURAI ERIKA",
     "name2": "Burai Erika",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "BÜRGER ZOLTÁN|01|03": {
@@ -676,7 +676,7 @@
     "name": "BÜRGER ZOLTÁN",
     "name2": "Bürger Zoltán",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "CZEGLÉDI JÁNOS|01|07": {
@@ -684,7 +684,7 @@
     "name": "CZEGLÉDI JÁNOS",
     "name2": "Czeglédi János",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": "Mi Hazánk"
   },
   "DR. CZIPA ANDRÁS|05|02": {
@@ -692,7 +692,7 @@
     "name": "DR. CZIPA ANDRÁS",
     "name2": "Dr. Czipa András",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "DR. CZIRÁKI ATTILA|02|01": {
@@ -700,7 +700,7 @@
     "name": "DR. CZIRÁKI ATTILA",
     "name2": "Dr. Cziráki Attila",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "CZIRBUS GÁBOR|06|04": {
@@ -708,7 +708,7 @@
     "name": "CZIRBUS GÁBOR",
     "name2": "Czirbus Gábor",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "DR. CZUCZOR GERGELY|14|02": {
@@ -716,7 +716,7 @@
     "name": "DR. CZUCZOR GERGELY",
     "name2": "Dr. Czuczor Gergely",
     "county": "14",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "CZUNYINÉ DR. BERTALAN JUDIT|12|03": {
@@ -724,7 +724,7 @@
     "name": "CZUNYINÉ DR. BERTALAN JUDIT",
     "name2": "Czunyiné Dr. Bertalan Judit",
     "county": "12",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "CSÁK LÁSZLÓ|09|03": {
@@ -732,7 +732,7 @@
     "name": "CSÁK LÁSZLÓ",
     "name2": "Csák László",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "CSÁRDI ANTAL|01|02": {
@@ -740,7 +740,7 @@
     "name": "CSÁRDI ANTAL",
     "name2": "Csárdi Antal",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": null
   },
   "CSATÁRI ERNŐ|15|04": {
@@ -748,7 +748,7 @@
     "name": "CSATÁRI ERNŐ",
     "name2": "Csatári Ernő",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "CSATÓ DÁNIEL|17|02": {
@@ -756,7 +756,7 @@
     "name": "CSATÓ DÁNIEL",
     "name2": "Csató Dániel",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "CSEFKÓ BALÁZS|09|05": {
@@ -764,7 +764,7 @@
     "name": "CSEFKÓ BALÁZS",
     "name2": "Csefkó Balázs",
     "county": "09",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "CSEH TAMÁS|17|03": {
@@ -772,7 +772,7 @@
     "name": "CSEH TAMÁS",
     "name2": "Cseh Tamás",
     "county": "17",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "CSEH TAMÁS|03|02": {
@@ -780,7 +780,7 @@
     "name": "CSEH TAMÁS",
     "name2": "Cseh Tamás",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "CSERESNYÉS PÉTER|20|03": {
@@ -788,7 +788,7 @@
     "name": "CSERESNYÉS PÉTER",
     "name2": "Cseresnyés Péter",
     "county": "20",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "CSÉZI ERZSÉBET|05|07": {
@@ -796,7 +796,7 @@
     "name": "CSÉZI ERZSÉBET",
     "name2": "Csézi Erzsébet",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "TISZA"
   },
   "DR. CSIBI KRISZTINA|17|02": {
@@ -804,7 +804,7 @@
     "name": "DR. CSIBI KRISZTINA",
     "name2": "Dr. Csibi Krisztina",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "CSIGE TAMÁS|09|06": {
@@ -812,7 +812,7 @@
     "name": "CSIGE TAMÁS",
     "name2": "Csige Tamás",
     "county": "09",
-    "oevk": "06",
+    "constituency": "06",
     "party": "DK"
   },
   "CSIKÓS BOTOND|04|02": {
@@ -820,7 +820,7 @@
     "name": "CSIKÓS BOTOND",
     "name2": "Csikós Botond",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "CSISZÁR BÉLA|07|01": {
@@ -828,7 +828,7 @@
     "name": "CSISZÁR BÉLA",
     "name2": "Csiszár Béla",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "CSIZMADIA CSEKE|14|10": {
@@ -836,7 +836,7 @@
     "name": "CSIZMADIA CSEKE",
     "name2": "Csizmadia Cseke",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "MKKP"
   },
   "CSOMA KRISZTIÁN|08|05": {
@@ -844,7 +844,7 @@
     "name": "CSOMA KRISZTIÁN",
     "name2": "Csoma Krisztián",
     "county": "08",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "CSONTOS BENCE|03|06": {
@@ -852,7 +852,7 @@
     "name": "CSONTOS BENCE",
     "name2": "Csontos Bence",
     "county": "03",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "CSÖBÖR KATALIN|05|01": {
@@ -860,7 +860,7 @@
     "name": "CSÖBÖR KATALIN",
     "name2": "Csöbör Katalin",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "CSŐSZI ATTILA|03|01": {
@@ -868,7 +868,7 @@
     "name": "CSŐSZI ATTILA",
     "name2": "Csőszi Attila",
     "county": "03",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "DR. CSUZDA GÁBOR|05|03": {
@@ -876,7 +876,7 @@
     "name": "DR. CSUZDA GÁBOR",
     "name2": "Dr. Csuzda Gábor",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "D. KOVÁCS RÓBERT ANTAL|01|07": {
@@ -884,7 +884,7 @@
     "name": "D. KOVÁCS RÓBERT ANTAL",
     "name2": "D. Kovács Róbert Antal",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": "FIDESZ-KDNP"
   },
   "DALA FERENC|18|02": {
@@ -892,7 +892,7 @@
     "name": "DALA FERENC",
     "name2": "Dala Ferenc",
     "county": "18",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "DANKA DÁVID|14|02": {
@@ -900,7 +900,7 @@
     "name": "DANKA DÁVID",
     "name2": "Danka Dávid",
     "county": "14",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "DR. DANKA LAJOS|18|01": {
@@ -908,7 +908,7 @@
     "name": "DR. DANKA LAJOS",
     "name2": "Dr. Danka Lajos",
     "county": "18",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "DANKÓ BÉLA|04|02": {
@@ -916,7 +916,7 @@
     "name": "DANKÓ BÉLA",
     "name2": "Dankó Béla",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "DARÓCZI ZOLTÁN|01|14": {
@@ -924,7 +924,7 @@
     "name": "DARÓCZI ZOLTÁN",
     "name2": "Daróczi Zoltán",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": null
   },
   "DEÁK BALÁZS|14|03": {
@@ -932,7 +932,7 @@
     "name": "DEÁK BALÁZS",
     "name2": "Deák Balázs",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "DEÁK GÁBOR|18|02": {
@@ -940,7 +940,7 @@
     "name": "DEÁK GÁBOR",
     "name2": "Deák Gábor",
     "county": "18",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "DEÁK LAJOS|18|03": {
@@ -948,7 +948,7 @@
     "name": "DEÁK LAJOS",
     "name2": "Deák Lajos",
     "county": "18",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "DELINÉ GRÁCZ GRÉTA|15|04": {
@@ -956,7 +956,7 @@
     "name": "DELINÉ GRÁCZ GRÉTA",
     "name2": "Deliné Grácz Gréta",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DEMETER ZOLTÁN|05|04": {
@@ -964,7 +964,7 @@
     "name": "DEMETER ZOLTÁN",
     "name2": "Demeter Zoltán",
     "county": "05",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "DÉNES ISTVÁN|02|02": {
@@ -972,7 +972,7 @@
     "name": "DÉNES ISTVÁN",
     "name2": "Dénes István",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "DICSŐ VIKTÓRIA|16|03": {
@@ -980,7 +980,7 @@
     "name": "DICSŐ VIKTÓRIA",
     "name2": "Dicső Viktória",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "DIÓSZEGI JUDIT|08|01": {
@@ -988,7 +988,7 @@
     "name": "DIÓSZEGI JUDIT",
     "name2": "Diószegi Judit",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "DOBOS ERZSÉBET|17|03": {
@@ -996,7 +996,7 @@
     "name": "DOBOS ERZSÉBET",
     "name2": "Dobos Erzsébet",
     "county": "17",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "DÓCS DÁVID|13|02": {
@@ -1004,7 +1004,7 @@
     "name": "DÓCS DÁVID",
     "name2": "Dócs Dávid",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "DOHÁNY ANDRÁS|05|02": {
@@ -1012,7 +1012,7 @@
     "name": "DOHÁNY ANDRÁS",
     "name2": "Dohány András",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": null
   },
   "DOHÁNYNÉ VARRÓ ANNA|05|01": {
@@ -1020,7 +1020,7 @@
     "name": "DOHÁNYNÉ VARRÓ ANNA",
     "name2": "Dohányné Varró Anna",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": null
   },
   "DOHI KITTI ERIKA|03|05": {
@@ -1028,7 +1028,7 @@
     "name": "DOHI KITTI ERIKA",
     "name2": "Dohi Kitti Erika",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Munkáspárt"
   },
   "DOMJÁN ÁKOS DONÁT|19|04": {
@@ -1036,7 +1036,7 @@
     "name": "DOMJÁN ÁKOS DONÁT",
     "name2": "Domján Ákos Donát",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "DOMOKOS ZSUZSANNA|16|05": {
@@ -1044,7 +1044,7 @@
     "name": "DOMOKOS ZSUZSANNA",
     "name2": "Domokos Zsuzsanna",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "DOROGI GYULA|14|10": {
@@ -1052,7 +1052,7 @@
     "name": "DOROGI GYULA",
     "name2": "Dorogi Gyula",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "Munkáspárt"
   },
   "DÓSA FERENC|15|02": {
@@ -1060,7 +1060,7 @@
     "name": "DÓSA FERENC",
     "name2": "Dósa Ferenc",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "DÖME ZSUZSANNA|05|03": {
@@ -1068,7 +1068,7 @@
     "name": "DÖME ZSUZSANNA",
     "name2": "Döme Zsuzsanna",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "DUDÁS RÓBERT|10|02": {
@@ -1076,7 +1076,7 @@
     "name": "DUDÁS RÓBERT",
     "name2": "Dudás Róbert",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "DUNAI MÓNIKA|01|15": {
@@ -1084,7 +1084,7 @@
     "name": "DUNAI MÓNIKA",
     "name2": "Dunai Mónika",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "FIDESZ-KDNP"
   },
   "DÚRÓ DÓRA|17|02": {
@@ -1092,7 +1092,7 @@
     "name": "DÚRÓ DÓRA",
     "name2": "Dúró Dóra",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "ÉBERLING BALÁZS|03|06": {
@@ -1100,7 +1100,7 @@
     "name": "ÉBERLING BALÁZS",
     "name2": "Éberling Balázs",
     "county": "03",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "EDŐCS BEÁTA|01|05": {
@@ -1108,7 +1108,7 @@
     "name": "EDŐCS BEÁTA",
     "name2": "Edőcs Beáta",
     "county": "01",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "ENDRE BÉLA|03|04": {
@@ -1116,7 +1116,7 @@
     "name": "ENDRE BÉLA",
     "name2": "Endre Béla",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "ERDÉLYI ÁKOS|15|01": {
@@ -1124,7 +1124,7 @@
     "name": "ERDÉLYI ÁKOS",
     "name2": "Erdélyi Ákos",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "ERDŐS NORBERT|04|04": {
@@ -1132,7 +1132,7 @@
     "name": "ERDŐS NORBERT",
     "name2": "Erdős Norbert",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "ERŐS GÁBOR|12|02": {
@@ -1140,7 +1140,7 @@
     "name": "ERŐS GÁBOR",
     "name2": "Erős Gábor",
     "county": "12",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "F. KOVÁCS SÁNDOR|11|03": {
@@ -1148,7 +1148,7 @@
     "name": "F. KOVÁCS SÁNDOR",
     "name2": "F. Kovács Sándor",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "FÁBIÁN ÁRON BENDE|12|02": {
@@ -1156,7 +1156,7 @@
     "name": "FÁBIÁN ÁRON BENDE",
     "name2": "Fábián Áron Bende",
     "county": "12",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "FARKAS ATTILA|20|01": {
@@ -1164,7 +1164,7 @@
     "name": "FARKAS ATTILA",
     "name2": "Farkas Attila",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "DR. FARKAS CSONGOR|11|04": {
@@ -1172,7 +1172,7 @@
     "name": "DR. FARKAS CSONGOR",
     "name2": "Dr. Farkas Csongor",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "FARKAS DÁVID|05|01": {
@@ -1180,7 +1180,7 @@
     "name": "FARKAS DÁVID",
     "name2": "Farkas Dávid",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "FARKAS KÁLMÁN|16|06": {
@@ -1188,7 +1188,7 @@
     "name": "FARKAS KÁLMÁN",
     "name2": "Farkas Kálmán",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "DK"
   },
   "FARKAS LÁSZLÓ|17|01": {
@@ -1196,7 +1196,7 @@
     "name": "FARKAS LÁSZLÓ",
     "name2": "Farkas László",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "DR. FARKAS LEVENTE|06|01": {
@@ -1204,7 +1204,7 @@
     "name": "DR. FARKAS LEVENTE",
     "name2": "Dr. Farkas Levente",
     "county": "06",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "FARKAS TÍMEA|01|15": {
@@ -1212,7 +1212,7 @@
     "name": "FARKAS TÍMEA",
     "name2": "Farkas Tímea",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "NÉP"
   },
   "FAZAKAS ATTILA|07|02": {
@@ -1220,7 +1220,7 @@
     "name": "FAZAKAS ATTILA",
     "name2": "Fazakas Attila",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "FAZEKAS CSILLA|01|01": {
@@ -1228,7 +1228,7 @@
     "name": "FAZEKAS CSILLA",
     "name2": "Fazekas Csilla",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "FEHÉR BENJÁMIN|11|03": {
@@ -1236,7 +1236,7 @@
     "name": "FEHÉR BENJÁMIN",
     "name2": "Fehér Benjámin",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": "KÁP"
   },
   "FEJES TIBOR|04|03": {
@@ -1244,7 +1244,7 @@
     "name": "FEJES TIBOR",
     "name2": "Fejes Tibor",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "FEKETE BÉLA|16|03": {
@@ -1252,7 +1252,7 @@
     "name": "FEKETE BÉLA",
     "name2": "Fekete Béla",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "DR. FEKETE DÁVID|08|02": {
@@ -1260,7 +1260,7 @@
     "name": "DR. FEKETE DÁVID",
     "name2": "Dr. Fekete Dávid",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "FEKETE GYÖRGY|01|08": {
@@ -1268,7 +1268,7 @@
     "name": "FEKETE GYÖRGY",
     "name2": "Fekete György",
     "county": "01",
-    "oevk": "08",
+    "constituency": "08",
     "party": "Mi Hazánk"
   },
   "FELDMAN LÁSZLÓ|14|13": {
@@ -1276,7 +1276,7 @@
     "name": "FELDMAN LÁSZLÓ",
     "name2": "Feldman László",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "FIDESZ-KDNP"
   },
   "FENYVES DÁVID GYÖRGY|15|04": {
@@ -1284,7 +1284,7 @@
     "name": "FENYVES DÁVID GYÖRGY",
     "name2": "Fenyves Dávid György",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "FERANCZ NORBERT|01|08": {
@@ -1292,7 +1292,7 @@
     "name": "FERANCZ NORBERT",
     "name2": "Ferancz Norbert",
     "county": "01",
-    "oevk": "08",
+    "constituency": "08",
     "party": "MKKP"
   },
   "DR. FERENCZ ORSOLYA|01|02": {
@@ -1300,7 +1300,7 @@
     "name": "DR. FERENCZ ORSOLYA",
     "name2": "Dr. Ferencz Orsolya",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "DR. FERENCZI GÁBOR|06|04": {
@@ -1308,7 +1308,7 @@
     "name": "DR. FERENCZI GÁBOR",
     "name2": "Dr. Ferenczi Gábor",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "DR. FISZTER ZSUZSANNA|05|04": {
@@ -1316,7 +1316,7 @@
     "name": "DR. FISZTER ZSUZSANNA",
     "name2": "Dr. Fiszter Zsuzsanna",
     "county": "05",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "FIZEL JÓZSEF|12|02": {
@@ -1324,7 +1324,7 @@
     "name": "FIZEL JÓZSEF",
     "name2": "Fizel József",
     "county": "12",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "FODOR BETTINA|14|03": {
@@ -1332,7 +1332,7 @@
     "name": "FODOR BETTINA",
     "name2": "Fodor Bettina",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "FODOR LAJOS|14|10": {
@@ -1340,7 +1340,7 @@
     "name": "FODOR LAJOS",
     "name2": "Fodor Lajos",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "Jobbik"
   },
   "FONT SÁNDOR|03|03": {
@@ -1348,7 +1348,7 @@
     "name": "FONT SÁNDOR",
     "name2": "Font Sándor",
     "county": "03",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "FORGÁCS VALTER ZSOLT|05|07": {
@@ -1356,7 +1356,7 @@
     "name": "FORGÁCS VALTER ZSOLT",
     "name2": "Forgács Valter Zsolt",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "Munkáspárt"
   },
   "FORSTHOFFER ÁGNES|19|02": {
@@ -1364,7 +1364,7 @@
     "name": "FORSTHOFFER ÁGNES",
     "name2": "Forsthoffer Ágnes",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "FÖLDESI GYULA|01|16": {
@@ -1372,7 +1372,7 @@
     "name": "FÖLDESI GYULA",
     "name2": "Földesi Gyula",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "FIDESZ-KDNP"
   },
   "FÖLDESI MIHÁLY|04|02": {
@@ -1380,7 +1380,7 @@
     "name": "FÖLDESI MIHÁLY",
     "name2": "Földesi Mihály",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "FÖLDI JUDIT|07|01": {
@@ -1388,7 +1388,7 @@
     "name": "FÖLDI JUDIT",
     "name2": "Földi Judit",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "FÖLDI LÁSZLÓ|14|14": {
@@ -1396,7 +1396,7 @@
     "name": "FÖLDI LÁSZLÓ",
     "name2": "Földi László",
     "county": "14",
-    "oevk": "14",
+    "constituency": "14",
     "party": "FIDESZ-KDNP"
   },
   "DR. FRANKFURTER ZSUZSANNA|13|02": {
@@ -1404,7 +1404,7 @@
     "name": "DR. FRANKFURTER ZSUZSANNA",
     "name2": "Dr. Frankfurter Zsuzsanna",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "FÜLÖP ATTILA|01|04": {
@@ -1412,7 +1412,7 @@
     "name": "FÜLÖP ATTILA",
     "name2": "Fülöp Attila",
     "county": "01",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "FÜLÖP LÁSZLÓNÉ|19|03": {
@@ -1420,7 +1420,7 @@
     "name": "FÜLÖP LÁSZLÓNÉ",
     "name2": "Fülöp Lászlóné",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "DR. FÜLÖP ZOLTÁN|04|01": {
@@ -1428,7 +1428,7 @@
     "name": "DR. FÜLÖP ZOLTÁN",
     "name2": "Dr. Fülöp Zoltán",
     "county": "04",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "GAJDA ATTILA|06|02": {
@@ -1436,7 +1436,7 @@
     "name": "GAJDA ATTILA",
     "name2": "Gajda Attila",
     "county": "06",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "GAJDOS LÁSZLÓ|16|01": {
@@ -1444,7 +1444,7 @@
     "name": "GAJDOS LÁSZLÓ",
     "name2": "Gajdos László",
     "county": "16",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "GÁL ADRIENN|02|01": {
@@ -1452,7 +1452,7 @@
     "name": "GÁL ADRIENN",
     "name2": "Gál Adrienn",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "GÁL PÉTER|01|15": {
@@ -1460,7 +1460,7 @@
     "name": "GÁL PÉTER",
     "name2": "Gál Péter",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "Munkáspárt"
   },
   "GALÓ CSABA|04|02": {
@@ -1468,7 +1468,7 @@
     "name": "GALÓ CSABA",
     "name2": "Galó Csaba",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "DR. GÁSPÁR LEVENTE|19|01": {
@@ -1476,7 +1476,7 @@
     "name": "DR. GÁSPÁR LEVENTE",
     "name2": "Dr. Gáspár Levente",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "GÁSPÁR TIBOR JÓZSEF|14|13": {
@@ -1484,7 +1484,7 @@
     "name": "GÁSPÁR TIBOR JÓZSEF",
     "name2": "Gáspár Tibor József",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "NÉP"
   },
   "GELENCSÉR ATTILA|15|01": {
@@ -1492,7 +1492,7 @@
     "name": "GELENCSÉR ATTILA",
     "name2": "Gelencsér Attila",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "GERENCSÉR NORBERT|08|04": {
@@ -1500,7 +1500,7 @@
     "name": "GERENCSÉR NORBERT",
     "name2": "Gerencsér Norbert",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": null
   },
   "GERGELICS ÁDÁM|19|03": {
@@ -1508,7 +1508,7 @@
     "name": "GERGELICS ÁDÁM",
     "name2": "Gergelics Ádám",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "DR. GERGELY ANDREA|01|02": {
@@ -1516,7 +1516,7 @@
     "name": "DR. GERGELY ANDREA",
     "name2": "Dr. Gergely Andrea",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "GERGELY RÓBERT|04|02": {
@@ -1524,7 +1524,7 @@
     "name": "GERGELY RÓBERT",
     "name2": "Gergely Róbert",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "GIEBER LAJOS|07|05": {
@@ -1532,7 +1532,7 @@
     "name": "GIEBER LAJOS",
     "name2": "Gieber Lajos",
     "county": "07",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "GOMBÁR DÁVID|04|02": {
@@ -1540,7 +1540,7 @@
     "name": "GOMBÁR DÁVID",
     "name2": "Gombár Dávid",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "GONDA ESZTER|08|01": {
@@ -1548,7 +1548,7 @@
     "name": "GONDA ESZTER",
     "name2": "Gonda Eszter",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "DR. GŐDÉNY GYÖRGY|19|02": {
@@ -1556,7 +1556,7 @@
     "name": "DR. GŐDÉNY GYÖRGY",
     "name2": "Dr. Gődény György",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "NÉP"
   },
   "GÖNCZI GYÖRGY|05|07": {
@@ -1564,7 +1564,7 @@
     "name": "GÖNCZI GYÖRGY",
     "name2": "Gönczi György",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "Jobbik"
   },
   "GÖRÖGHNÉ BOCSKAI ÉVA|09|06": {
@@ -1572,7 +1572,7 @@
     "name": "GÖRÖGHNÉ BOCSKAI ÉVA",
     "name2": "Göröghné Bocskai Éva",
     "county": "09",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "GRÉCZI ZSOLT|01|03": {
@@ -1580,7 +1580,7 @@
     "name": "GRÉCZI ZSOLT",
     "name2": "Gréczi Zsolt",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "GREGUS RENÁTA|10|03": {
@@ -1588,7 +1588,7 @@
     "name": "GREGUS RENÁTA",
     "name2": "Gregus Renáta",
     "county": "10",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "DR. GRUNDTNER ANDRÁS|01|03": {
@@ -1596,7 +1596,7 @@
     "name": "DR. GRUNDTNER ANDRÁS",
     "name2": "Dr. Grundtner András",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "GUBA ENDRE|16|04": {
@@ -1604,7 +1604,7 @@
     "name": "GUBA ENDRE",
     "name2": "Guba Endre",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "NÉP"
   },
   "GULYÁS JÓZSEF|15|01": {
@@ -1612,7 +1612,7 @@
     "name": "GULYÁS JÓZSEF",
     "name2": "Gulyás József",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "GULYÁS NORBERT|13|02": {
@@ -1620,7 +1620,7 @@
     "name": "GULYÁS NORBERT",
     "name2": "Gulyás Norbert",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "DR. GURZÓ MÁRIA|04|04": {
@@ -1628,7 +1628,7 @@
     "name": "DR. GURZÓ MÁRIA",
     "name2": "Dr. Gurzó Mária",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "GY. NÉMETH ERZSÉBET|01|15": {
@@ -1636,7 +1636,7 @@
     "name": "GY. NÉMETH ERZSÉBET",
     "name2": "Gy. Németh Erzsébet",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "DK"
   },
   "GYAPJAS SÁNDOR|05|02": {
@@ -1644,7 +1644,7 @@
     "name": "GYAPJAS SÁNDOR",
     "name2": "Gyapjas Sándor",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "GYARMATI MIHÁLY|16|02": {
@@ -1652,7 +1652,7 @@
     "name": "GYARMATI MIHÁLY",
     "name2": "Gyarmati Mihály",
     "county": "16",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "GYEBNÁR DÁVID|04|01": {
@@ -1660,7 +1660,7 @@
     "name": "GYEBNÁR DÁVID",
     "name2": "Gyebnár Dávid",
     "county": "04",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "GYEKICZKI MÁRTON|14|01": {
@@ -1668,7 +1668,7 @@
     "name": "GYEKICZKI MÁRTON",
     "name2": "Gyekiczki Márton",
     "county": "14",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "GYEPES ÁDÁM|01|11": {
@@ -1676,7 +1676,7 @@
     "name": "GYEPES ÁDÁM",
     "name2": "Gyepes Ádám",
     "county": "01",
-    "oevk": "11",
+    "constituency": "11",
     "party": "FIDESZ-KDNP"
   },
   "GYOPÁROS ALPÁR|08|03": {
@@ -1684,7 +1684,7 @@
     "name": "GYOPÁROS ALPÁR",
     "name2": "Gyopáros Alpár",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "GYŐRFFY PÉTER|10|02": {
@@ -1692,7 +1692,7 @@
     "name": "GYŐRFFY PÉTER",
     "name2": "Győrffy Péter",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "GYÖRGY JÓZSEF|14|02": {
@@ -1700,7 +1700,7 @@
     "name": "GYÖRGY JÓZSEF",
     "name2": "György József",
     "county": "14",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "HADERSPRUNG ZSUZSANNA|07|04": {
@@ -1708,7 +1708,7 @@
     "name": "HADERSPRUNG ZSUZSANNA",
     "name2": "Hadersprung Zsuzsanna",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DR. HADHÁZY ÁKOS|01|06": {
@@ -1716,7 +1716,7 @@
     "name": "DR. HADHÁZY ÁKOS",
     "name2": "Dr. Hadházy Ákos",
     "county": "01",
-    "oevk": "06",
+    "constituency": "06",
     "party": null
   },
   "HALÁSZNÉ HUNYADI GYÖNGYI|15|02": {
@@ -1724,7 +1724,7 @@
     "name": "HALÁSZNÉ HUNYADI GYÖNGYI",
     "name2": "Halászné Hunyadi Gyöngyi",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "HALKÓNÉ DR. RUDOLF ÉVA|16|01": {
@@ -1732,7 +1732,7 @@
     "name": "HALKÓNÉ DR. RUDOLF ÉVA",
     "name2": "Halkóné Dr. Rudolf Éva",
     "county": "16",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "DR. HALLERNÉ DR. NAGY ANIKÓ|08|04": {
@@ -1740,7 +1740,7 @@
     "name": "DR. HALLERNÉ DR. NAGY ANIKÓ",
     "name2": "Dr. Hallerné Dr. Nagy Anikó",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "HALMAI FERENC TIBOR|11|02": {
@@ -1748,7 +1748,7 @@
     "name": "HALMAI FERENC TIBOR",
     "name2": "Halmai Ferenc Tibor",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "HALMAI RICHÁRD|01|02": {
@@ -1756,7 +1756,7 @@
     "name": "HALMAI RICHÁRD",
     "name2": "Halmai Richárd",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "HANEK GÁBOR|14|08": {
@@ -1764,7 +1764,7 @@
     "name": "HANEK GÁBOR",
     "name2": "Hanek Gábor",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "DK"
   },
   "DR. HANKÓ BALÁZS|14|06": {
@@ -1772,7 +1772,7 @@
     "name": "DR. HANKÓ BALÁZS",
     "name2": "Dr. Hankó Balázs",
     "county": "14",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   },
   "HANKÓ KLÁRA|14|07": {
@@ -1780,7 +1780,7 @@
     "name": "HANKÓ KLÁRA",
     "name2": "Hankó Klára",
     "county": "14",
-    "oevk": "07",
+    "constituency": "07",
     "party": "MKKP"
   },
   "DR. HARGITAI JÁNOS|02|03": {
@@ -1788,7 +1788,7 @@
     "name": "DR. HARGITAI JÁNOS",
     "name2": "Dr. Hargitai János",
     "county": "02",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "HARTVIG DÁNIEL|14|08": {
@@ -1796,7 +1796,7 @@
     "name": "HARTVIG DÁNIEL",
     "name2": "Hartvig Dániel",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "MKKP"
   },
   "HATALA-OROSZ CSABA|05|04": {
@@ -1804,7 +1804,7 @@
     "name": "HATALA-OROSZ CSABA",
     "name2": "Hatala-Orosz Csaba",
     "county": "05",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "HAUSEL IMRE|05|05": {
@@ -1812,7 +1812,7 @@
     "name": "HAUSEL IMRE",
     "name2": "Hausel Imre",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "DR. HEGEDŰS BARBARA|19|02": {
@@ -1820,7 +1820,7 @@
     "name": "DR. HEGEDŰS BARBARA",
     "name2": "Dr. Hegedűs Barbara",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "HEGYESI BEÁTA|01|04": {
@@ -1828,7 +1828,7 @@
     "name": "HEGYESI BEÁTA",
     "name2": "Hegyesi Beáta",
     "county": "01",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "HEGYI ADRIÁN|06|04": {
@@ -1836,7 +1836,7 @@
     "name": "HEGYI ADRIÁN",
     "name2": "Hegyi Adrián",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "HENDE MÁTÉ|14|13": {
@@ -1844,7 +1844,7 @@
     "name": "HENDE MÁTÉ",
     "name2": "Hende Máté",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "TISZA"
   },
   "HERCZEG ZSOLT|11|04": {
@@ -1852,7 +1852,7 @@
     "name": "HERCZEG ZSOLT",
     "name2": "Herczeg Zsolt",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "HERFORT MARIETTA|01|01": {
@@ -1860,7 +1860,7 @@
     "name": "HERFORT MARIETTA",
     "name2": "Herfort Marietta",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "DR. HILLER ISTVÁN|01|16": {
@@ -1868,7 +1868,7 @@
     "name": "DR. HILLER ISTVÁN",
     "name2": "Dr. Hiller István",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": null
   },
   "HÓDI ZSUZSANNA|03|02": {
@@ -1876,7 +1876,7 @@
     "name": "HÓDI ZSUZSANNA",
     "name2": "Hódi Zsuzsanna",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "HOLLÓSY ANDRÁS|05|02": {
@@ -1884,7 +1884,7 @@
     "name": "HOLLÓSY ANDRÁS",
     "name2": "Hollósy András",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "DR. HOPPÁL PÉTER|02|02": {
@@ -1892,7 +1892,7 @@
     "name": "DR. HOPPÁL PÉTER",
     "name2": "Dr. Hoppál Péter",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "HORTOBÁGYI KATALIN|19|04": {
@@ -1900,7 +1900,7 @@
     "name": "HORTOBÁGYI KATALIN",
     "name2": "Hortobágyi Katalin",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "HORVÁT IMRÉNÉ|09|05": {
@@ -1908,7 +1908,7 @@
     "name": "HORVÁT IMRÉNÉ",
     "name2": "Horvát Imréné",
     "county": "09",
-    "oevk": "05",
+    "constituency": "05",
     "party": "KÁP"
   },
   "HORVÁTH ANNAMÁRIA|03|04": {
@@ -1916,7 +1916,7 @@
     "name": "HORVÁTH ANNAMÁRIA",
     "name2": "Horváth Annamária",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "HORVÁTH ANTAL|16|05": {
@@ -1924,7 +1924,7 @@
     "name": "HORVÁTH ANTAL",
     "name2": "Horváth Antal",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "KÁP"
   },
   "HORVÁTH ISTVÁN|17|01": {
@@ -1932,7 +1932,7 @@
     "name": "HORVÁTH ISTVÁN",
     "name2": "Horváth István",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "HORVÁTH LÁSZLÓ|10|02": {
@@ -1940,7 +1940,7 @@
     "name": "HORVÁTH LÁSZLÓ",
     "name2": "Horváth László",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "HORVÁTH NÁNDOR ZSOLT|18|03": {
@@ -1948,7 +1948,7 @@
     "name": "HORVÁTH NÁNDOR ZSOLT",
     "name2": "Horváth Nándor Zsolt",
     "county": "18",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "HRABOVSZKI LÁSZLÓ|19|01": {
@@ -1956,7 +1956,7 @@
     "name": "HRABOVSZKI LÁSZLÓ",
     "name2": "Hrabovszki László",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "HUNYADI MÁTÉ|09|03": {
@@ -1964,7 +1964,7 @@
     "name": "HUNYADI MÁTÉ",
     "name2": "Hunyadi Máté",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "HUPEK JÁNOS|16|06": {
@@ -1972,7 +1972,7 @@
     "name": "HUPEK JÁNOS",
     "name2": "Hupek János",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Munkáspárt"
   },
   "IPACS SÁNDOR|02|03": {
@@ -1980,7 +1980,7 @@
     "name": "IPACS SÁNDOR",
     "name2": "Ipacs Sándor",
     "county": "02",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "JAKAB KOPPÁNY ATILLA|13|02": {
@@ -1988,7 +1988,7 @@
     "name": "JAKAB KOPPÁNY ATILLA",
     "name2": "Jakab Koppány Atilla",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "JAKAB PÉTER|05|01": {
@@ -1996,7 +1996,7 @@
     "name": "JAKAB PÉTER",
     "name2": "Jakab Péter",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "DR. JAKAB ZSUZSANNA|01|12": {
@@ -2004,7 +2004,7 @@
     "name": "DR. JAKAB ZSUZSANNA",
     "name2": "Dr. Jakab Zsuzsanna",
     "county": "01",
-    "oevk": "12",
+    "constituency": "12",
     "party": "TISZA"
   },
   "JÁMBOR PÉTER|15|04": {
@@ -2012,7 +2012,7 @@
     "name": "JÁMBOR PÉTER",
     "name2": "Jámbor Péter",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "IRÁNY"
   },
   "JANCSEK SÁNDOR|07|02": {
@@ -2020,7 +2020,7 @@
     "name": "JANCSEK SÁNDOR",
     "name2": "Jancsek Sándor",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": null
   },
   "JANECSKA ZOLTÁN|17|03": {
@@ -2028,7 +2028,7 @@
     "name": "JANECSKA ZOLTÁN",
     "name2": "Janecska Zoltán",
     "county": "17",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "JECKEL NIKOLETTA|14|03": {
@@ -2036,7 +2036,7 @@
     "name": "JECKEL NIKOLETTA",
     "name2": "Jeckel Nikoletta",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "JELENCSIK JÓZSEF|14|01": {
@@ -2044,7 +2044,7 @@
     "name": "JELENCSIK JÓZSEF",
     "name2": "Jelencsik József",
     "county": "14",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "JELINEK DEMIEN|07|04": {
@@ -2052,7 +2052,7 @@
     "name": "JELINEK DEMIEN",
     "name2": "Jelinek Demien",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": null
   },
   "JÓSZAI TEODÓRA|14|09": {
@@ -2060,7 +2060,7 @@
     "name": "JÓSZAI TEODÓRA",
     "name2": "Jószai Teodóra",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "DK"
   },
   "JOZÓ TAMÁS|15|03": {
@@ -2068,7 +2068,7 @@
     "name": "JOZÓ TAMÁS",
     "name2": "Jozó Tamás",
     "county": "15",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "JUDÁK ZSOLT|03|03": {
@@ -2076,7 +2076,7 @@
     "name": "JUDÁK ZSOLT",
     "name2": "Judák Zsolt",
     "county": "03",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "DR. JUHÁSZ ÁRON|10|03": {
@@ -2084,7 +2084,7 @@
     "name": "DR. JUHÁSZ ÁRON",
     "name2": "Dr. Juhász Áron",
     "county": "10",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "JUHÁSZ BÉLA|14|11": {
@@ -2092,7 +2092,7 @@
     "name": "JUHÁSZ BÉLA",
     "name2": "Juhász Béla",
     "county": "14",
-    "oevk": "11",
+    "constituency": "11",
     "party": "DK"
   },
   "DR. JUHÁSZ MÁTÉ|06|01": {
@@ -2100,7 +2100,7 @@
     "name": "DR. JUHÁSZ MÁTÉ",
     "name2": "Dr. Juhász Máté",
     "county": "06",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "JUHÁSZ ROLAND|05|01": {
@@ -2108,7 +2108,7 @@
     "name": "JUHÁSZ ROLAND",
     "name2": "Juhász Roland",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "JUHÁSZ VERONIKA|20|01": {
@@ -2116,7 +2116,7 @@
     "name": "JUHÁSZ VERONIKA",
     "name2": "Juhász Veronika",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "JUHÁSZ-BAUER ÁGOSTON BÁLINT|20|02": {
@@ -2124,7 +2124,7 @@
     "name": "JUHÁSZ-BAUER ÁGOSTON BÁLINT",
     "name2": "Juhász-Bauer Ágoston Bálint",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "KÁLMÁN OLGA|14|04": {
@@ -2132,7 +2132,7 @@
     "name": "KÁLMÁN OLGA",
     "name2": "Kálmán Olga",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "KÁLMÁNDY ÁRPÁD|16|04": {
@@ -2140,7 +2140,7 @@
     "name": "KÁLMÁNDY ÁRPÁD",
     "name2": "Kálmándy Árpád",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "KAPÁS ROLAND|11|01": {
@@ -2148,7 +2148,7 @@
     "name": "KAPÁS ROLAND",
     "name2": "Kapás Roland",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "KAPRONCZAI BALÁZS|02|04": {
@@ -2156,7 +2156,7 @@
     "name": "KAPRONCZAI BALÁZS",
     "name2": "Kapronczai Balázs",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "KARDOSNÉ GYURKÓ KATALIN|14|01": {
@@ -2164,7 +2164,7 @@
     "name": "KARDOSNÉ GYURKÓ KATALIN",
     "name2": "Kardosné Gyurkó Katalin",
     "county": "14",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "KARIKÓ ÁGNES|03|02": {
@@ -2172,7 +2172,7 @@
     "name": "KARIKÓ ÁGNES",
     "name2": "Karikó Ágnes",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "KÁRPÁTI ZOLTÁN|02|04": {
@@ -2180,7 +2180,7 @@
     "name": "KÁRPÁTI ZOLTÁN",
     "name2": "Kárpáti Zoltán",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "DR. KARSAI ZSUZSÁNNA|14|06": {
@@ -2188,7 +2188,7 @@
     "name": "DR. KARSAI ZSUZSÁNNA",
     "name2": "Dr. Karsai Zsuzsánna",
     "county": "14",
-    "oevk": "06",
+    "constituency": "06",
     "party": "DK"
   },
   "KARSAI-JUHÁSZ KATALIN|03|05": {
@@ -2196,7 +2196,7 @@
     "name": "KARSAI-JUHÁSZ KATALIN",
     "name2": "Karsai-Juhász Katalin",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "KARTNIK KRISZTINA|14|08": {
@@ -2204,7 +2204,7 @@
     "name": "KARTNIK KRISZTINA",
     "name2": "Kartnik Krisztina",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "Munkáspárt"
   },
   "KASSAB ADONIS|11|02": {
@@ -2212,7 +2212,7 @@
     "name": "KASSAB ADONIS",
     "name2": "Kassab Adonis",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "KÁTAI ALIZ|12|03": {
@@ -2220,7 +2220,7 @@
     "name": "KÁTAI ALIZ",
     "name2": "Kátai Aliz",
     "county": "12",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "DR. KÁTAI-NÉMETH VILMOS|01|09": {
@@ -2228,7 +2228,7 @@
     "name": "DR. KÁTAI-NÉMETH VILMOS",
     "name2": "Dr. Kátai-Németh Vilmos",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "TISZA"
   },
   "KATONA TIBOR|01|08": {
@@ -2236,7 +2236,7 @@
     "name": "KATONA TIBOR",
     "name2": "Katona Tibor",
     "county": "01",
-    "oevk": "08",
+    "constituency": "08",
     "party": "Munkáspárt"
   },
   "KATUS NORBERT|14|07": {
@@ -2244,7 +2244,7 @@
     "name": "KATUS NORBERT",
     "name2": "Katus Norbert",
     "county": "14",
-    "oevk": "07",
+    "constituency": "07",
     "party": "FIDESZ-KDNP"
   },
   "KECSKEMÉTI ISTVÁN|17|02": {
@@ -2252,7 +2252,7 @@
     "name": "KECSKEMÉTI ISTVÁN",
     "name2": "Kecskeméti István",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "KELEI ZITA|15|02": {
@@ -2260,7 +2260,7 @@
     "name": "KELEI ZITA",
     "name2": "Kelei Zita",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "KELLER LÁSZLÓ|14|02": {
@@ -2268,7 +2268,7 @@
     "name": "KELLER LÁSZLÓ",
     "name2": "Keller László",
     "county": "14",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "KENÉZ ISTVÁN|14|10": {
@@ -2276,7 +2276,7 @@
     "name": "KENÉZ ISTVÁN",
     "name2": "Kenéz István",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "DK"
   },
   "KEREKES EDIT|05|01": {
@@ -2284,7 +2284,7 @@
     "name": "KEREKES EDIT",
     "name2": "Kerekes Edit",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "KERTÉSZ ÉVA|07|03": {
@@ -2292,7 +2292,7 @@
     "name": "KERTÉSZ ÉVA",
     "name2": "Kertész Éva",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "KESZTHELYI DOROTTYA|01|05": {
@@ -2300,7 +2300,7 @@
     "name": "KESZTHELYI DOROTTYA",
     "name2": "Keszthelyi Dorottya",
     "county": "01",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "KESZTYÜS ATTILA|15|03": {
@@ -2308,7 +2308,7 @@
     "name": "KESZTYÜS ATTILA",
     "name2": "Kesztyüs Attila",
     "county": "15",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "KIRÁLY NÓRA|01|09": {
@@ -2316,7 +2316,7 @@
     "name": "KIRÁLY NÓRA",
     "name2": "Király Nóra",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "FIDESZ-KDNP"
   },
   "KISS BEATRIX|02|02": {
@@ -2324,7 +2324,7 @@
     "name": "KISS BEATRIX",
     "name2": "Kiss Beatrix",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "KISS FERENC|20|02": {
@@ -2332,7 +2332,7 @@
     "name": "KISS FERENC",
     "name2": "Kiss Ferenc",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "KISS JÁNOS|10|02": {
@@ -2340,7 +2340,7 @@
     "name": "KISS JÁNOS",
     "name2": "Kiss János",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "KISS KORNÉL|01|09": {
@@ -2348,7 +2348,7 @@
     "name": "KISS KORNÉL",
     "name2": "Kiss Kornél",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "MKKP"
   },
   "KISS LÍVIA|19|02": {
@@ -2356,7 +2356,7 @@
     "name": "KISS LÍVIA",
     "name2": "Kiss Lívia",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "DR. KISS SÁNDOR|16|06": {
@@ -2364,7 +2364,7 @@
     "name": "DR. KISS SÁNDOR",
     "name2": "Dr. Kiss Sándor",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Jobbik"
   },
   "KISS ZSOLT|09|01": {
@@ -2372,7 +2372,7 @@
     "name": "KISS ZSOLT",
     "name2": "Kiss Zsolt",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "KLING OND|01|07": {
@@ -2380,7 +2380,7 @@
     "name": "KLING OND",
     "name2": "Kling Ond",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": "MKKP"
   },
   "KÓBER GYÖRGY MÁRK|18|01": {
@@ -2388,7 +2388,7 @@
     "name": "KÓBER GYÖRGY MÁRK",
     "name2": "Kóber György Márk",
     "county": "18",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "KOCSIS-CAKE OLIVIO|01|14": {
@@ -2396,7 +2396,7 @@
     "name": "KOCSIS-CAKE OLIVIO",
     "name2": "Kocsis-Cake Olivio",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": "DK"
   },
   "KOCSONDI MÁRK|01|10": {
@@ -2404,7 +2404,7 @@
     "name": "KOCSONDI MÁRK",
     "name2": "Kocsondi Márk",
     "county": "01",
-    "oevk": "10",
+    "constituency": "10",
     "party": "FIDESZ-KDNP"
   },
   "KÓKAI KATALIN|03|03": {
@@ -2412,7 +2412,7 @@
     "name": "KÓKAI KATALIN",
     "name2": "Kókai Katalin",
     "county": "03",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "KÓKAI MÁTYÁS|20|02": {
@@ -2420,7 +2420,7 @@
     "name": "KÓKAI MÁTYÁS",
     "name2": "Kókai Mátyás",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "KOLTAI TIBOR|20|01": {
@@ -2428,7 +2428,7 @@
     "name": "KOLTAI TIBOR",
     "name2": "Koltai Tibor",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": null
   },
   "KOMÁROMSZKY ATTILA|08|01": {
@@ -2436,7 +2436,7 @@
     "name": "KOMÁROMSZKY ATTILA",
     "name2": "Komáromszky Attila",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "DR. KONCZ ÁRON|01|04": {
@@ -2444,7 +2444,7 @@
     "name": "DR. KONCZ ÁRON",
     "name2": "Dr. Koncz Áron",
     "county": "01",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "DR. KONCZ ZSÓFIA|05|06": {
@@ -2452,7 +2452,7 @@
     "name": "DR. KONCZ ZSÓFIA",
     "name2": "Dr. Koncz Zsófia",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   },
   "KONTRA ISTVÁN|11|04": {
@@ -2460,7 +2460,7 @@
     "name": "KONTRA ISTVÁN",
     "name2": "Kontra István",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "KÓNYA ISTVÁN|04|03": {
@@ -2468,7 +2468,7 @@
     "name": "KÓNYA ISTVÁN",
     "name2": "Kónya István",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "KORÓDI ISTVÁN|08|01": {
@@ -2476,7 +2476,7 @@
     "name": "KORÓDI ISTVÁN",
     "name2": "Koródi István",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "DR. KOVÁCS ÁRON|02|02": {
@@ -2484,7 +2484,7 @@
     "name": "DR. KOVÁCS ÁRON",
     "name2": "Dr. Kovács Áron",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "KOVÁCS ATTILA|01|16": {
@@ -2492,7 +2492,7 @@
     "name": "KOVÁCS ATTILA",
     "name2": "Kovács Attila",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "Mi Hazánk"
   },
   "KOVÁCS BALÁZS NORBERT|01|05": {
@@ -2500,7 +2500,7 @@
     "name": "KOVÁCS BALÁZS NORBERT",
     "name2": "Kovács Balázs Norbert",
     "county": "01",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "DR. KOVÁCS GYULA|03|04": {
@@ -2508,7 +2508,7 @@
     "name": "DR. KOVÁCS GYULA",
     "name2": "Dr. Kovács Gyula",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "KOVÁCS HUNOR KRISZTIÁN|11|03": {
@@ -2516,7 +2516,7 @@
     "name": "KOVÁCS HUNOR KRISZTIÁN",
     "name2": "Kovács Hunor Krisztián",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "KOVÁCS IMRE ISTVÁN|05|02": {
@@ -2524,7 +2524,7 @@
     "name": "KOVÁCS IMRE ISTVÁN",
     "name2": "Kovács Imre István",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "KOVÁCS KOPPÁNY ZOLTÁN|16|01": {
@@ -2532,7 +2532,7 @@
     "name": "KOVÁCS KOPPÁNY ZOLTÁN",
     "name2": "Kovács Koppány Zoltán",
     "county": "16",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "KOVÁCS PETRA JUDIT|09|04": {
@@ -2540,7 +2540,7 @@
     "name": "KOVÁCS PETRA JUDIT",
     "name2": "Kovács Petra Judit",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "KOVÁCS SÁNDOR|16|05": {
@@ -2548,7 +2548,7 @@
     "name": "KOVÁCS SÁNDOR",
     "name2": "Kovács Sándor",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "KOVÁTS GÁBOR|05|07": {
@@ -2556,7 +2556,7 @@
     "name": "KOVÁTS GÁBOR",
     "name2": "Kováts Gábor",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "MKKP"
   },
   "KOZMA ATTILA MÁTYÁS|09|01": {
@@ -2564,7 +2564,7 @@
     "name": "KOZMA ATTILA MÁTYÁS",
     "name2": "Kozma Attila Mátyás",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "KOZMA PÉTER|10|02": {
@@ -2572,7 +2572,7 @@
     "name": "KOZMA PÉTER",
     "name2": "Kozma Péter",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "KÖKÉNY GÁBOR KÁLMÁN|14|14": {
@@ -2580,7 +2580,7 @@
     "name": "KÖKÉNY GÁBOR KÁLMÁN",
     "name2": "Kökény Gábor Kálmán",
     "county": "14",
-    "oevk": "14",
+    "constituency": "14",
     "party": "DK"
   },
   "KÖRMENDI GÁBOR ATTILA|01|13": {
@@ -2588,7 +2588,7 @@
     "name": "KÖRMENDI GÁBOR ATTILA",
     "name2": "Körmendi Gábor Attila",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "Munkáspárt"
   },
   "KŐSZEGI MIHÁLY|03|03": {
@@ -2596,7 +2596,7 @@
     "name": "KŐSZEGI MIHÁLY",
     "name2": "Kőszegi Mihály",
     "county": "03",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "KRÁLIK KÁROLY|16|05": {
@@ -2604,7 +2604,7 @@
     "name": "KRÁLIK KÁROLY",
     "name2": "Králik Károly",
     "county": "16",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Munkáspárt"
   },
   "KRIZS NORBERT|13|01": {
@@ -2612,7 +2612,7 @@
     "name": "KRIZS NORBERT",
     "name2": "Krizs Norbert",
     "county": "13",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "KUBOVICSNÉ DR. BORBÉLY ANETT|16|04": {
@@ -2620,7 +2620,7 @@
     "name": "KUBOVICSNÉ DR. BORBÉLY ANETT",
     "name2": "Kubovicsné Dr. Borbély Anett",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "KULCSÁR KRISZTIÁN|01|10": {
@@ -2628,7 +2628,7 @@
     "name": "KULCSÁR KRISZTIÁN",
     "name2": "Kulcsár Krisztián",
     "county": "01",
-    "oevk": "10",
+    "constituency": "10",
     "party": "TISZA"
   },
   "KVACSKAY KÁROLY|01|02": {
@@ -2636,7 +2636,7 @@
     "name": "KVACSKAY KÁROLY",
     "name2": "Kvacskay Károly",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "LACZKÓ KORNÉL|14|04": {
@@ -2644,7 +2644,7 @@
     "name": "LACZKÓ KORNÉL",
     "name2": "Laczkó Kornél",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "LACZKÓ ZSOLT|06|03": {
@@ -2652,7 +2652,7 @@
     "name": "LACZKÓ ZSOLT",
     "name2": "Laczkó Zsolt",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "LADÁNYI LUCA|12|01": {
@@ -2660,7 +2660,7 @@
     "name": "LADÁNYI LUCA",
     "name2": "Ladányi Luca",
     "county": "12",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "LAJOS MILÁN|02|01": {
@@ -2668,7 +2668,7 @@
     "name": "LAJOS MILÁN",
     "name2": "Lajos Milán",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": null
   },
   "LAKATOS ATTILA|16|06": {
@@ -2676,7 +2676,7 @@
     "name": "LAKATOS ATTILA",
     "name2": "Lakatos Attila",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": null
   },
   "LÁNGFALVI ATTILA|07|01": {
@@ -2684,7 +2684,7 @@
     "name": "LÁNGFALVI ATTILA",
     "name2": "Lángfalvi Attila",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "LANTOS JÁNOS|12|02": {
@@ -2692,7 +2692,7 @@
     "name": "LANTOS JÁNOS",
     "name2": "Lantos János",
     "county": "12",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "LÁSZLÓ ATTILA|14|13": {
@@ -2700,7 +2700,7 @@
     "name": "LÁSZLÓ ATTILA",
     "name2": "László Attila",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "Mi Hazánk"
   },
   "LÁSZLÓ ENDRE MÁRTON|14|06": {
@@ -2708,7 +2708,7 @@
     "name": "LÁSZLÓ ENDRE MÁRTON",
     "name2": "László Endre Márton",
     "county": "14",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "DR. LÁSZLÓ PÉTER|19|01": {
@@ -2716,7 +2716,7 @@
     "name": "DR. LÁSZLÓ PÉTER",
     "name2": "Dr. László Péter",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "LEHOCZKI FERENC|15|01": {
@@ -2724,7 +2724,7 @@
     "name": "LEHOCZKI FERENC",
     "name2": "Lehoczki Ferenc",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Jobbik"
   },
   "LEITNER SZILÁRD|06|04": {
@@ -2732,7 +2732,7 @@
     "name": "LEITNER SZILÁRD",
     "name2": "Leitner Szilárd",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": null
   },
   "LENDVAY ENDRE|14|12": {
@@ -2740,7 +2740,7 @@
     "name": "LENDVAY ENDRE",
     "name2": "Lendvay Endre",
     "county": "14",
-    "oevk": "12",
+    "constituency": "12",
     "party": "Mi Hazánk"
   },
   "LEZSÁK SÁNDOR|03|04": {
@@ -2748,7 +2748,7 @@
     "name": "LEZSÁK SÁNDOR",
     "name2": "Lezsák Sándor",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "LISZKAI ERZSÉBET|20|02": {
@@ -2756,7 +2756,7 @@
     "name": "LISZKAI ERZSÉBET",
     "name2": "Liszkai Erzsébet",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "LONTAY LÁSZLÓ|05|05": {
@@ -2764,7 +2764,7 @@
     "name": "LONTAY LÁSZLÓ",
     "name2": "Lontay László",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "LOSÓ ÉVA|07|02": {
@@ -2772,7 +2772,7 @@
     "name": "LOSÓ ÉVA",
     "name2": "Losó Éva",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "LOVKÓ CSABA|20|03": {
@@ -2780,7 +2780,7 @@
     "name": "LOVKÓ CSABA",
     "name2": "Lovkó Csaba",
     "county": "20",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "DR. LŐRINCZ VIKTÓRIA|15|01": {
@@ -2788,7 +2788,7 @@
     "name": "DR. LŐRINCZ VIKTÓRIA",
     "name2": "Dr. Lőrincz Viktória",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "LUDVÁN ZSOLT LÁSZLÓ|18|03": {
@@ -2796,7 +2796,7 @@
     "name": "LUDVÁN ZSOLT LÁSZLÓ",
     "name2": "Ludván Zsolt László",
     "county": "18",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "MAGDICS MÁTÉ|14|13": {
@@ -2804,7 +2804,7 @@
     "name": "MAGDICS MÁTÉ",
     "name2": "Magdics Máté",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "DK"
   },
   "MAGDICS MÓNIKA|14|12": {
@@ -2812,7 +2812,7 @@
     "name": "MAGDICS MÓNIKA",
     "name2": "Magdics Mónika",
     "county": "14",
-    "oevk": "12",
+    "constituency": "12",
     "party": "DK"
   },
   "MAGOSI RÓBERT|05|05": {
@@ -2820,7 +2820,7 @@
     "name": "MAGOSI RÓBERT",
     "name2": "Magosi Róbert",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Munkáspárt"
   },
   "MAGYAR GÁBOR|04|03": {
@@ -2828,7 +2828,7 @@
     "name": "MAGYAR GÁBOR",
     "name2": "Magyar Gábor",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "MAGYAR PÉTER|18|02": {
@@ -2836,7 +2836,7 @@
     "name": "MAGYAR PÉTER",
     "name2": "Magyar Péter",
     "county": "18",
-    "oevk": "02",
+    "constituency": "02",
     "party": null
   },
   "MAGYAR PÉTER|01|03": {
@@ -2844,7 +2844,7 @@
     "name": "MAGYAR PÉTER",
     "name2": "Magyar Péter",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "MAKULA GÁBRIEL|05|05": {
@@ -2852,7 +2852,7 @@
     "name": "MAKULA GÁBRIEL",
     "name2": "Makula Gábriel",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "NÉP"
   },
   "MAROSVÖLGYI ANNA|01|11": {
@@ -2860,7 +2860,7 @@
     "name": "MAROSVÖLGYI ANNA",
     "name2": "Marosvölgyi Anna",
     "county": "01",
-    "oevk": "11",
+    "constituency": "11",
     "party": "Mi Hazánk"
   },
   "MÁTÉ SÁNDOR|05|03": {
@@ -2868,7 +2868,7 @@
     "name": "MÁTÉ SÁNDOR",
     "name2": "Máté Sándor",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "KÁP"
   },
   "DR. MATYIJCSIK SÁNDOR|20|03": {
@@ -2876,7 +2876,7 @@
     "name": "DR. MATYIJCSIK SÁNDOR",
     "name2": "Dr. Matyijcsik Sándor",
     "county": "20",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "MENCZER TAMÁS|14|03": {
@@ -2884,7 +2884,7 @@
     "name": "MENCZER TAMÁS",
     "name2": "Menczer Tamás",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "MÉSZÁROS DÁVID|11|01": {
@@ -2892,7 +2892,7 @@
     "name": "MÉSZÁROS DÁVID",
     "name2": "Mészáros Dávid",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "MÉSZÁROS GÉZA|08|03": {
@@ -2900,7 +2900,7 @@
     "name": "MÉSZÁROS GÉZA",
     "name2": "Mészáros Géza",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "DR. MÉSZÁROS LAJOS|07|04": {
@@ -2908,7 +2908,7 @@
     "name": "DR. MÉSZÁROS LAJOS",
     "name2": "Dr. Mészáros Lajos",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "MÉSZÁROS SZABOLCS|15|01": {
@@ -2916,7 +2916,7 @@
     "name": "MÉSZÁROS SZABOLCS",
     "name2": "Mészáros Szabolcs",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "MEZEI ZSOLT|07|05": {
@@ -2924,7 +2924,7 @@
     "name": "MEZEI ZSOLT",
     "name2": "Mezei Zsolt",
     "county": "07",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "MIHÁLFFY BÉLA|06|02": {
@@ -2932,7 +2932,7 @@
     "name": "MIHÁLFFY BÉLA",
     "name2": "Mihálffy Béla",
     "county": "06",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "MIKLÓS ÁRPÁD FERENC|05|01": {
@@ -2940,7 +2940,7 @@
     "name": "MIKLÓS ÁRPÁD FERENC",
     "name2": "Miklós Árpád Ferenc",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "MIRKÓCZKI ÁDÁM|10|01": {
@@ -2948,7 +2948,7 @@
     "name": "MIRKÓCZKI ÁDÁM",
     "name2": "Mirkóczki Ádám",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": null
   },
   "DR. MISKOLCZI ORSOLYA|14|05": {
@@ -2956,7 +2956,7 @@
     "name": "DR. MISKOLCZI ORSOLYA",
     "name2": "Dr. Miskolczi Orsolya",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "DR. MOKRAI MIHÁLY|05|02": {
@@ -2964,7 +2964,7 @@
     "name": "DR. MOKRAI MIHÁLY",
     "name2": "Dr. Mokrai Mihály",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "MOLNÁR BÁLINT|19|04": {
@@ -2972,7 +2972,7 @@
     "name": "MOLNÁR BÁLINT",
     "name2": "Molnár Bálint",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "MOLNÁR GÁBOR|04|03": {
@@ -2980,7 +2980,7 @@
     "name": "MOLNÁR GÁBOR",
     "name2": "Molnár Gábor",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "MOLNÁR GYULA|01|10": {
@@ -2988,7 +2988,7 @@
     "name": "MOLNÁR GYULA",
     "name2": "Molnár Gyula",
     "county": "01",
-    "oevk": "10",
+    "constituency": "10",
     "party": "DK"
   },
   "MOLNÁR JÁNOS|03|02": {
@@ -2996,7 +2996,7 @@
     "name": "MOLNÁR JÁNOS",
     "name2": "Molnár János",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "MOLNÁR MÁRIA|09|04": {
@@ -3004,7 +3004,7 @@
     "name": "MOLNÁR MÁRIA",
     "name2": "Molnár Mária",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DR. MOLNÁR PÉTER|15|01": {
@@ -3012,7 +3012,7 @@
     "name": "DR. MOLNÁR PÉTER",
     "name2": "Dr. Molnár Péter",
     "county": "15",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "MOLNÁR SÁMUEL LÁSZLÓ|05|05": {
@@ -3020,7 +3020,7 @@
     "name": "MOLNÁR SÁMUEL LÁSZLÓ",
     "name2": "Molnár Sámuel László",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "MKKP"
   },
   "MOLNÁR ZOLTÁN|13|02": {
@@ -3028,7 +3028,7 @@
     "name": "MOLNÁR ZOLTÁN",
     "name2": "Molnár Zoltán",
     "county": "13",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "MOLNÁR ZOLTÁN|05|03": {
@@ -3036,7 +3036,7 @@
     "name": "MOLNÁR ZOLTÁN",
     "name2": "Molnár Zoltán",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "MÓRING JÓZSEF ATTILA|15|03": {
@@ -3044,7 +3044,7 @@
     "name": "MÓRING JÓZSEF ATTILA",
     "name2": "Móring József Attila",
     "county": "15",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "MUCSI TAMÁS|06|04": {
@@ -3052,7 +3052,7 @@
     "name": "MUCSI TAMÁS",
     "name2": "Mucsi Tamás",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "MUHARI GERGELY|14|14": {
@@ -3060,7 +3060,7 @@
     "name": "MUHARI GERGELY",
     "name2": "Muhari Gergely",
     "county": "14",
-    "oevk": "14",
+    "constituency": "14",
     "party": "TISZA"
   },
   "MÜLLER ANNA|01|13": {
@@ -3068,7 +3068,7 @@
     "name": "MÜLLER ANNA",
     "name2": "Müller Anna",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "TISZA"
   },
   "NAGY ATTILA|01|01": {
@@ -3076,7 +3076,7 @@
     "name": "NAGY ATTILA",
     "name2": "Nagy Attila",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "NAGY ATTILA TIBOR|10|03": {
@@ -3084,7 +3084,7 @@
     "name": "NAGY ATTILA TIBOR",
     "name2": "Nagy Attila Tibor",
     "county": "10",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "NAGY BÁLINT|20|02": {
@@ -3092,7 +3092,7 @@
     "name": "NAGY BÁLINT",
     "name2": "Nagy Bálint",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "NAGY BÉLA|06|01": {
@@ -3100,7 +3100,7 @@
     "name": "NAGY BÉLA",
     "name2": "Nagy Béla",
     "county": "06",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "NAGY CSABA|02|04": {
@@ -3108,7 +3108,7 @@
     "name": "NAGY CSABA",
     "name2": "Nagy Csaba",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "NAGY DÁVID|01|06": {
@@ -3116,7 +3116,7 @@
     "name": "NAGY DÁVID",
     "name2": "Nagy Dávid",
     "county": "01",
-    "oevk": "06",
+    "constituency": "06",
     "party": "MKKP"
   },
   "NAGY DÁVID|01|12": {
@@ -3124,7 +3124,7 @@
     "name": "NAGY DÁVID",
     "name2": "Nagy Dávid",
     "county": "01",
-    "oevk": "12",
+    "constituency": "12",
     "party": "MKKP"
   },
   "NAGY ERVIN|07|04": {
@@ -3132,7 +3132,7 @@
     "name": "NAGY ERVIN",
     "name2": "Nagy Ervin",
     "county": "07",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "NAGY FERENC|09|02": {
@@ -3140,7 +3140,7 @@
     "name": "NAGY FERENC",
     "name2": "Nagy Ferenc",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "NAGY FERENC|14|09": {
@@ -3148,7 +3148,7 @@
     "name": "NAGY FERENC",
     "name2": "Nagy Ferenc",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "Munkáspárt"
   },
   "NAGY FERENC|08|03": {
@@ -3156,7 +3156,7 @@
     "name": "NAGY FERENC",
     "name2": "Nagy Ferenc",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "NAGY GUSZTÁV|03|06": {
@@ -3164,7 +3164,7 @@
     "name": "NAGY GUSZTÁV",
     "name2": "Nagy Gusztáv",
     "county": "03",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Munkáspárt"
   },
   "NAGY IMRE|03|04": {
@@ -3172,7 +3172,7 @@
     "name": "NAGY IMRE",
     "name2": "Nagy Imre",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": null
   },
   "DR. NAGY ISTVÁN|08|05": {
@@ -3180,7 +3180,7 @@
     "name": "DR. NAGY ISTVÁN",
     "name2": "Dr. Nagy István",
     "county": "08",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "NAGY JÓZSEF LÁSZLÓ|16|04": {
@@ -3188,7 +3188,7 @@
     "name": "NAGY JÓZSEF LÁSZLÓ",
     "name2": "Nagy József László",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DR. NAGY MÁRTA|20|01": {
@@ -3196,7 +3196,7 @@
     "name": "DR. NAGY MÁRTA",
     "name2": "Dr. Nagy Márta",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "NAGY RICHÁRD|07|05": {
@@ -3204,7 +3204,7 @@
     "name": "NAGY RICHÁRD",
     "name2": "Nagy Richárd",
     "county": "07",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "NAGY RICHÁRD GYÖRGY|01|11": {
@@ -3212,7 +3212,7 @@
     "name": "NAGY RICHÁRD GYÖRGY",
     "name2": "Nagy Richárd György",
     "county": "01",
-    "oevk": "11",
+    "constituency": "11",
     "party": "DK"
   },
   "NAGY SZABOLCS|03|05": {
@@ -3220,7 +3220,7 @@
     "name": "NAGY SZABOLCS",
     "name2": "Nagy Szabolcs",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "NAGY TAMÁS|17|01": {
@@ -3228,7 +3228,7 @@
     "name": "NAGY TAMÁS",
     "name2": "Nagy Tamás",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "NAGY TIBOR BALÁZS|10|03": {
@@ -3236,7 +3236,7 @@
     "name": "NAGY TIBOR BALÁZS",
     "name2": "Nagy Tibor Balázs",
     "county": "10",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "NAGY ZOLTÁN|09|06": {
@@ -3244,7 +3244,7 @@
     "name": "NAGY ZOLTÁN",
     "name2": "Nagy Zoltán",
     "county": "09",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "NAGY-NÉMETH NÓRA|08|04": {
@@ -3252,7 +3252,7 @@
     "name": "NAGY-NÉMETH NÓRA",
     "name2": "Nagy-Németh Nóra",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "NARDAI PÉTER|19|04": {
@@ -3260,7 +3260,7 @@
     "name": "NARDAI PÉTER",
     "name2": "Nardai Péter",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "DR. NAVRACSICS TIBOR|19|03": {
@@ -3268,7 +3268,7 @@
     "name": "DR. NAVRACSICS TIBOR",
     "name2": "Dr. Navracsics Tibor",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "NÉHER ANDRÁS|08|02": {
@@ -3276,7 +3276,7 @@
     "name": "NÉHER ANDRÁS",
     "name2": "Néher András",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "NEMES GÁBOR|14|07": {
@@ -3284,7 +3284,7 @@
     "name": "NEMES GÁBOR",
     "name2": "Nemes Gábor",
     "county": "14",
-    "oevk": "07",
+    "constituency": "07",
     "party": "DK"
   },
   "NÉMETH BALÁZS|01|13": {
@@ -3292,7 +3292,7 @@
     "name": "NÉMETH BALÁZS",
     "name2": "Németh Balázs",
     "county": "01",
-    "oevk": "13",
+    "constituency": "13",
     "party": "FIDESZ-KDNP"
   },
   "DR. NÉMETH CSILLA|05|03": {
@@ -3300,7 +3300,7 @@
     "name": "DR. NÉMETH CSILLA",
     "name2": "Dr. Németh Csilla",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "NÉMETH HELGA|15|03": {
@@ -3308,7 +3308,7 @@
     "name": "NÉMETH HELGA",
     "name2": "Németh Helga",
     "county": "15",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "NÉMETH KÁROLY|19|03": {
@@ -3316,7 +3316,7 @@
     "name": "NÉMETH KÁROLY",
     "name2": "Németh Károly",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "NÉMETH SZILVESZTER|03|05": {
@@ -3324,7 +3324,7 @@
     "name": "NÉMETH SZILVESZTER",
     "name2": "Németh Szilveszter",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": null
   },
   "DR. NEULINGER ÁGNES|01|10": {
@@ -3332,7 +3332,7 @@
     "name": "DR. NEULINGER ÁGNES",
     "name2": "Dr. Neulinger Ágnes",
     "county": "01",
-    "oevk": "10",
+    "constituency": "10",
     "party": "MKKP"
   },
   "NOVÁK ELŐD|01|10": {
@@ -3340,7 +3340,7 @@
     "name": "NOVÁK ELŐD",
     "name2": "Novák Előd",
     "county": "01",
-    "oevk": "10",
+    "constituency": "10",
     "party": "Mi Hazánk"
   },
   "NYITRAI ATTILA|05|06": {
@@ -3348,7 +3348,7 @@
     "name": "NYITRAI ATTILA",
     "name2": "Nyitrai Attila",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "NYITRAI-CSABAY LIZA CSILLA|08|05": {
@@ -3356,7 +3356,7 @@
     "name": "NYITRAI-CSABAY LIZA CSILLA",
     "name2": "Nyitrai-Csabay Liza Csilla",
     "county": "08",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "ÓHIDY ISTVÁN|06|02": {
@@ -3364,7 +3364,7 @@
     "name": "ÓHIDY ISTVÁN",
     "name2": "Óhidy István",
     "county": "06",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "OLÁH JÁNOS|01|05": {
@@ -3372,7 +3372,7 @@
     "name": "OLÁH JÁNOS",
     "name2": "Oláh János",
     "county": "01",
-    "oevk": "05",
+    "constituency": "05",
     "party": "MKKP"
   },
   "OLÁH ZSOLT|05|05": {
@@ -3380,7 +3380,7 @@
     "name": "OLÁH ZSOLT",
     "name2": "Oláh Zsolt",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "KÁP"
   },
   "ORBÁN ADRIEN|08|02": {
@@ -3388,7 +3388,7 @@
     "name": "ORBÁN ADRIEN",
     "name2": "Orbán Adrien",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "ORMOS TAS ZSOLT|05|05": {
@@ -3396,7 +3396,7 @@
     "name": "ORMOS TAS ZSOLT",
     "name2": "Ormos Tas Zsolt",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Jobbik"
   },
   "OROSZ PATRIK|14|07": {
@@ -3404,7 +3404,7 @@
     "name": "OROSZ PATRIK",
     "name2": "Orosz Patrik",
     "county": "14",
-    "oevk": "07",
+    "constituency": "07",
     "party": "Mi Hazánk"
   },
   "OTTLOKÁN RADOVÁN|06|04": {
@@ -3412,7 +3412,7 @@
     "name": "OTTLOKÁN RADOVÁN",
     "name2": "Ottlokán Radován",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "OVÁDI PÉTER|19|01": {
@@ -3420,7 +3420,7 @@
     "name": "OVÁDI PÉTER",
     "name2": "Ovádi Péter",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "PAÁL GÉZA|19|02": {
@@ -3428,7 +3428,7 @@
     "name": "PAÁL GÉZA",
     "name2": "Paál Géza",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "PÁGER FERENC|02|03": {
@@ -3436,7 +3436,7 @@
     "name": "PÁGER FERENC",
     "name2": "Páger Ferenc",
     "county": "02",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "DR. PAJTÓK GÁBOR|10|01": {
@@ -3444,7 +3444,7 @@
     "name": "DR. PAJTÓK GÁBOR",
     "name2": "Dr. Pajtók Gábor",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "PAKUSZA ZOLTÁN|05|02": {
@@ -3452,7 +3452,7 @@
     "name": "PAKUSZA ZOLTÁN",
     "name2": "Pakusza Zoltán",
     "county": "05",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "PÁL ANNA VIKTÓRIA|06|04": {
@@ -3460,7 +3460,7 @@
     "name": "PÁL ANNA VIKTÓRIA",
     "name2": "Pál Anna Viktória",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "PÁL BÉLA|14|04": {
@@ -3468,7 +3468,7 @@
     "name": "PÁL BÉLA",
     "name2": "Pál Béla",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "PÁL ÉVA|01|09": {
@@ -3476,7 +3476,7 @@
     "name": "PÁL ÉVA",
     "name2": "Pál Éva",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "Munkáspárt"
   },
   "DR. PÁLI JENŐ|14|11": {
@@ -3484,7 +3484,7 @@
     "name": "DR. PÁLI JENŐ",
     "name2": "Dr. Páli Jenő",
     "county": "14",
-    "oevk": "11",
+    "constituency": "11",
     "party": "Mi Hazánk"
   },
   "PAP FERENC|05|04": {
@@ -3492,7 +3492,7 @@
     "name": "PAP FERENC",
     "name2": "Pap Ferenc",
     "county": "05",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DR. PÁPAI ÁKOS|10|01": {
@@ -3500,7 +3500,7 @@
     "name": "DR. PÁPAI ÁKOS",
     "name2": "Dr. Pápai Ákos",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "PÁPAI PETRA|08|02": {
@@ -3508,7 +3508,7 @@
     "name": "PÁPAI PETRA",
     "name2": "Pápai Petra",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "PAPP DÁVID|03|01": {
@@ -3516,7 +3516,7 @@
     "name": "PAPP DÁVID",
     "name2": "Papp Dávid",
     "county": "03",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "PAPP KARULY BARNABÁS|15|04": {
@@ -3524,7 +3524,7 @@
     "name": "PAPP KARULY BARNABÁS",
     "name2": "Papp Karuly Barnabás",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "PAPP ZOLTÁN|20|01": {
@@ -3532,7 +3532,7 @@
     "name": "PAPP ZOLTÁN",
     "name2": "Papp Zoltán",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "PAPP ZSOLT|09|06": {
@@ -3540,7 +3540,7 @@
     "name": "PAPP ZSOLT",
     "name2": "Papp Zsolt",
     "county": "09",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   },
   "PAPPNÉ SUSZTER ANNA|05|03": {
@@ -3548,7 +3548,7 @@
     "name": "PAPPNÉ SUSZTER ANNA",
     "name2": "Pappné Suszter Anna",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "PARDI-OLÁH ROBERTA|11|03": {
@@ -3556,7 +3556,7 @@
     "name": "PARDI-OLÁH ROBERTA",
     "name2": "Pardi-Oláh Roberta",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "PARÉ ATTILA|16|06": {
@@ -3564,7 +3564,7 @@
     "name": "PARÉ ATTILA",
     "name2": "Paré Attila",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "PASZICSNYEK JÁNOS|07|03": {
@@ -3572,7 +3572,7 @@
     "name": "PASZICSNYEK JÁNOS",
     "name2": "Paszicsnyek János",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "DR. PÁSZTOR ESZTER|07|01": {
@@ -3580,7 +3580,7 @@
     "name": "DR. PÁSZTOR ESZTER",
     "name2": "Dr. Pásztor Eszter",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "PASZTORNICZKY ISTVÁN|05|05": {
@@ -3588,7 +3588,7 @@
     "name": "PASZTORNICZKY ISTVÁN",
     "name2": "Pasztorniczky István",
     "county": "05",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "PÉRCSI VIKTÓRIA|01|06": {
@@ -3596,7 +3596,7 @@
     "name": "PÉRCSI VIKTÓRIA",
     "name2": "Pércsi Viktória",
     "county": "01",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "PERDIÁK JÁNOS|16|03": {
@@ -3604,7 +3604,7 @@
     "name": "PERDIÁK JÁNOS",
     "name2": "Perdiák János",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MIÉP"
   },
   "PERTICSNÉ KÁCSOR ANDREA|14|10": {
@@ -3612,7 +3612,7 @@
     "name": "PERTICSNÉ KÁCSOR ANDREA",
     "name2": "Perticsné Kácsor Andrea",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "TISZA"
   },
   "PÉTERFALVINÉ KALMÁR PIROSKA|17|01": {
@@ -3620,7 +3620,7 @@
     "name": "PÉTERFALVINÉ KALMÁR PIROSKA",
     "name2": "Péterfalviné Kalmár Piroska",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "PETRIK BARBARA|02|03": {
@@ -3628,7 +3628,7 @@
     "name": "PETRIK BARBARA",
     "name2": "Petrik Barbara",
     "county": "02",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "PILISI EMÍLIA|01|04": {
@@ -3636,7 +3636,7 @@
     "name": "PILISI EMÍLIA",
     "name2": "Pilisi Emília",
     "county": "01",
-    "oevk": "04",
+    "constituency": "04",
     "party": "MKKP"
   },
   "PINTÉR FERENC|11|02": {
@@ -3644,7 +3644,7 @@
     "name": "PINTÉR FERENC",
     "name2": "Pintér Ferenc",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": null
   },
   "PISÁK ISTVÁN|08|04": {
@@ -3652,7 +3652,7 @@
     "name": "PISÁK ISTVÁN",
     "name2": "Pisák István",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "DR. PÓCS ALFRÉD|10|01": {
@@ -3660,7 +3660,7 @@
     "name": "DR. PÓCS ALFRÉD",
     "name2": "Dr. Pócs Alfréd",
     "county": "10",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Szentkorona"
   },
   "PÓCS JÁNOS|11|02": {
@@ -3668,7 +3668,7 @@
     "name": "PÓCS JÁNOS",
     "name2": "Pócs János",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "PÓCS MIKLÓS|08|02": {
@@ -3676,7 +3676,7 @@
     "name": "PÓCS MIKLÓS",
     "name2": "Pócs Miklós",
     "county": "08",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "POGÁCSÁS TIBOR|14|12": {
@@ -3684,7 +3684,7 @@
     "name": "POGÁCSÁS TIBOR",
     "name2": "Pogácsás Tibor",
     "county": "14",
-    "oevk": "12",
+    "constituency": "12",
     "party": "FIDESZ-KDNP"
   },
   "POLGÁR GYÖRGY|14|12": {
@@ -3692,7 +3692,7 @@
     "name": "POLGÁR GYÖRGY",
     "name2": "Polgár György",
     "county": "14",
-    "oevk": "12",
+    "constituency": "12",
     "party": "TISZA"
   },
   "PORCHER ÁRON|01|15": {
@@ -3700,7 +3700,7 @@
     "name": "PORCHER ÁRON",
     "name2": "Porcher Áron",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "TISZA"
   },
   "DR. PORPÁCZY KRISZTINA|08|05": {
@@ -3708,7 +3708,7 @@
     "name": "DR. PORPÁCZY KRISZTINA",
     "name2": "Dr. Porpáczy Krisztina",
     "county": "08",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "PÓSFAI GÁBOR|14|02": {
@@ -3716,7 +3716,7 @@
     "name": "PÓSFAI GÁBOR",
     "name2": "Pósfai Gábor",
     "county": "14",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "RADECZKI CSONGOR|09|02": {
@@ -3724,7 +3724,7 @@
     "name": "RADECZKI CSONGOR",
     "name2": "Radeczki Csongor",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "RADICS BÉLA|01|06": {
@@ -3732,7 +3732,7 @@
     "name": "RADICS BÉLA",
     "name2": "Radics Béla",
     "county": "01",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   },
   "RADNAI MÁRK|12|02": {
@@ -3740,7 +3740,7 @@
     "name": "RADNAI MÁRK",
     "name2": "Radnai Márk",
     "county": "12",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "RÁKI ZSOLT|04|03": {
@@ -3748,7 +3748,7 @@
     "name": "RÁKI ZSOLT",
     "name2": "Ráki Zsolt",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "RÁPLI RÓBERT|18|01": {
@@ -3756,7 +3756,7 @@
     "name": "RÁPLI RÓBERT",
     "name2": "Rápli Róbert",
     "county": "18",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "RÁTKOVICS ROLAND ZSOLT|08|04": {
@@ -3764,7 +3764,7 @@
     "name": "RÁTKOVICS ROLAND ZSOLT",
     "name2": "Rátkovics Roland Zsolt",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "REGŐS BALÁZS|14|06": {
@@ -3772,7 +3772,7 @@
     "name": "REGŐS BALÁZS",
     "name2": "Regős Balázs",
     "county": "14",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Mi Hazánk"
   },
   "REHÁKNÉ MENYHÁRT GABRIELLA|09|04": {
@@ -3780,7 +3780,7 @@
     "name": "REHÁKNÉ MENYHÁRT GABRIELLA",
     "name2": "Rehákné Menyhárt Gabriella",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "REMES GÁBOR|15|02": {
@@ -3788,7 +3788,7 @@
     "name": "REMES GÁBOR",
     "name2": "Remes Gábor",
     "county": "15",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "RÉTVÁRI BENCE|14|11": {
@@ -3796,7 +3796,7 @@
     "name": "RÉTVÁRI BENCE",
     "name2": "Rétvári Bence",
     "county": "14",
-    "oevk": "11",
+    "constituency": "11",
     "party": "FIDESZ-KDNP"
   },
   "RÉVI ATTILA|11|04": {
@@ -3804,7 +3804,7 @@
     "name": "RÉVI ATTILA",
     "name2": "Révi Attila",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "RINGWALD PANKA|09|03": {
@@ -3812,7 +3812,7 @@
     "name": "RINGWALD PANKA",
     "name2": "Ringwald Panka",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "RIZMAYERNÉ CSIK ERZSÉBET|01|09": {
@@ -3820,7 +3820,7 @@
     "name": "RIZMAYERNÉ CSIK ERZSÉBET",
     "name2": "Rizmayerné Csik Erzsébet",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "Mi Hazánk"
   },
   "RÓNAI SÁNDOR|14|05": {
@@ -3828,7 +3828,7 @@
     "name": "RÓNAI SÁNDOR",
     "name2": "Rónai Sándor",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "DK"
   },
   "ROST ANDREA|11|01": {
@@ -3836,7 +3836,7 @@
     "name": "ROST ANDREA",
     "name2": "Rost Andrea",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "RÓZSAHEGYI ÁRON|02|03": {
@@ -3844,7 +3844,7 @@
     "name": "RÓZSAHEGYI ÁRON",
     "name2": "Rózsahegyi Áron",
     "county": "02",
-    "oevk": "03",
+    "constituency": "03",
     "party": "TISZA"
   },
   "DR. RUSZIN-SZENDI ROMULUSZ|09|05": {
@@ -3852,7 +3852,7 @@
     "name": "DR. RUSZIN-SZENDI ROMULUSZ",
     "name2": "Dr. Ruszin-Szendi Romulusz",
     "county": "09",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "DR. RUZSA DIÁNA|02|01": {
@@ -3860,7 +3860,7 @@
     "name": "DR. RUZSA DIÁNA",
     "name2": "Dr. Ruzsa Diána",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "DR. SALACZ LÁSZLÓ|03|01": {
@@ -3868,7 +3868,7 @@
     "name": "DR. SALACZ LÁSZLÓ",
     "name2": "Dr. Salacz László",
     "county": "03",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "SALÁNKINÉ KUTI ZSUZSANNA|09|01": {
@@ -3876,7 +3876,7 @@
     "name": "SALÁNKINÉ KUTI ZSUZSANNA",
     "name2": "Salánkiné Kuti Zsuzsanna",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "SALKOVICS RÓBERT|12|03": {
@@ -3884,7 +3884,7 @@
     "name": "SALKOVICS RÓBERT",
     "name2": "Salkovics Róbert",
     "county": "12",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "SAMU DOMONKOS|08|03": {
@@ -3892,7 +3892,7 @@
     "name": "SAMU DOMONKOS",
     "name2": "Samu Domonkos",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "SÁNDOR ISTVÁN|14|09": {
@@ -3900,7 +3900,7 @@
     "name": "SÁNDOR ISTVÁN",
     "name2": "Sándor István",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "NÉP"
   },
   "DR. SÁNDOR ZOLTÁN|02|02": {
@@ -3908,7 +3908,7 @@
     "name": "DR. SÁNDOR ZOLTÁN",
     "name2": "Dr. Sándor Zoltán",
     "county": "02",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "SARKADI PÁL|03|04": {
@@ -3916,7 +3916,7 @@
     "name": "SARKADI PÁL",
     "name2": "Sarkadi Pál",
     "county": "03",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "SÁRKÖZI BETTI|14|13": {
@@ -3924,7 +3924,7 @@
     "name": "SÁRKÖZI BETTI",
     "name2": "Sárközi Betti",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "MKKP"
   },
   "DR. SÁROSI JÓZSEF|17|01": {
@@ -3932,7 +3932,7 @@
     "name": "DR. SÁROSI JÓZSEF",
     "name2": "Dr. Sárosi József",
     "county": "17",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "SÁROSY ZOLTÁN|16|03": {
@@ -3940,7 +3940,7 @@
     "name": "SÁROSY ZOLTÁN",
     "name2": "Sárosy Zoltán",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "SAS ZOLTÁN|14|08": {
@@ -3948,7 +3948,7 @@
     "name": "SAS ZOLTÁN",
     "name2": "Sas Zoltán",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "Jobbik"
   },
   "SASI-SZABÓ TAMÁS|09|01": {
@@ -3956,7 +3956,7 @@
     "name": "SASI-SZABÓ TAMÁS",
     "name2": "Sasi-Szabó Tamás",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "SASS BULCSÚ|09|05": {
@@ -3964,7 +3964,7 @@
     "name": "SASS BULCSÚ",
     "name2": "Sass Bulcsú",
     "county": "09",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "SCHMIDT ROLAND|07|02": {
@@ -3972,7 +3972,7 @@
     "name": "SCHMIDT ROLAND",
     "name2": "Schmidt Roland",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "SCHULTZ GÁBOR|04|04": {
@@ -3980,7 +3980,7 @@
     "name": "SCHULTZ GÁBOR",
     "name2": "Schultz Gábor",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "SERES-POLYÁK KATALIN|10|02": {
@@ -3988,7 +3988,7 @@
     "name": "SERES-POLYÁK KATALIN",
     "name2": "Seres-Polyák Katalin",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "SERMER ÁDÁM|05|07": {
@@ -3996,7 +3996,7 @@
     "name": "SERMER ÁDÁM",
     "name2": "Sermer Ádám",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "DK"
   },
   "DR. SESZTÁK MIKLÓS|16|03": {
@@ -4004,7 +4004,7 @@
     "name": "DR. SESZTÁK MIKLÓS",
     "name2": "Dr. Seszták Miklós",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "SIMON ANITA ÉVA|03|02": {
@@ -4012,7 +4012,7 @@
     "name": "SIMON ANITA ÉVA",
     "name2": "Simon Anita Éva",
     "county": "03",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "SIMON GYÖRGY|01|02": {
@@ -4020,7 +4020,7 @@
     "name": "SIMON GYÖRGY",
     "name2": "Simon György",
     "county": "01",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Munkáspárt"
   },
   "SIMON JÓZSEF FERENC|14|04": {
@@ -4028,7 +4028,7 @@
     "name": "SIMON JÓZSEF FERENC",
     "name2": "Simon József Ferenc",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Munkáspárt"
   },
   "DR. SIMON MIKLÓS|16|06": {
@@ -4036,7 +4036,7 @@
     "name": "DR. SIMON MIKLÓS",
     "name2": "Dr. Simon Miklós",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   },
   "SIMON ZOLTÁN|08|04": {
@@ -4044,7 +4044,7 @@
     "name": "SIMON ZOLTÁN",
     "name2": "Simon Zoltán",
     "county": "08",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "DR. SIMON ZSUZSÁNNA|16|04": {
@@ -4052,7 +4052,7 @@
     "name": "DR. SIMON ZSUZSÁNNA",
     "name2": "Dr. Simon Zsuzsánna",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "SIMONKA GYÖRGY|04|04": {
@@ -4060,7 +4060,7 @@
     "name": "SIMONKA GYÖRGY",
     "name2": "Simonka György",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": null
   },
   "SIPOS IVETT|06|02": {
@@ -4068,7 +4068,7 @@
     "name": "SIPOS IVETT",
     "name2": "Sipos Ivett",
     "county": "06",
-    "oevk": "02",
+    "constituency": "02",
     "party": "MKKP"
   },
   "SOM TAMÁS|07|03": {
@@ -4076,7 +4076,7 @@
     "name": "SOM TAMÁS",
     "name2": "Som Tamás",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "SOMLAY RÓBERT|11|03": {
@@ -4084,7 +4084,7 @@
     "name": "SOMLAY RÓBERT",
     "name2": "Somlay Róbert",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "SOMODY FERENC BALÁZS|14|09": {
@@ -4092,7 +4092,7 @@
     "name": "SOMODY FERENC BALÁZS",
     "name2": "Somody Ferenc Balázs",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "MKKP"
   },
   "SOMOGYINÉ HATVANI ZSUZSANNA|01|15": {
@@ -4100,7 +4100,7 @@
     "name": "SOMOGYINÉ HATVANI ZSUZSANNA",
     "name2": "Somogyiné Hatvani Zsuzsanna",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "Mi Hazánk"
   },
   "DR. SOPOV ILDIKÓ ÉVA|12|01": {
@@ -4108,7 +4108,7 @@
     "name": "DR. SOPOV ILDIKÓ ÉVA",
     "name2": "Dr. Sopov Ildikó Éva",
     "county": "12",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "STEINER ATTILA|01|03": {
@@ -4116,7 +4116,7 @@
     "name": "STEINER ATTILA",
     "name2": "Steiner Attila",
     "county": "01",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "STRASSZER JÓZSEF|07|02": {
@@ -4124,7 +4124,7 @@
     "name": "STRASSZER JÓZSEF",
     "name2": "Strasszer József",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "STROMPOVÁ VIKTÓRIA|18|02": {
@@ -4132,7 +4132,7 @@
     "name": "STROMPOVÁ VIKTÓRIA",
     "name2": "Strompová Viktória",
     "county": "18",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "DR. STUMPF PÉTER|06|01": {
@@ -4140,7 +4140,7 @@
     "name": "DR. STUMPF PÉTER",
     "name2": "Dr. Stumpf Péter",
     "county": "06",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "SÜLI JÁNOS|17|03": {
@@ -4148,7 +4148,7 @@
     "name": "SÜLI JÁNOS",
     "name2": "Süli János",
     "county": "17",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "SZABADI ISTVÁN|03|05": {
@@ -4156,7 +4156,7 @@
     "name": "SZABADI ISTVÁN",
     "name2": "Szabadi István",
     "county": "03",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Mi Hazánk"
   },
   "DR. SZABÓ ALEXANDRA|01|14": {
@@ -4164,7 +4164,7 @@
     "name": "DR. SZABÓ ALEXANDRA",
     "name2": "Dr. Szabó Alexandra",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": "TISZA"
   },
   "SZABÓ BETTINA|11|04": {
@@ -4172,7 +4172,7 @@
     "name": "SZABÓ BETTINA",
     "name2": "Szabó Bettina",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "SZABÓ GÉZA|05|06": {
@@ -4180,7 +4180,7 @@
     "name": "SZABÓ GÉZA",
     "name2": "Szabó Géza",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Munkáspárt"
   },
   "SZABÓ ISTVÁN|06|03": {
@@ -4188,7 +4188,7 @@
     "name": "SZABÓ ISTVÁN",
     "name2": "Szabó István",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "SZABÓ LÁSZLÓ JÓZSEF|20|03": {
@@ -4196,7 +4196,7 @@
     "name": "SZABÓ LÁSZLÓ JÓZSEF",
     "name2": "Szabó László József",
     "county": "20",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "SZABÓ MIKLÓS|19|02": {
@@ -4204,7 +4204,7 @@
     "name": "SZABÓ MIKLÓS",
     "name2": "Szabó Miklós",
     "county": "19",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "SZABÓ PATRIK|03|03": {
@@ -4212,7 +4212,7 @@
     "name": "SZABÓ PATRIK",
     "name2": "Szabó Patrik",
     "county": "03",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "SZABÓ ZOLTÁN|08|03": {
@@ -4220,7 +4220,7 @@
     "name": "SZABÓ ZOLTÁN",
     "name2": "Szabó Zoltán",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "SZABÓ ZSOLT|10|03": {
@@ -4228,7 +4228,7 @@
     "name": "SZABÓ ZSOLT",
     "name2": "Szabó Zsolt",
     "county": "10",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "SZABÓ-KELLNER KATALIN|01|16": {
@@ -4236,7 +4236,7 @@
     "name": "SZABÓ-KELLNER KATALIN",
     "name2": "Szabó-Kellner Katalin",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "LMP"
   },
   "SZABÓNÉ PAPP KLÁRA|14|08": {
@@ -4244,7 +4244,7 @@
     "name": "SZABÓNÉ PAPP KLÁRA",
     "name2": "Szabóné Papp Klára",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "Mi Hazánk"
   },
   "SZAFKÓ ZOLTÁN PÉTER|13|01": {
@@ -4252,7 +4252,7 @@
     "name": "SZAFKÓ ZOLTÁN PÉTER",
     "name2": "Szafkó Zoltán Péter",
     "county": "13",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "SZAJLAI JÁNOS|05|07": {
@@ -4260,7 +4260,7 @@
     "name": "SZAJLAI JÁNOS",
     "name2": "Szajlai János",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "Mi Hazánk"
   },
   "SZAKÁCS PÉTER LAJOS|16|02": {
@@ -4268,7 +4268,7 @@
     "name": "SZAKÁCS PÉTER LAJOS",
     "name2": "Szakács Péter Lajos",
     "county": "16",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "SZALAI TIMEA|14|01": {
@@ -4276,7 +4276,7 @@
     "name": "SZALAI TIMEA",
     "name2": "Szalai Timea",
     "county": "14",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "SZALKAI IMRE|04|02": {
@@ -4284,7 +4284,7 @@
     "name": "SZALKAI IMRE",
     "name2": "Szalkai Imre",
     "county": "04",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "SZANYI TIBOR|01|14": {
@@ -4292,7 +4292,7 @@
     "name": "SZANYI TIBOR",
     "name2": "Szanyi Tibor",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": null
   },
   "SZARKA SÁNDOR|17|03": {
@@ -4300,7 +4300,7 @@
     "name": "SZARKA SÁNDOR",
     "name2": "Szarka Sándor",
     "county": "17",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "SZARKÁNDINÉ JERSZI KATALIN|02|04": {
@@ -4308,7 +4308,7 @@
     "name": "SZARKÁNDINÉ JERSZI KATALIN",
     "name2": "Szarkándiné Jerszi Katalin",
     "county": "02",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "SZATMÁRI BÉLA|06|03": {
@@ -4316,7 +4316,7 @@
     "name": "SZATMÁRI BÉLA",
     "name2": "Szatmári Béla",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "SZATMÁRY KRISTÓF|01|14": {
@@ -4324,7 +4324,7 @@
     "name": "SZATMÁRY KRISTÓF",
     "name2": "Szatmáry Kristóf",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": "FIDESZ-KDNP"
   },
   "SZEGEDI JÁNOS ATTILA|11|04": {
@@ -4332,7 +4332,7 @@
     "name": "SZEGEDI JÁNOS ATTILA",
     "name2": "Szegedi János Attila",
     "county": "11",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "SZÉKELY DÁNIEL|03|06": {
@@ -4340,7 +4340,7 @@
     "name": "SZÉKELY DÁNIEL",
     "name2": "Székely Dániel",
     "county": "03",
-    "oevk": "06",
+    "constituency": "06",
     "party": "DK"
   },
   "SZÉKELY SÁNDOR|01|16": {
@@ -4348,7 +4348,7 @@
     "name": "SZÉKELY SÁNDOR",
     "name2": "Székely Sándor",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "Munkáspárt"
   },
   "DR. SZÉLES DIÁNA|09|02": {
@@ -4356,7 +4356,7 @@
     "name": "DR. SZÉLES DIÁNA",
     "name2": "Dr. Széles Diána",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "SZELES SZABOLCS|08|01": {
@@ -4364,7 +4364,7 @@
     "name": "SZELES SZABOLCS",
     "name2": "Szeles Szabolcs",
     "county": "08",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "SZÉLPÁL SZILÁRD|06|03": {
@@ -4372,7 +4372,7 @@
     "name": "SZÉLPÁL SZILÁRD",
     "name2": "Szélpál Szilárd",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "MKKP"
   },
   "SZENTMIKLÓSI TAMÁS LÁSZLÓ|14|05": {
@@ -4380,7 +4380,7 @@
     "name": "SZENTMIKLÓSI TAMÁS LÁSZLÓ",
     "name2": "Szentmiklósi Tamás László",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "Munkáspárt"
   },
   "DR. SZIJJÁRTÓ GÁBOR|17|02": {
@@ -4388,7 +4388,7 @@
     "name": "DR. SZIJJÁRTÓ GÁBOR",
     "name2": "Dr. Szijjártó Gábor",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "SZILÁGYI JÓZSEF|08|03": {
@@ -4396,7 +4396,7 @@
     "name": "SZILÁGYI JÓZSEF",
     "name2": "Szilágyi József",
     "county": "08",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "SZILASI GÁBOR|20|01": {
@@ -4404,7 +4404,7 @@
     "name": "SZILASI GÁBOR",
     "name2": "Szilasi Gábor",
     "county": "20",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "SZIMON RENÁTA|14|11": {
@@ -4412,7 +4412,7 @@
     "name": "SZIMON RENÁTA",
     "name2": "Szimon Renáta",
     "county": "14",
-    "oevk": "11",
+    "constituency": "11",
     "party": "TISZA"
   },
   "SZIN RICHÁRD|01|15": {
@@ -4420,7 +4420,7 @@
     "name": "SZIN RICHÁRD",
     "name2": "Szin Richárd",
     "county": "01",
-    "oevk": "15",
+    "constituency": "15",
     "party": "MKKP"
   },
   "DR. SZINTAY ISTVÁN|01|01": {
@@ -4428,7 +4428,7 @@
     "name": "DR. SZINTAY ISTVÁN",
     "name2": "Dr. Szintay István",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "SZLOBODNIK LÁSZLÓ|05|06": {
@@ -4436,7 +4436,7 @@
     "name": "SZLOBODNIK LÁSZLÓ",
     "name2": "Szlobodnik László",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "Jobbik"
   },
   "SZOLNOKI GÁBOR|05|01": {
@@ -4444,7 +4444,7 @@
     "name": "SZOLNOKI GÁBOR",
     "name2": "Szolnoki Gábor",
     "county": "05",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "SZÖRÉNYI KÁROLY|09|03": {
@@ -4452,7 +4452,7 @@
     "name": "SZÖRÉNYI KÁROLY",
     "name2": "Szörényi Károly",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "DR. SZŰCS LAJOS|14|08": {
@@ -4460,7 +4460,7 @@
     "name": "DR. SZŰCS LAJOS",
     "name2": "Dr. Szűcs Lajos",
     "county": "14",
-    "oevk": "08",
+    "constituency": "08",
     "party": "FIDESZ-KDNP"
   },
   "SZÜCS ZOLTÁN|19|01": {
@@ -4468,7 +4468,7 @@
     "name": "SZÜCS ZOLTÁN",
     "name2": "Szücs Zoltán",
     "county": "19",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "DR. TAKÁCS ÁRPÁD|04|01": {
@@ -4476,7 +4476,7 @@
     "name": "DR. TAKÁCS ÁRPÁD",
     "name2": "Dr. Takács Árpád",
     "county": "04",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "TAKÁCS IMRE FERENC|18|03": {
@@ -4484,7 +4484,7 @@
     "name": "TAKÁCS IMRE FERENC",
     "name2": "Takács Imre Ferenc",
     "county": "18",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "TAKÁCS LÁSZLÓ|17|02": {
@@ -4492,7 +4492,7 @@
     "name": "TAKÁCS LÁSZLÓ",
     "name2": "Takács László",
     "county": "17",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "TAKÁCS PÉTER|19|04": {
@@ -4500,7 +4500,7 @@
     "name": "TAKÁCS PÉTER",
     "name2": "Takács Péter",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "TÁLLAI ANDRÁS|05|07": {
@@ -4508,7 +4508,7 @@
     "name": "TÁLLAI ANDRÁS",
     "name2": "Tállai András",
     "county": "05",
-    "oevk": "07",
+    "constituency": "07",
     "party": "FIDESZ-KDNP"
   },
   "TANÁCS ZOLTÁN|01|01": {
@@ -4516,7 +4516,7 @@
     "name": "TANÁCS ZOLTÁN",
     "name2": "Tanács Zoltán",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "TANBERGER TIBOR|15|04": {
@@ -4524,7 +4524,7 @@
     "name": "TANBERGER TIBOR",
     "name2": "Tanberger Tibor",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "TÁRKÁNYI ZSOLT|09|01": {
@@ -4532,7 +4532,7 @@
     "name": "TÁRKÁNYI ZSOLT",
     "name2": "Tárkányi Zsolt",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "TISZA"
   },
   "DR. TARNAI RICHÁRD|01|08": {
@@ -4540,7 +4540,7 @@
     "name": "DR. TARNAI RICHÁRD",
     "name2": "Dr. Tarnai Richárd",
     "county": "01",
-    "oevk": "08",
+    "constituency": "08",
     "party": "FIDESZ-KDNP"
   },
   "TARR ZOLTÁN|01|16": {
@@ -4548,7 +4548,7 @@
     "name": "TARR ZOLTÁN",
     "name2": "Tarr Zoltán",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "TISZA"
   },
   "TASSI RÓBERT|14|09": {
@@ -4556,7 +4556,7 @@
     "name": "TASSI RÓBERT",
     "name2": "Tassi Róbert",
     "county": "14",
-    "oevk": "09",
+    "constituency": "09",
     "party": "Mi Hazánk"
   },
   "TESSELY ZOLTÁN|07|03": {
@@ -4564,7 +4564,7 @@
     "name": "TESSELY ZOLTÁN",
     "name2": "Tessely Zoltán",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "DR. TILKI ATTILA|16|04": {
@@ -4572,7 +4572,7 @@
     "name": "DR. TILKI ATTILA",
     "name2": "Dr. Tilki Attila",
     "county": "16",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "DR. TIMÁR TAMÁS|06|01": {
@@ -4580,7 +4580,7 @@
     "name": "DR. TIMÁR TAMÁS",
     "name2": "Dr. Timár Tamás",
     "county": "06",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "TOMHAUSER FERENC|07|01": {
@@ -4588,7 +4588,7 @@
     "name": "TOMHAUSER FERENC",
     "name2": "Tomhauser Ferenc",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "TOMHAUSER-CZEGLÉDI ESZTER|07|03": {
@@ -4596,7 +4596,7 @@
     "name": "TOMHAUSER-CZEGLÉDI ESZTER",
     "name2": "Tomhauser-Czeglédi Eszter",
     "county": "07",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "TOMPA ENIKŐ|09|02": {
@@ -4604,7 +4604,7 @@
     "name": "TOMPA ENIKŐ",
     "name2": "Tompa Enikő",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "TONZOR PÉTER|09|04": {
@@ -4612,7 +4612,7 @@
     "name": "TONZOR PÉTER",
     "name2": "Tonzor Péter",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "TOROCZKAI LÁSZLÓ|06|02": {
@@ -4620,7 +4620,7 @@
     "name": "TOROCZKAI LÁSZLÓ",
     "name2": "Toroczkai László",
     "county": "06",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "TÓTH KÁLMÁN|01|11": {
@@ -4628,7 +4628,7 @@
     "name": "TÓTH KÁLMÁN",
     "name2": "Tóth Kálmán",
     "county": "01",
-    "oevk": "11",
+    "constituency": "11",
     "party": "MKKP"
   },
   "TÓTH PÉTER PÁL|16|03": {
@@ -4636,7 +4636,7 @@
     "name": "TÓTH PÉTER PÁL",
     "name2": "Tóth Péter Pál",
     "county": "16",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "TÓTH TAMARA|16|06": {
@@ -4644,7 +4644,7 @@
     "name": "TÓTH TAMARA",
     "name2": "Tóth Tamara",
     "county": "16",
-    "oevk": "06",
+    "constituency": "06",
     "party": "MKKP"
   },
   "TÓTH-BEERI SZILVIA|09|02": {
@@ -4652,7 +4652,7 @@
     "name": "TÓTH-BEERI SZILVIA",
     "name2": "Tóth-Beeri Szilvia",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Jobbik"
   },
   "TÓTHMAJOR BALÁZS|14|04": {
@@ -4660,7 +4660,7 @@
     "name": "TÓTHMAJOR BALÁZS",
     "name2": "Tóthmajor Balázs",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "TÖRŐ GÁBOR|07|02": {
@@ -4668,7 +4668,7 @@
     "name": "TÖRŐ GÁBOR",
     "name2": "Törő Gábor",
     "county": "07",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "TRENTIN BALÁZS|01|07": {
@@ -4676,7 +4676,7 @@
     "name": "TRENTIN BALÁZS",
     "name2": "Trentin Balázs",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": "TISZA"
   },
   "TROMPLER ILDIKÓ|14|07": {
@@ -4684,7 +4684,7 @@
     "name": "TROMPLER ILDIKÓ",
     "name2": "Trompler Ildikó",
     "county": "14",
-    "oevk": "07",
+    "constituency": "07",
     "party": "TISZA"
   },
   "TURÓ JENŐ|11|03": {
@@ -4692,7 +4692,7 @@
     "name": "TURÓ JENŐ",
     "name2": "Turó Jenő",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "TÚRÓ RICHÁRD|11|03": {
@@ -4700,7 +4700,7 @@
     "name": "TÚRÓ RICHÁRD",
     "name2": "Túró Richárd",
     "county": "11",
-    "oevk": "03",
+    "constituency": "03",
     "party": null
   },
   "TUZSON BENCE|14|05": {
@@ -4708,7 +4708,7 @@
     "name": "TUZSON BENCE",
     "name2": "Tuzson Bence",
     "county": "14",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "TÜRK ATTILA|16|01": {
@@ -4716,7 +4716,7 @@
     "name": "TÜRK ATTILA",
     "name2": "Türk Attila",
     "county": "16",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "UJVÁRI SZILVIA|19|04": {
@@ -4724,7 +4724,7 @@
     "name": "UJVÁRI SZILVIA",
     "name2": "Ujvári Szilvia",
     "county": "19",
-    "oevk": "04",
+    "constituency": "04",
     "party": "TISZA"
   },
   "URBÁN DÁVID KILIÁN|14|11": {
@@ -4732,7 +4732,7 @@
     "name": "URBÁN DÁVID KILIÁN",
     "name2": "Urbán Dávid Kilián",
     "county": "14",
-    "oevk": "11",
+    "constituency": "11",
     "party": "MKKP"
   },
   "URBÁN IMRE|11|02": {
@@ -4740,7 +4740,7 @@
     "name": "URBÁN IMRE",
     "name2": "Urbán Imre",
     "county": "11",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "URBIN GYÖRGY|14|13": {
@@ -4748,7 +4748,7 @@
     "name": "URBIN GYÖRGY",
     "name2": "Urbin György",
     "county": "14",
-    "oevk": "13",
+    "constituency": "13",
     "party": "Munkáspárt"
   },
   "DR. URSZÁN TAMÁS|14|12": {
@@ -4756,7 +4756,7 @@
     "name": "DR. URSZÁN TAMÁS",
     "name2": "Dr. Urszán Tamás",
     "county": "14",
-    "oevk": "12",
+    "constituency": "12",
     "party": "MKKP"
   },
   "V.NÉMETH ZSOLT|18|03": {
@@ -4764,7 +4764,7 @@
     "name": "V.NÉMETH ZSOLT",
     "name2": "V.Németh Zsolt",
     "county": "18",
-    "oevk": "03",
+    "constituency": "03",
     "party": "FIDESZ-KDNP"
   },
   "DR. VADAI ÁGNES|12|01": {
@@ -4772,7 +4772,7 @@
     "name": "DR. VADAI ÁGNES",
     "name2": "Dr. Vadai Ágnes",
     "county": "12",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "VADAI ATTILA|01|09": {
@@ -4780,7 +4780,7 @@
     "name": "VADAI ATTILA",
     "name2": "Vadai Attila",
     "county": "01",
-    "oevk": "09",
+    "constituency": "09",
     "party": "DK"
   },
   "VALENTIN ANDRÁS|01|16": {
@@ -4788,7 +4788,7 @@
     "name": "VALENTIN ANDRÁS",
     "name2": "Valentin András",
     "county": "01",
-    "oevk": "16",
+    "constituency": "16",
     "party": "MKKP"
   },
   "VÁMOS ZOLTÁN|18|01": {
@@ -4796,7 +4796,7 @@
     "name": "VÁMOS ZOLTÁN",
     "name2": "Vámos Zoltán",
     "county": "18",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "DR. VÁNTSA BOTOND|14|10": {
@@ -4804,7 +4804,7 @@
     "name": "DR. VÁNTSA BOTOND",
     "name2": "Dr. Vántsa Botond",
     "county": "14",
-    "oevk": "10",
+    "constituency": "10",
     "party": "FIDESZ-KDNP"
   },
   "VÁRADI BARNA|09|03": {
@@ -4812,7 +4812,7 @@
     "name": "VÁRADI BARNA",
     "name2": "Váradi Barna",
     "county": "09",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "VARGA BALÁZS|05|03": {
@@ -4820,7 +4820,7 @@
     "name": "VARGA BALÁZS",
     "name2": "Varga Balázs",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "VARGA BALÁZS|20|02": {
@@ -4828,7 +4828,7 @@
     "name": "VARGA BALÁZS",
     "name2": "Varga Balázs",
     "county": "20",
-    "oevk": "02",
+    "constituency": "02",
     "party": "TISZA"
   },
   "VARGA FERENC|06|03": {
@@ -4836,7 +4836,7 @@
     "name": "VARGA FERENC",
     "name2": "Varga Ferenc",
     "county": "06",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "VARGA GÁBOR|07|05": {
@@ -4844,7 +4844,7 @@
     "name": "VARGA GÁBOR",
     "name2": "Varga Gábor",
     "county": "07",
-    "oevk": "05",
+    "constituency": "05",
     "party": "FIDESZ-KDNP"
   },
   "VARGA GERGŐ|05|04": {
@@ -4852,7 +4852,7 @@
     "name": "VARGA GERGŐ",
     "name2": "Varga Gergő",
     "county": "05",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "VARGA JÁNOS|10|02": {
@@ -4860,7 +4860,7 @@
     "name": "VARGA JÁNOS",
     "name2": "Varga János",
     "county": "10",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "VARGA TAMÁS|02|01": {
@@ -4868,7 +4868,7 @@
     "name": "VARGA TAMÁS",
     "name2": "Varga Tamás",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "VARGA ZOLTÁN|09|01": {
@@ -4876,7 +4876,7 @@
     "name": "VARGA ZOLTÁN",
     "name2": "Varga Zoltán",
     "county": "09",
-    "oevk": "01",
+    "constituency": "01",
     "party": "DK"
   },
   "VARGHA TAMÁS|07|01": {
@@ -4884,7 +4884,7 @@
     "name": "VARGHA TAMÁS",
     "name2": "Vargha Tamás",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "FIDESZ-KDNP"
   },
   "VARJU LÁSZLÓ|01|12": {
@@ -4892,7 +4892,7 @@
     "name": "VARJU LÁSZLÓ",
     "name2": "Varju László",
     "county": "01",
-    "oevk": "12",
+    "constituency": "12",
     "party": "DK"
   },
   "VÁRKONYI ZOLTÁN|01|01": {
@@ -4900,7 +4900,7 @@
     "name": "VÁRKONYI ZOLTÁN",
     "name2": "Várkonyi Zoltán",
     "county": "01",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Munkáspárt"
   },
   "VASVÁRI PÉTER LAJOS|14|03": {
@@ -4908,7 +4908,7 @@
     "name": "VASVÁRI PÉTER LAJOS",
     "name2": "Vasvári Péter Lajos",
     "county": "14",
-    "oevk": "03",
+    "constituency": "03",
     "party": "DK"
   },
   "VASZKÓ IMRE|09|02": {
@@ -4916,7 +4916,7 @@
     "name": "VASZKÓ IMRE",
     "name2": "Vaszkó Imre",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "DK"
   },
   "VÉGH ANNAMÁRIA|07|01": {
@@ -4924,7 +4924,7 @@
     "name": "VÉGH ANNAMÁRIA",
     "name2": "Végh Annamária",
     "county": "07",
-    "oevk": "01",
+    "constituency": "01",
     "party": "Mi Hazánk"
   },
   "VÉKONY CSONGOR|01|07": {
@@ -4932,7 +4932,7 @@
     "name": "VÉKONY CSONGOR",
     "name2": "Vékony Csongor",
     "county": "01",
-    "oevk": "07",
+    "constituency": "07",
     "party": null
   },
   "VELKEY GYÖRGY LÁSZLÓ|01|06": {
@@ -4940,7 +4940,7 @@
     "name": "VELKEY GYÖRGY LÁSZLÓ",
     "name2": "Velkey György László",
     "county": "01",
-    "oevk": "06",
+    "constituency": "06",
     "party": "TISZA"
   },
   "VERES CSABA|06|04": {
@@ -4948,7 +4948,7 @@
     "name": "VERES CSABA",
     "name2": "Veres Csaba",
     "county": "06",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Mi Hazánk"
   },
   "VESELICZ TIBORNÉ|04|04": {
@@ -4956,7 +4956,7 @@
     "name": "VESELICZ TIBORNÉ",
     "name2": "Veselicz Tiborné",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "DK"
   },
   "VICZÁN PÉTER|11|01": {
@@ -4964,7 +4964,7 @@
     "name": "VICZÁN PÉTER",
     "name2": "Viczán Péter",
     "county": "11",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "VIDÓ ATTILA|04|03": {
@@ -4972,7 +4972,7 @@
     "name": "VIDÓ ATTILA",
     "name2": "Vidó Attila",
     "county": "04",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Mi Hazánk"
   },
   "VIDÓ EDIT MÁRTA|04|04": {
@@ -4980,7 +4980,7 @@
     "name": "VIDÓ EDIT MÁRTA",
     "name2": "Vidó Edit Márta",
     "county": "04",
-    "oevk": "04",
+    "constituency": "04",
     "party": "Jobbik"
   },
   "VILCSEK ERNŐ|05|03": {
@@ -4988,7 +4988,7 @@
     "name": "VILCSEK ERNŐ",
     "name2": "Vilcsek Ernő",
     "county": "05",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Jobbik"
   },
   "VINCZE OLGA|19|03": {
@@ -4996,7 +4996,7 @@
     "name": "VINCZE OLGA",
     "name2": "Vincze Olga",
     "county": "19",
-    "oevk": "03",
+    "constituency": "03",
     "party": "Munkáspárt"
   },
   "VINKLÁR LÁSZLÓ|07|05": {
@@ -5004,7 +5004,7 @@
     "name": "VINKLÁR LÁSZLÓ",
     "name2": "Vinklár László",
     "county": "07",
-    "oevk": "05",
+    "constituency": "05",
     "party": "MKKP"
   },
   "DR. VINNAI GYŐZŐ|16|02": {
@@ -5012,7 +5012,7 @@
     "name": "DR. VINNAI GYŐZŐ",
     "name2": "Dr. Vinnai Győző",
     "county": "16",
-    "oevk": "02",
+    "constituency": "02",
     "party": "FIDESZ-KDNP"
   },
   "DR. VIRÁGH GABRIELLA|01|08": {
@@ -5020,7 +5020,7 @@
     "name": "DR. VIRÁGH GABRIELLA",
     "name2": "Dr. Virágh Gabriella",
     "county": "01",
-    "oevk": "08",
+    "constituency": "08",
     "party": "TISZA"
   },
   "DR. VITÁLYOS ESZTER|14|04": {
@@ -5028,7 +5028,7 @@
     "name": "DR. VITÁLYOS ESZTER",
     "name2": "Dr. Vitályos Eszter",
     "county": "14",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "DR. VITÁNYI ISTVÁN|09|04": {
@@ -5036,7 +5036,7 @@
     "name": "DR. VITÁNYI ISTVÁN",
     "name2": "Dr. Vitányi István",
     "county": "09",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "VÖRÖS JÁNOS|09|02": {
@@ -5044,7 +5044,7 @@
     "name": "VÖRÖS JÁNOS",
     "name2": "Vörös János",
     "county": "09",
-    "oevk": "02",
+    "constituency": "02",
     "party": "Mi Hazánk"
   },
   "WEIGAND ISTVÁN|01|05": {
@@ -5052,7 +5052,7 @@
     "name": "WEIGAND ISTVÁN",
     "name2": "Weigand István",
     "county": "01",
-    "oevk": "05",
+    "constituency": "05",
     "party": "TISZA"
   },
   "WIEDERMANN ATTILA|05|06": {
@@ -5060,7 +5060,7 @@
     "name": "WIEDERMANN ATTILA",
     "name2": "Wiedermann Attila",
     "county": "05",
-    "oevk": "06",
+    "constituency": "06",
     "party": "DK"
   },
   "WITZMANN MIHÁLY|15|04": {
@@ -5068,7 +5068,7 @@
     "name": "WITZMANN MIHÁLY",
     "name2": "Witzmann Mihály",
     "county": "15",
-    "oevk": "04",
+    "constituency": "04",
     "party": "FIDESZ-KDNP"
   },
   "ZAKUPSZKI TAMÁS|02|01": {
@@ -5076,7 +5076,7 @@
     "name": "ZAKUPSZKI TAMÁS",
     "name2": "Zakupszki Tamás",
     "county": "02",
-    "oevk": "01",
+    "constituency": "01",
     "party": "MKKP"
   },
   "ZELENKA JÁNOS|08|05": {
@@ -5084,7 +5084,7 @@
     "name": "ZELENKA JÁNOS",
     "name2": "Zelenka János",
     "county": "08",
-    "oevk": "05",
+    "constituency": "05",
     "party": "MKKP"
   },
   "DR. ZSIDRÓ LÁSZLÓ|01|14": {
@@ -5092,7 +5092,7 @@
     "name": "DR. ZSIDRÓ LÁSZLÓ",
     "name2": "Dr. Zsidró László",
     "county": "01",
-    "oevk": "14",
+    "constituency": "14",
     "party": "Mi Hazánk"
   },
   "ZSIGMOND BARNA PÁL|01|12": {
@@ -5100,7 +5100,7 @@
     "name": "ZSIGMOND BARNA PÁL",
     "name2": "Zsigmond Barna Pál",
     "county": "01",
-    "oevk": "12",
+    "constituency": "12",
     "party": "FIDESZ-KDNP"
   },
   "ZSIGÓ RÓBERT|03|06": {
@@ -5108,7 +5108,7 @@
     "name": "ZSIGÓ RÓBERT",
     "name2": "Zsigó Róbert",
     "county": "03",
-    "oevk": "06",
+    "constituency": "06",
     "party": "FIDESZ-KDNP"
   }
 }

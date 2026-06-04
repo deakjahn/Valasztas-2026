@@ -8,7 +8,13 @@ namespace Választás_2026 {
     [JsonPropertyName("name")]
     public string Name { get; set; } = name;
 
-    [JsonPropertyName("oevks")]
+    //[JsonPropertyName("center")]
+    //public string? Center { get; set; } = null;
+
+    //[JsonPropertyName("border")]
+    //public string? Border { get; set; } = null;
+
+    [JsonPropertyName("constituencies")]
     public Dictionary<string, OEVK> OEVKs { get; set; } = [];
   }
 }

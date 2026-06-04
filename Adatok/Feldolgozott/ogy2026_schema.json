@@ -55,12 +55,15 @@
       "properties": {
         "code": { "type": "integer" },
         "name": { "type": "string" },
-        "name2": { "type": "string" },
+        "name2": {
+          "type": "string",
+          "description": "nagy kezdőbetűk visszaállítva"
+        },
         "county": { "type": "string" },
-        "oevk": { "type": "string" },
+        "constituency": { "type": "string" },
         "party": { "type": "string" }
       },
-      "required": [ "code", "name", "name2", "county", "oevk", "party" ]
+      "required": [ "code", "name", "name2", "county", "constituency", "party" ]
     },
     "ballots": {
       "type": "object",
@@ -101,24 +104,24 @@
       "properties": {
         "code": { "type": "string" },
         "name": { "type": "string" },
-        "oevks": {
+        "constituencies": {
           "type": "object",
           "patternProperties": {
-            "^[0-9][0-9]$": { "$ref": "#/$defs/oevk" }
+            "^[0-9][0-9]$": { "$ref": "#/$defs/constituency" }
           },
           "additionalProperties": false
         }
       },
-      "required": [ "code", "name", "oevks" ]
+      "required": [ "code", "name", "constituencies" ]
     },
-    "oevk": {
+    "constituency": {
       "type": "object",
       "properties": {
         "code": { "type": "string" },
         "name": { "type": "string" },
         "center": { "type": "string" },
         "border": { "type": "string" },
-        "voted": {
+        "voters": {
           "type": "integer",
           "description": "Választókerület jelöltjeire szavazók aktuális száma"
         },
@@ -170,7 +173,16 @@
           "type": "object",
           "properties": {
             "code": { "type": "string" },
-            "oevk": { "type": "string" },
+            "county": {
+              "type": "string",
+              "description": "maz = megyeazonosító"
+            },
+            "settlementId": {
+              "type": "string",
+              "description": "taz = településazonosító"
+            },
+            "stationId": { "type": "string" },
+            "constituency": { "type": "string" },
             "settlement": { "type": "string" },
             "description": { "type": "string" },
             "name": { "type": "string" },
@@ -258,7 +270,7 @@
               ]
             }
           },
-          "required": [ "code", "oevk", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
+          "required": [ "code", "constituency", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
         }
       ]
     }

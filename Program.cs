@@ -214,7 +214,7 @@ namespace Választás_2026 {
         foreach (var row in table.Rows.Cast<DataRow>().Skip(2)) {
           var station = PollingStation.Create(row, OEVK.Code);
 
-          Key = $"{county.Code}|{ExtractSettlement(station.Settlement)}|{OEVK.Code}|{station.Id}";
+          Key = $"{county.Code}|{ExtractSettlement(station.Settlement)}|{OEVK.Code}|{station.StationId}";
           if (StationAddresses.TryGetValue(Key, out string? value))
             station.Description = value;
           else
@@ -233,7 +233,7 @@ namespace Választás_2026 {
         string CountyId = Candidate.ExtractCounty(Parts.First());
         string OEVKId = Candidate.ExtractOEVK(Parts.Last());
         var OEVK = election.Counties[CountyId].OEVKs[OEVKId];
-        OEVK.Voted = row.CellInt(2); // Választókerület jelöltjeire szavazók aktuális száma
+        OEVK.Voters = row.CellInt(2); // Választókerület jelöltjeire szavazók aktuális száma
         OEVK.Domicile = row.CellInt(3); // Hazai szavazókörben lakcím szerint szavazók száma
         OEVK.TransferOut = row.CellInt(4); // Belföldön más OEVK-ba átjelentkezettek száma
         OEVK.Absentee = row.CellInt(5); // Külképviseleten szavazók száma

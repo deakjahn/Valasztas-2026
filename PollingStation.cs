@@ -7,17 +7,16 @@ namespace Választás_2026 {
     [JsonPropertyName("code")]
     public string Code { get; set; } = code;
 
-    [JsonIgnore]
-    public string Id {
-      get {
-        string[] parts = Code.Split('-');
-        if (parts.Length < 3)
-          throw new DataException($"Érvénytelen szavazókörkód: {Code}");
-        return parts[2];
-      }
-    }
+    [JsonPropertyName("county")]
+    public string County => Code.Split('-')[0];
 
-    [JsonPropertyName("oevk")]
+    [JsonPropertyName("settlementId")]
+    public string SettlementId => Code.Split('-')[1];
+
+    [JsonPropertyName("stationId")]
+    public string StationId => Code.Split('-')[2];
+
+    [JsonPropertyName("constituency")]
     public string OEVK { get; set; } = oevk;
 
     [JsonPropertyName("settlement")]
@@ -36,6 +35,12 @@ namespace Választás_2026 {
       AddressPartParens().Match(Description).Value,
       AddressPartSlash().Match(Description).Value,
       Description));
+
+    //[JsonPropertyName("location")]
+    //public string? Location { get; set; } = null;
+
+    //[JsonPropertyName("border")]
+    //public string? Border { get; set; } = null;
 
     [JsonPropertyName("absentee")]
     public int Absentee { get; set; } = 0;

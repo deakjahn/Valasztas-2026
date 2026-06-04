@@ -1,5 +1,4 @@
-﻿using System.Data;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
 namespace Választás_2026 {
   internal class OEVK(string code, string name) {
@@ -15,8 +14,8 @@ namespace Választás_2026 {
     [JsonPropertyName("border")]
     public string? Border { get; set; } = null;
 
-    [JsonPropertyName("voted")]
-    public int Voted { get; set; } = 0;
+    [JsonPropertyName("voters")]
+    public int Voters { get; set; } = 0;
 
     [JsonPropertyName("domicile")]
     public int Domicile { get; set; } = 0;

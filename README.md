@@ -84,13 +84,13 @@ koordinátáit és a választókerület határát leíró poligon koordináta-so
     "01": {
       "code": "01",
       "name": "Budapest",
-      "oevks": {
+      "constituencies": {
         "01": {
           "code": "01",
           "name": "01. evk",
           "center": "47.490980 19.045150",
           "border": "47.5146939015652 19.0436777064605,47.5147366015652 19.0434745064606,...,47.514130201565 19.0452562064603",
-          "voted": 73914, // Választókerület jelöltjeire szavazók aktuális száma
+          "voters": 73914, // Választókerület jelöltjeire szavazók aktuális száma
           "domicile": 68236, // Hazai szavazókörben lakcím szerint szavazók száma
           "transferOut": 2851, // Belföldön más OEVK-ba átjelentkezettek száma
           "transferIn": 7451, // OEVK-ba átjelentkezett szavazók száma
@@ -109,7 +109,7 @@ hivatkoznak vissza a jelöltekre):
               "name": "HERFORT MARIETTA",
               "name2": "Herfort Marietta",
               "county": "01",
-              "oevk": "01",
+              "constituency": "01",
               "party": "DK"
             },
             ...
@@ -118,7 +118,7 @@ hivatkoznak vissza a jelöltekre):
               "name": "TANÁCS ZOLTÁN",
               "name2": "Tanács Zoltán",
               "county": "01",
-              "oevk": "01",
+              "constituency": "01",
               "party": "TISZA"
             }
           },
@@ -136,7 +136,10 @@ rubrikáira és jelmagyarázatára utalnak:
           "stations": {
             "01-001-001-5": {
               "code": "01-001-001-5",
-              "oevk": "01",
+              "county": "01", // maz = megyeazonosító
+              "settlementId": "001", // taz = településazonosító
+              "stationId": "001",
+              "constituency": "01",
               "settlement": "Budapest I. kerület",
               "description": "Bartók Béla út 27. (Gárdonyi Géza Ált. Isk.)",
               "name": "Gárdonyi Géza Ált. Isk.",
@@ -243,7 +246,10 @@ A szavazókör adatainak végeztével jön a következő:
 ```json
             "01-001-002-1": {
               "code": "01-001-002-1",
-              "oevk": "01",
+              "county": "01", // maz = megyeazonosító
+              "settlementId": "001", // taz = településazonosító
+              "stationId": "002",
+              "constituency": "01",
               "settlement": "Budapest I. kerület",
               "description": "Bocskai út 47-49. (Bocskai István Ált. Isk.)",
               "name": "Bocskai István Ált. Isk.",
