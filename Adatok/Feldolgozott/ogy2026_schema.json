@@ -164,7 +164,7 @@
           "additionalProperties": false
         }
       },
-      "required": [ "code", "name", "center", "border", "voted", "domicile", "transferOut", "transferIn", "absentee", "register", "inland", "candidates", "stations" ]
+      "required": [ "code", "name", "center", "border", "voters", "domicile", "transferOut", "transferIn", "absentee", "register", "inland", "candidates", "stations" ]
     },
     "station": {
       "allOf": [
@@ -270,7 +270,7 @@
               ]
             }
           },
-          "required": [ "code", "constituency", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
+          "required": [ "code", "county", "settlementId", "stationId", "constituency", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
         }
       ]
     }
