@@ -3,276 +3,465 @@
   "$id": "https://github.com/deakjahn/Valasztas-2026/ogy2026_schema.json",
   "type": "object",
   "properties": {
-    "year": { "const": 2026 },
-    "generated": {
+    "ev": { "const": 2026 },
+    "idopont": {
       "type": "string",
-      "format": "date-time"
+      "format": "date-time",
+      "description": "fájl létrehozásának időpontja"
     },
-    "parties": {
+    "nevjegyzek": {
+      "type": "integer",
+      "description": "A lakcímük szerinti szavazóköri névjegyzékben lévő választópolgárok"
+    },
+    "atjelent": {
+      "type": "integer",
+      "description": "Belföldi szavazókörökbe átjelentkezett választópolgárok"
+    },
+    "kulkepv": {
+      "type": "integer",
+      "description": "A külképviseleti névjegyzékben szereplő választópolgárok"
+    },
+    "level": {
+      "type": "integer",
+      "description": "A levélben szavazók névjegyzékében szereplő választópolgárok"
+    },
+    "valaszto": {
+      "type": "integer",
+      "description": "Választópolgárok száma = nevjegyzek + atjelent + kulkepv + level"
+    },
+    "szavazo": { "type": "array" },
+    "nemszavazo": { "type": "array" },
+    "boritek": {
+      "type": "integer",
+      "description": "Urnában és beérkezett borítékokban lévő szavazólapok = ervenyes + ervenytelen"
+    },
+    "ervenyes": {
+      "type": "array",
+      "description": "Érvényes szavazólapok"
+    },
+    "ervenytelen": {
+      "type": "array",
+      "description": "Érvénytelen szavazólapok"
+    },
+    "part_ervenyes": {
+      "type": "array",
+      "description": "Pártlistákra leadott érvényes szavazatok száma összesen"
+    },
+    "partok": {
       "type": "object",
       "patternProperties": {
-        "^[0-9]+$": { "$ref": "#/$defs/party" }
+        "^[0-9]+$": { "$ref": "#/$defs/part" }
       },
       "additionalProperties": false
     },
-    "nationalities": {
+    "nemz_ervenyes": {
+      "type": "array",
+      "description": "Nemzetiségi listákra leadott érvényes szavazatok száma összesen"
+    },
+    "nemzetisegek": {
       "type": "object",
       "patternProperties": {
-        "^[0-9]+$": { "$ref": "#/$defs/nationality" }
+        "^[0-9]+$": { "$ref": "#/$defs/nemzetiseg" }
       },
       "additionalProperties": false
     },
-    "counties": {
+    "megyek": {
       "type": "object",
       "patternProperties": {
-        "^[0-2][0-9]$": { "$ref": "#/$defs/county" }
+        "^[0-2][0-9]$": { "$ref": "#/$defs/megye" }
       },
       "additionalProperties": false
-    }
+    },
+    "levelszav": { "$ref": "#/$defs/level" }
   },
-  "required": [ "year", "generated", "parties", "nationalities", "counties" ],
   "$defs": {
-    "party": {
+    "part": {
       "type": "object",
       "properties": {
-        "code": { "type": "integer" },
-        "abbreviation": { "type": "string" },
-        "name": { "type": "string" }
-      },
-      "required": [ "code", "abbreviation", "name" ]
+        "azon": { "type": "integer" },
+        "rovid": { "type": "string" },
+        "nev": { "type": "string" },
+        "jelolt": {
+          "type": "integer",
+          "description": "Jelöltek száma"
+        },
+        "mandatum": {
+          "type": "integer",
+          "description": "Elnyert mandátumok száma"
+        },
+        "szavazat": { "type": "array" },
+        "hazai": { "type": "array" },
+        "level": { "type": "array" }
+      }
     },
-    "nationality": {
+    "nemzetiseg": {
       "type": "object",
       "properties": {
-        "code": { "type": "integer" },
-        "abbreviation": { "type": "string" },
-        "name": { "type": "string" }
-      },
-      "required": [ "code", "abbreviation", "name" ]
+        "azon": { "type": "integer" },
+        "rovid": { "type": "string" },
+        "nev": { "type": "string" },
+        "jelolt": {
+          "type": "integer",
+          "description": "Jelöltek száma"
+        },
+        "mandatum": {
+          "type": "integer",
+          "description": "Elnyert mandátumok száma"
+        },
+        "ervenyes": { "type": "integer" },
+        "szavazo": { "type": "integer" }
+      }
     },
-    "candidate": {
+    "jelolt": {
       "type": "object",
       "properties": {
-        "code": { "type": "integer" },
-        "name": { "type": "string" },
-        "name2": {
+        "azon": { "type": "integer" },
+        "nev": { "type": "string" },
+        "nev2": {
           "type": "string",
           "description": "nagy kezdőbetűk visszaállítva"
         },
-        "county": { "type": "string" },
-        "constituency": { "type": "string" },
-        "party": { "type": "string" }
-      },
-      "required": [ "code", "name", "name2", "county", "constituency", "party" ]
+        "maz": {
+          "type": "string",
+          "description": "megyeazonosító"
+        },
+        "oevk": {
+          "type": "string",
+          "description": "OEVK-azonosító"
+        },
+        "part": { "type": "string" },
+        "szavazat": { "type": "array" },
+        "mandatum": { "type": "boolean" }
+      }
     },
-    "ballots": {
+    "megye": {
       "type": "object",
       "properties": {
-        "register": {
-          "type": "integer",
-          "description": "A = Szavazóköri névjegyzékben lévő választópolgárok száma"
+        "maz": {
+          "type": "string",
+          "description": "megyeazonosító"
         },
-        "inperson": {
-          "type": "integer",
-          "description": "F = Szavazókörben szavazó választópolgárok száma"
+        "nev": { "type": "string" },
+        "kozeppont": {
+          "type": "string",
+          "description": "megye földrajzi középpontja"
         },
-        "notstamped": {
-          "type": "integer",
-          "description": "O = Urnában és a beérkezett lezárt borítékokban lévő, bélyegzőlenyomat nélküli szavazólapok száma"
+        "korvonal": {
+          "type": "string",
+          "description": "megye körvonalát leíró térképi poligon"
         },
-        "stamped": {
+        "nevjegyzek": {
           "type": "integer",
-          "description": "K = Urnában és a beérkezett lezárt borítékokban lévő, lebélyegzett szavazólapok száma"
+          "description": "A lakcímük szerinti szavazóköri névjegyzékben lévő választópolgárok"
         },
-        "difference": {
+        "atjelent": {
           "type": "integer",
-          "description": "L = Eltérés a szavazóként megjelentek számától (L=K-J; többlet:+/hiány:-)"
+          "description": "Belföldi szavazókörökbe átjelentkezett választópolgárok"
         },
-        "invalid": {
+        "atjelent_mashova": {
           "type": "integer",
-          "description": "M = Érvénytelen lebélyegzett szavazólapok száma"
+          "description": "Belföldön máshova átjelentkezettek száma"
         },
-        "valid": {
+        "kulkepv": {
           "type": "integer",
-          "description": "N = Érvényes szavazólapok száma"
-        }
-      },
-      "required": [ "register", "inperson", "notstamped", "stamped", "difference", "invalid", "valid" ]
-    },
-    "county": {
-      "type": "object",
-      "properties": {
-        "code": { "type": "string" },
-        "name": { "type": "string" },
-        "constituencies": {
+          "description": "A külképviseleti névjegyzékben szereplő választópolgárok"
+        },
+        "valaszto": {
+          "type": "integer",
+          "description": "Választópolgárok száma = nevjegyzek + atjelent + kulkepv"
+        },
+        "szavazo": { "type": "array" },
+        "nemszavazo": { "type": "array" },
+        "boritek": {
+          "type": "integer",
+          "description": "Urnában és beérkezett borítékokban lévő szavazólapok = ervenyes + ervenytelen"
+        },
+        "ervenyes": {
+          "type": "array",
+          "description": "Érvényes szavazólapok"
+        },
+        "ervenytelen": {
+          "type": "array",
+          "description": "Érvénytelen szavazólapok"
+        },
+        "part_ervenyes": {
+          "type": "array",
+          "description": "Pártlistákra leadott érvényes szavazatok száma összesen"
+        },
+        "partok": { "$ref": "#/$defs/szamok" },
+        "nemz_ervenyes": {
+          "type": "array",
+          "description": "Nemzetiségi listákra leadott érvényes szavazatok száma összesen"
+        },
+        "nemzetisegek": { "$ref": "#/$defs/szamok" },
+        "oevkk": {
           "type": "object",
           "patternProperties": {
-            "^[0-9][0-9]$": { "$ref": "#/$defs/constituency" }
+            "^[0-9][0-9]$": { "$ref": "#/$defs/oevk" }
           },
           "additionalProperties": false
         }
-      },
-      "required": [ "code", "name", "constituencies" ]
+      }
     },
-    "constituency": {
+    "level": {
       "type": "object",
       "properties": {
-        "code": { "type": "string" },
-        "name": { "type": "string" },
-        "center": { "type": "string" },
-        "border": { "type": "string" },
-        "voters": {
-          "type": "integer",
-          "description": "Választókerület jelöltjeire szavazók aktuális száma"
+        "beerkezett": {
+          "type": "array",
+          "description": "Beérkezett levélszavazási iratok"
         },
-        "domicile": {
-          "type": "integer",
-          "description": "Hazai szavazókörben lakcím szerint szavazók száma"
+        "beerkezett_ervenyes": {
+          "type": "array",
+          "description": "Feldolgozott, érvényes"
         },
-        "transferOut": {
-          "type": "integer",
-          "description": "Belföldön más OEVK-ba átjelentkezettek száma"
+        "beerkezett_ervenytelen": {
+          "type": "array",
+          "description": "Feldolgozott, érvénytelen"
         },
-        "transferIn": {
+        "boritek": {
           "type": "integer",
-          "description": "OEVK-ba átjelentkezett szavazók száma"
+          "description": "Az érvényes szavazási iratokban lévő szavazólapok"
         },
-        "absentee": {
+        "elteres": {
           "type": "integer",
-          "description": "Külképviseleten szavazók száma"
+          "description": "többlet:+/hiány:-"
         },
-        "register": {
+        "ervenyes": {
+          "type": "array",
+          "description": "Érvényes szavazólapok"
+        },
+        "ervenytelen": {
+          "type": "array",
+          "description": "Érvénytelen szavazólapok"
+        },
+        "listas": { "$ref": "#/$defs/szamok" }
+      }
+    },
+    "oevk": {
+      "type": "object",
+      "properties": {
+        "oevk": {
+          "type": "string",
+          "description": "OEVK-azonosító"
+        },
+        "nev": { "type": "string" },
+        "kozeppont": {
+          "type": "string",
+          "description": "OEVK földrajzi középpontja"
+        },
+        "korvonal": {
+          "type": "string",
+          "description": "OEVK körvonalát leíró térképi poligon"
+        },
+        "nevjegyzek": {
           "type": "integer",
           "description": "Választókerületi névjegyzékben szereplő választópolgárok aktuális száma"
         },
-        "inland": {
+        "atjelent": {
           "type": "integer",
-          "description": "Hazai szavazókörben lakcím szerint szavazók száma"
+          "description": "OEVK-ba átjelentkezett szavazók száma"
         },
-        "candidates": {
+        "atjelent_mashova": {
+          "type": "integer",
+          "description": "Belföldön más OEVK-ba átjelentkezettek száma"
+        },
+        "kulkepv": {
+          "type": "integer",
+          "description": "A külképviseleti névjegyzékben szereplő választópolgárok"
+        },
+        "valaszto": {
+          "type": "integer",
+          "description": "Választópolgárok száma = nevjegyzek + atjelent + kulkepv"
+        },
+        "szavazo": { "type": "array" },
+        "nemszavazo": { "type": "array" },
+        "boritek": {
+          "type": "integer",
+          "description": "Urnában és beérkezett borítékokban lévő szavazólapok = ervenyes + ervenytelen"
+        },
+        "ervenyes": {
+          "type": "array",
+          "description": "Érvényes szavazólapok"
+        },
+        "ervenytelen": {
+          "type": "array",
+          "description": "Érvénytelen szavazólapok"
+        },
+        "jeloltek": {
           "type": "object",
           "patternProperties": {
-            "^[0-9]+$": { "$ref": "#/$defs/candidate" }
+            "^[0-9]+$": { "$ref": "#/$defs/jelolt" }
           },
           "additionalProperties": false
         },
-        "stations": {
+        "szavazokorok": {
           "type": "object",
           "patternProperties": {
-            "^[0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9]$": { "$ref": "#/$defs/station" }
+            "^[0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9]$": { "$ref": "#/$defs/szavazokor" }
           },
           "additionalProperties": false
         }
-      },
-      "required": [ "code", "name", "center", "border", "voters", "domicile", "transferOut", "transferIn", "absentee", "register", "inland", "candidates", "stations" ]
+      }
     },
-    "station": {
+    "szavazokor": {
+      "type": "object",
+      "properties": {
+        "azon": { "type": "string" },
+        "maz": {
+          "type": "string",
+          "description": "megyeazonosító"
+        },
+        "taz": {
+          "type": "string",
+          "description": "településazonosító"
+        },
+        "szk": {
+          "type": "string",
+          "description": "szavazókör-azonosító"
+        },
+        "oevk": {
+          "type": "string",
+          "description": "OEVK-azonosító"
+        },
+        "irsz": { "type": ["string", "null"] },
+        "telepules": { "type": "string" },
+        "cim": { "type": "string" },
+        "intezmeny": { "type": "string" },
+        "leiras": { "type": "string" },
+        "szamlalo_szk": {
+          "type": "boolean",
+          "description": "Számlálásra kijelölt szavazókör"
+        },
+        "pozicio": {
+          "type": "string",
+          "description": "szavazókör térképi pozíciója"
+        },
+        "korvonal": {
+          "type": "string",
+          "description": "szavazókörhöz tartozó utcák körvonalát leíró térképi poligon"
+        },
+        "atjelent": {
+          "type": "integer",
+          "description": "B = Belföldi szavazókörökbe átjelentkezett választópolgárok"
+        },
+        "kulkepv": {
+          "type": "integer",
+          "description": "C = A külképviseleti névjegyzékben szereplő választópolgárok"
+        },
+        "boritek": {
+          "type": "integer",
+          "description": "Urnában és beérkezett borítékokban lévő szavazólapok = ervenyes + ervenytelen"
+        },
+        "egyeni": { "$ref": "#/$defs/egyeni" },
+        "listas": {
+          "allOf": [
+            { "$ref": "#/$defs/statisztika" },
+            { "$ref": "#/$defs/statisztika_plusz" },
+            {
+              "type": "object",
+              "properties": {
+                "boritek": {
+                  "type": "integer",
+                  "description": "K = Urnában és beérkezett borítékokban lévő szavazólapok = ervenyes + ervenytelen"
+                },
+                "partok": { "$ref": "#/$defs/partlista" },
+                "nemzetisegi": { "$ref": "#/$defs/nemzetisegi_lista" }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "egyeni": {
       "allOf": [
-        { "$ref": "#/$defs/ballots" },
+        { "$ref": "#/$defs/statisztika" },
+        { "$ref": "#/$defs/statisztika_plusz" },
         {
           "type": "object",
           "properties": {
-            "code": { "type": "string" },
-            "county": {
-              "type": "string",
-              "description": "maz = megyeazonosító"
-            },
-            "settlementId": {
-              "type": "string",
-              "description": "taz = településazonosító"
-            },
-            "stationId": { "type": "string" },
-            "constituency": { "type": "string" },
-            "settlement": { "type": "string" },
-            "description": { "type": "string" },
-            "name": { "type": "string" },
-            "address": { "type": "string" },
-            "absentee": {
-              "type": "integer",
-              "description": "C = Külképviseleti névjegyzékben lévő választópolgárok száma"
-            },
-            "transfer": {
-              "type": "integer",
-              "description": "B = Az átjelentkezett választópolgárok száma"
-            },
-            "voters": {
-              "type": "integer",
-              "description": "E = Választópolgárok száma összesen"
-            },
-            "voted": {
-              "type": "integer",
-              "description": "J = Szavazó választópolgárok száma összesen"
-            },
-            "envelope": {
-              "type": "integer",
-              "description": "I = Átjelentkezéssel és külképviseleten szavazó választópolgárok beérkezett lezárt borítékjainak száma"
-            },
-            "list": {
-              "allOf": [
-                { "$ref": "#/$defs/ballots" },
-                {
-                  "type": "object",
-                  "properties": {
-                    "votes": {
-                      "type": "object",
-                      "patternProperties": {
-                        "^[0-9]+$": { "type": "integer" }
-                      },
-                      "additionalProperties": false
-                    }
-                  },
-                  "required": [ "votes" ]
-                }
-              ]
-            },
-            "individual": {
-              "allOf": [
-                { "$ref": "#/$defs/ballots" },
-                {
-                  "type": "object",
-                  "properties": {
-                    "voters": {
-                      "type": "integer",
-                      "description": "E = Választópolgárok száma összesen"
-                    },
-                    "voted": {
-                      "type": "integer",
-                      "description": "J = Szavazó választópolgárok száma összesen"
-                    },
-                    "votes": {
-                      "type": "object",
-                      "patternProperties": {
-                        "^[0-9]+$": { "type": "integer" }
-                      },
-                      "additionalProperties": false
-                    }
-                  },
-                  "required": [ "voters", "voted", "votes" ]
-                }
-              ]
-            },
-            "nationalities": {
-              "allOf": [
-                { "$ref": "#/$defs/ballots" },
-                {
-                  "type": "object",
-                  "properties": {
-                    "byList": {
-                      "type": "object",
-                      "patternProperties": {
-                        "^[0-9]+$": { "$ref": "#/$defs/ballots" }
-                      },
-                      "additionalProperties": false
-                    }
-                  },
-                  "required": [ "byList" ]
-                }
-              ]
-            }
-          },
-          "required": [ "code", "county", "settlementId", "stationId", "constituency", "settlement", "description", "name", "address", "absentee", "transfer", "voters", "voted", "envelope", "list", "individual", "nationalities" ]
+            "szav": { "$ref": "#/$defs/szamok" }
+          }
         }
       ]
+    },
+    "partlista": {
+      "allOf": [
+        { "$ref": "#/$defs/statisztika" },
+        {
+          "type": "object",
+          "properties": {
+            "szav": { "$ref": "#/$defs/szamok" }
+          }
+        }
+      ]
+    },
+    "nemzetisegi_lista": {
+      "allOf": [
+        { "$ref": "#/$defs/statisztika" },
+        {
+          "type": "object",
+          "properties": {
+            "szav": {
+              "type": "object",
+              "patternProperties": {
+                "^[0-9]+$": { "$ref": "#/$defs/statisztika" }
+              },
+              "additionalProperties": false
+            }
+          }
+        }
+      ]
+    },
+    "szamok": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]+$": { "type": "array" }
+      },
+      "additionalProperties": false
+    },
+    "statisztika": {
+      "type": "object",
+      "properties": {
+        "nevjegyzek": {
+          "type": "integer",
+          "description": "A = Szavazóköri névjegyzékben lévő választópolgárok száma"
+        },
+        "megjelent": {
+          "type": "integer",
+          "description": "F = Szavazókörben szavazó választópolgárok száma"
+        },
+        "belyegzo": {
+          "type": "integer",
+          "description": "K = Urnában és a beérkezett lezárt borítékokban lévő, lebélyegzett szavazólapok száma"
+        },
+        "belyegzo_nelkul": {
+          "type": "integer",
+          "description": "O = Urnában és a beérkezett lezárt borítékokban lévő, bélyegzőlenyomat nélküli szavazólapok száma"
+        },
+        "elteres": {
+          "type": "integer",
+          "description": "L = Eltérés a szavazóként megjelentek számától (L=K-J; többlet:+/hiány:-)"
+        },
+        "ervenyes": {
+          "type": "array",
+          "description": "N = Érvényes szavazólapok száma"
+        },
+        "ervenytelen": {
+          "type": "array",
+          "description": "M = Érvénytelen lebélyegzett szavazólapok száma"
+        }
+      }
+    },
+    "statisztika_plusz": {
+      "type": "object",
+      "properties": {
+        "valaszto": {
+          "type": "integer",
+          "description": "E = Választópolgárok száma = nevjegyzek + atjelent + kulkepv"
+        },
+        "szavazo": { "type": "array" },
+        "nemszavazo": { "type": "array" }
+      }
     }
   }
 }

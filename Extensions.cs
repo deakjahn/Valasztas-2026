@@ -44,5 +44,21 @@ namespace Választás_2026 {
         _ => 0
       };
     }
+
+    public static decimal CellReal(this DataRow row, int index) {
+      object? value = row.Cell(index);
+      return value switch {
+        null => 0,
+        int i => i,
+        long l when l is >= int.MinValue and <= int.MaxValue => l,
+        double d => (decimal)d,
+        decimal d => d,
+        string s when decimal.TryParse(s.Trim().Replace(" ", ""), NumberStyles.Number, CultureInfo.InvariantCulture, out decimal i) => i,
+        _ => 0
+      };
+    }
+
+    public static decimal ToPercent(this int value, int total) => (total == 0) ? 0 : (decimal)Math.Round((double)value / total * 100, 2);
+    public static Vote ToVote(this int value, int total) => new(value, value.ToPercent(total));
   }
 }

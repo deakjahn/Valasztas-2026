@@ -6,23 +6,29 @@ namespace Választás_2026 {
   internal class Candidate(int code, string name) {
     static TextInfo Hungarian = new CultureInfo("hu-HU", false).TextInfo;
 
-    [JsonPropertyName("code")]
+    [JsonPropertyName("azon")]
     public int Code { get; set; } = code;
 
-    [JsonPropertyName("name")]
+    [JsonPropertyName("nev")]
     public string Name { get; set; } = name;
 
-    [JsonPropertyName("name2")]
+    [JsonPropertyName("nev2")]
     public string Name2 => Hungarian.ToTitleCase(Hungarian.ToLower(Name));
 
-    [JsonPropertyName("county")]
+    [JsonPropertyName("maz")]
     public string County { get; set; } = string.Empty;
 
-    [JsonPropertyName("constituency")]
+    [JsonPropertyName("oevk")]
     public string OEVK { get; set; } = string.Empty;
 
-    [JsonPropertyName("party")]
+    [JsonPropertyName("part")]
     public string? Party { get; set; } = null;
+
+    [JsonPropertyName("szavazat")]
+    public Vote Votes { get; set; } = new(0, 0);
+
+    [JsonPropertyName("mandatum")]
+    public bool Won { get; set; } = false;
 
     [JsonIgnore]
     public string Key => $"{Name}|{County}|{OEVK}";

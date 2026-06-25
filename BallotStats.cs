@@ -2,55 +2,56 @@
 
 namespace Választás_2026 {
   internal class BallotStats {
-    [JsonPropertyName("register")]
-    public int Register { get; set; } = 0;
+    [JsonPropertyName("nevjegyzek")]
+    public int Register { get; set; } = 0; // A
 
-    [JsonPropertyName("inperson")]
-    public int InPerson { get; set; } = 0;
+    [JsonPropertyName("megjelent")]
+    public int InPerson { get; set; } = 0; // F
 
-    [JsonPropertyName("notstamped")]
-    public int NotStamped { get; set; } = 0;
+    [JsonPropertyName("belyegzo")]
+    public int Stamped { get; set; } = 0; // K
 
-    [JsonPropertyName("stamped")]
-    public int Stamped { get; set; } = 0;
+    [JsonPropertyName("belyegzo_nelkul")]
+    public int NotStamped { get; set; } = 0; // O
 
-    [JsonPropertyName("difference")]
-    public int Difference { get; set; } = 0;
+    [JsonPropertyName("elteres")]
+    public int Difference { get; set; } = 0; // L
 
-    [JsonPropertyName("invalid")]
-    public int Invalid { get; set; } = 0;
+    [JsonPropertyName("ervenyes")]
+    public Vote Valid { get; set; } = new(0, 0); // N
 
-    [JsonPropertyName("valid")]
-    public int Valid { get; set; } = 0;
-  }
-
-  internal class ListBallots : BallotStats {
-    [JsonPropertyName("votes")]
-    [JsonPropertyOrder(1000)]
-    public Dictionary<int, int> Votes { get; set; } = [];
+    [JsonPropertyName("ervenytelen")]
+    public Vote Invalid { get; set; } = new(0, 0); // M
   }
 
   internal class IndividualBallots : BallotStats {
-    [JsonPropertyName("voters")]
-    [JsonPropertyOrder(999)]
-    public int Voters { get; set; } = 0;
+    [JsonPropertyName("valaszto")]
+    public int Total { get; set; } = 0;
 
-    [JsonPropertyName("voted")]
-    [JsonPropertyOrder(999)]
-    public int Voted { get; set; } = 0;
+    [JsonPropertyName("szavazo")]
+    public Vote Voters { get; set; } = new(0, 0);
 
-    [JsonPropertyName("votes")]
+    [JsonPropertyName("nemszavazo")]
+    public Vote Absent => new(Total - Voters.Value, 100 - Voters.Percentage);
+
+    [JsonPropertyName("szav")]
     [JsonPropertyOrder(1000)]
-    public Dictionary<int, int> Votes { get; set; } = [];
+    public Dictionary<int, Vote> Votes { get; set; } = [];
+  }
+
+  internal class ListBallots : BallotStats {
+    [JsonPropertyName("szav")]
+    [JsonPropertyOrder(1000)]
+    public Dictionary<int, Vote> Votes { get; set; } = [];
   }
 
   internal class NationalityBallots : BallotStats {
-    [JsonPropertyName("byList")]
+    [JsonPropertyName("szav")]
     [JsonPropertyOrder(1000)]
     public Dictionary<int, NationalityVotes> Votes { get; set; } = [];
   }
 
   internal class NationalityVotes : BallotStats {
-    public bool IsNonZero() => Register != 0 || InPerson != 0 || NotStamped != 0 || Stamped != 0 || Difference != 0 || Invalid != 0 || Valid != 0;
+    public bool IsNonZero() => Register != 0 || InPerson != 0 || NotStamped != 0 || Stamped != 0 || Difference != 0 || Invalid.Value != 0 || Valid.Value != 0;
   }
 }
