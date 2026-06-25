@@ -5,7 +5,6 @@ using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using ExcelDataReader;
-using static System.Collections.Specialized.BitVector32;
 
 namespace Választás_2026 {
   class Program {
