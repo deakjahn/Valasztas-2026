@@ -46,8 +46,8 @@ A végeredmény az [`Adatok/Feldolgozott/ogy2026.json`](Adatok/Feldolgozott/ogy2
 
 ## Státusz
 
-A jelenlegi állapotban az összes belső ellenőrzés (lásd `AssertError()` hívások) hibátlanul lefut, így aránylag valószínűnek
-tűnik, hogy az adathalmaz konzisztens és helyes. Ettől még bármiféle felhasználás előtt természetesen várnám a véleményeket,
+A jelenlegi állapotban az összes [belső ellenőrzés](VALIDATION.md) hibátlanul lefut, így aránylag valószínűnek tűnik,
+hogy az adathalmaz konzisztens és helyes. Ettől még bármiféle felhasználás előtt természetesen várnám a véleményeket,
 ellenőrzéseket, kiigazításokat.
 
 ## Formátum

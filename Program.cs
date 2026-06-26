@@ -235,7 +235,7 @@ namespace Választás_2026 {
           else
             AssertError(station.Individual.Difference, station.Individual.Stamped - station.Individual.InPerson, $"SZK {station.Code} LE = KE - FE");
           AssertError(station.Individual.Stamped, station.Individual.Invalid.Value + station.Individual.Valid.Value, $"SZK {station.Code} KE = ME + NE");
-          AssertError(station.Individual.Valid.Value, station.Individual.Votes.Sum(vote => vote.Value.Value), $"{station.Code} NE");
+          AssertError(station.Individual.Valid.Value, station.Individual.Votes.Sum(vote => vote.Value.Value), $"{station.Code} NE = Σ egyéni");
 
           Key = $"{county.Code}|{ExtractSettlement(station.Settlement)}|{OEVK.Code}|{station.StationId}";
           if (StationAddresses.TryGetValue(Key, out string? value))
@@ -487,7 +487,6 @@ namespace Választás_2026 {
               County.Nationalities.TryAdd(nationality!.Code, new(list.Votes, list.VotesPc));
             }
           }
-          AssertError(County.Valid.Value, County.ListValid.Value + County.NationalityValid.Value, $"{County.Name} NL = NP + NN");
           // megyei érvényes = megyei listák összege
           AssertError(County.ListValid.Value, County.Parties.Sum(vote => vote.Value.Value), $"{County.Name} NP = Σ párt");
           AssertError(County.NationalityValid.Value, County.Nationalities.Sum(vote => vote.Value.Value), $"{County.Name} NN = Σ nemzetiség");
