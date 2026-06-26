@@ -22,7 +22,7 @@ választók száma = névjegyzékben szereplők + átjelentkezettek + külképvi
   * **LE = KE – JE**  
   eltérés = lebélyegett – szavazók száma
    
-* számlálásra nem kijelölt szavazókörzetnél
+* számlálásra ki nem jelölt szavazókörzetnél
 
   * **LE = KE – FE**  
   eltérés = lebélyegzett – megjelentek száma
@@ -55,7 +55,7 @@ lebélyegzett = pártok lebélyegzett + nemzetiségi lebélyegzett
   * **JL = FL + IL**   
   szavazók száma = listás megjelentek + listás borítékok
 
-* számlálásra nem kijelölt szavazókörzetnél
+* számlálásra ki nem jelölt szavazókörzetnél
 
   * **FL = FP + FN**  
   megjelentek = pártok megjelentek + nemzetiségi megjelentek
